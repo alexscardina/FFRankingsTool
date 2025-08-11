@@ -1,0 +1,40 @@
+.modal {
+  background-color: rgb(213, 218, 230);
+}
+
+.selected-rank {
+  font-weight: bold;
+  font-size: 3rem;
+  color: #6b7280;
+  text-align: center;
+  align-items: center;
+  margin-left: 1rem;
+  margin-top: 25px;
+}
+
+.selected-header {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.modal-section-header {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.modal-section {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  width: 95%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.modal-team-logo {
+  width: 65px;
+  height: 65px;
+  margin-left: 15px;
+  vertical-align: text-top;
+}

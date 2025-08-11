@@ -1,0 +1,112 @@
+.player-card {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #e5e7eb;
+  background-color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.player-card:hover {
+  background-color: #f9fafb;
+}
+
+.player-rank {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #6b7280;
+  width: 50px;
+  text-align: center;
+}
+
+.player-headshot {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 1rem;
+}
+
+.player-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.player-name {
+  margin-top: 9px;
+  font-weight: 700;
+  color: #111827;
+}
+
+.player-meta {
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.player-stats {
+  text-align: left;
+  min-width: 100px;
+  font-size: 0.9rem;
+  color: #6b7280;
+  padding-right: 2rem;
+}
+
+.stats-difference,
+.stats-difference-neg,
+.stats-difference-pos {
+  text-align: center;
+  min-width: 35px;
+  font-size: 1rem;
+  color: #000000;
+  margin-right: 0.25rem;
+  border-radius: 2px;
+}
+
+.stats-difference {
+  background-color: rgb(179, 179, 179);
+}
+
+.stats-difference-neg {
+  background-color: rgb(187, 149, 149);
+}
+
+.stats-difference-pos {
+  background-color: rgb(137, 161, 117);
+}
+
+.platform-stats {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+
+.player-source,
+.player-adp {
+  margin-bottom: 2px;
+}
+
+.team-logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+  vertical-align: text-bottom;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+/* Responsive: stack vertically on smaller screens */
+@media (max-width: 600px) {
+  .player-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .player-rank {
+    text-align: left;
+  }
+}
