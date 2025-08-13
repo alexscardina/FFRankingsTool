@@ -4,7 +4,7 @@ const addPositionRanks = require('./utilities/addPositionRanks');
 const fixBadNames = require('./utilities/fixBadNames');
 
 const playersFile = './raw-players.json';
-const nfcCsv = './rankings/nfc-matrix.csv';
+const nfcCsv = './rankings/nfc-rankings.csv';
 
 const players = JSON.parse(fs.readFileSync(playersFile, 'utf-8'));
 
@@ -21,9 +21,9 @@ let badPositionCount = 0;
 fs.createReadStream(nfcCsv)
   .pipe(csv())
   .on('data', (row) => {
-    const tempName = row['Player'];
-    const overallRank = parseInt(row['Rank'], 10);
-    const position = row['Pos'];
+    const tempName = row['Player Name'];
+    const overallRank = parseInt(row['NFC Rank'], 10);
+    const position = row['Position'];
     const matchPositions = ['QB', 'RB', 'WR', 'TE'];
     const isNotKorDST = matchPositions.includes(position);
     if (!isNotKorDST) badPositionCount += 1;

@@ -106,7 +106,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 6,
+        "overall": 5,
         "position": 3
       },
       "espn": {
@@ -139,7 +139,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 5,
+        "overall": 6,
         "position": 3
       },
       "espn": {
@@ -205,7 +205,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 7,
+        "overall": 8,
         "position": 4
       },
       "espn": {
@@ -238,8 +238,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 13,
-        "position": 7
+        "overall": 16,
+        "position": 9
       },
       "espn": {
         "overall": 8,
@@ -271,8 +271,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 14,
-        "position": 8
+        "overall": 13,
+        "position": 7
       },
       "espn": {
         "overall": 13,
@@ -304,7 +304,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 11,
+        "overall": 12,
         "position": 6
       },
       "espn": {
@@ -337,8 +337,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 9,
-        "position": 5
+        "overall": 7,
+        "position": 4
       },
       "espn": {
         "overall": 7,
@@ -370,8 +370,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 8,
-        "position": 4
+        "overall": 10,
+        "position": 5
       },
       "espn": {
         "overall": 11,
@@ -403,8 +403,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 16,
-        "position": 7
+        "overall": 14,
+        "position": 6
       },
       "espn": {
         "overall": 19,
@@ -436,7 +436,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 10,
+        "overall": 9,
         "position": 5
       },
       "espn": {
@@ -462,39 +462,6 @@
     }
   },
   {
-    "id": "miarbde'vonachane",
-    "name": "De'Von Achane",
-    "team": "MIA",
-    "position": "RB",
-    "bye": "12",
-    "rankings": {
-      "nfc": {
-        "overall": 12,
-        "position": 6
-      },
-      "espn": {
-        "overall": 12,
-        "position": 6
-      },
-      "fantasypros": {
-        "overall": 15,
-        "position": 7
-      },
-      "draftsharks": {
-        "overall": 15,
-        "position": 8
-      },
-      "yahoo": {
-        "overall": 16,
-        "position": 7
-      },
-      "sleeper": {
-        "overall": 15,
-        "position": 7
-      }
-    }
-  },
-  {
     "id": "atlwrdrakelondon",
     "name": "Drake London",
     "team": "ATL",
@@ -503,7 +470,7 @@
     "rankings": {
       "nfc": {
         "overall": 15,
-        "position": 9
+        "position": 8
       },
       "espn": {
         "overall": 16,
@@ -535,7 +502,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 17,
+        "overall": 18,
         "position": 10
       },
       "espn": {
@@ -568,7 +535,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 20,
+        "overall": 22,
         "position": 1
       },
       "espn": {
@@ -601,8 +568,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 22,
-        "position": 10
+        "overall": 21,
+        "position": 9
       },
       "espn": {
         "overall": 17,
@@ -634,8 +601,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 24,
-        "position": 11
+        "overall": 23,
+        "position": 10
       },
       "espn": {
         "overall": 18,
@@ -667,8 +634,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 21,
-        "position": 9
+        "overall": 19,
+        "position": 8
       },
       "espn": {
         "overall": 22,
@@ -700,7 +667,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 26,
+        "overall": 28,
         "position": 2
       },
       "espn": {
@@ -733,7 +700,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 18,
+        "overall": 20,
         "position": 11
       },
       "espn": {
@@ -766,8 +733,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 19,
-        "position": 8
+        "overall": 17,
+        "position": 7
       },
       "espn": {
         "overall": 32,
@@ -799,8 +766,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 33,
-        "position": 13
+        "overall": 25,
+        "position": 11
       },
       "espn": {
         "overall": 23,
@@ -865,7 +832,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 30,
+        "overall": 26,
         "position": 1
       },
       "espn": {
@@ -899,7 +866,7 @@
     "rankings": {
       "nfc": {
         "overall": 27,
-        "position": 14
+        "position": 13
       },
       "espn": {
         "overall": 34,
@@ -931,8 +898,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 28,
-        "position": 15
+        "overall": 29,
+        "position": 14
       },
       "espn": {
         "overall": 24,
@@ -964,8 +931,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 25,
-        "position": 13
+        "overall": 30,
+        "position": 15
       },
       "espn": {
         "overall": 25,
@@ -997,7 +964,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 23,
+        "overall": 24,
         "position": 12
       },
       "espn": {
@@ -1063,7 +1030,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 35,
+        "overall": 34,
         "position": 17
       },
       "espn": {
@@ -1130,7 +1097,7 @@
     "rankings": {
       "nfc": {
         "overall": 37,
-        "position": 19
+        "position": 18
       },
       "espn": {
         "overall": 45,
@@ -1162,8 +1129,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 34,
-        "position": 14
+        "overall": 35,
+        "position": 13
       },
       "espn": {
         "overall": 44,
@@ -1195,7 +1162,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 52,
+        "overall": 54,
         "position": 5
       },
       "espn": {
@@ -1228,7 +1195,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 40,
+        "overall": 44,
         "position": 15
       },
       "espn": {
@@ -1261,8 +1228,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 41,
-        "position": 16
+        "overall": 40,
+        "position": 14
       },
       "espn": {
         "overall": 37,
@@ -1294,7 +1261,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 31,
+        "overall": 33,
         "position": 16
       },
       "espn": {
@@ -1327,7 +1294,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 47,
+        "overall": 48,
         "position": 24
       },
       "espn": {
@@ -1360,7 +1327,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 51,
+        "overall": 53,
         "position": 17
       },
       "espn": {
@@ -1393,7 +1360,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 29,
+        "overall": 31,
         "position": 12
       },
       "espn": {
@@ -1426,8 +1393,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 39,
-        "position": 20
+        "overall": 41,
+        "position": 21
       },
       "espn": {
         "overall": 48,
@@ -1459,7 +1426,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 53,
+        "overall": 55,
         "position": 18
       },
       "espn": {
@@ -1492,7 +1459,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 38,
+        "overall": 36,
         "position": 3
       },
       "espn": {
@@ -1526,7 +1493,7 @@
     "rankings": {
       "nfc": {
         "overall": 42,
-        "position": 21
+        "position": 22
       },
       "espn": {
         "overall": 47,
@@ -1559,7 +1526,7 @@
     "rankings": {
       "nfc": {
         "overall": 59,
-        "position": 20
+        "position": 19
       },
       "espn": {
         "overall": 43,
@@ -1591,8 +1558,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 44,
-        "position": 22
+        "overall": 47,
+        "position": 23
       },
       "espn": {
         "overall": 54,
@@ -1624,7 +1591,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 55,
+        "overall": 56,
         "position": 29
       },
       "espn": {
@@ -1657,8 +1624,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 48,
-        "position": 25
+        "overall": 50,
+        "position": 26
       },
       "espn": {
         "overall": 59,
@@ -1724,7 +1691,7 @@
     "rankings": {
       "nfc": {
         "overall": 66,
-        "position": 23
+        "position": 22
       },
       "espn": {
         "overall": 70,
@@ -1756,8 +1723,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 45,
-        "position": 23
+        "overall": 52,
+        "position": 28
       },
       "espn": {
         "overall": 49,
@@ -1789,8 +1756,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 36,
-        "position": 18
+        "overall": 39,
+        "position": 20
       },
       "espn": {
         "overall": 50,
@@ -1855,8 +1822,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 63,
-        "position": 22
+        "overall": 65,
+        "position": 21
       },
       "espn": {
         "overall": 52,
@@ -1888,8 +1855,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 49,
-        "position": 26
+        "overall": 38,
+        "position": 19
       },
       "espn": {
         "overall": 65,
@@ -1921,8 +1888,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 56,
-        "position": 19
+        "overall": 45,
+        "position": 16
       },
       "espn": {
         "overall": 67,
@@ -1954,8 +1921,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 50,
-        "position": 27
+        "overall": 49,
+        "position": 25
       },
       "espn": {
         "overall": 60,
@@ -1987,7 +1954,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 68,
+        "overall": 69,
         "position": 4
       },
       "espn": {
@@ -2020,8 +1987,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 54,
-        "position": 28
+        "overall": 51,
+        "position": 27
       },
       "espn": {
         "overall": 55,
@@ -2053,7 +2020,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 75,
+        "overall": 76,
         "position": 6
       },
       "espn": {
@@ -2086,8 +2053,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 78,
-        "position": 27
+        "overall": 77,
+        "position": 26
       },
       "espn": {
         "overall": 68,
@@ -2119,8 +2086,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 73,
-        "position": 25
+        "overall": 71,
+        "position": 23
       },
       "espn": {
         "overall": 81,
@@ -2152,8 +2119,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 76,
-        "position": 26
+        "overall": 74,
+        "position": 25
       },
       "espn": {
         "overall": 80,
@@ -2185,8 +2152,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 62,
-        "position": 21
+        "overall": 60,
+        "position": 20
       },
       "espn": {
         "overall": 72,
@@ -2218,8 +2185,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 64,
-        "position": 34
+        "overall": 68,
+        "position": 37
       },
       "espn": {
         "overall": 75,
@@ -2251,8 +2218,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 69,
-        "position": 37
+        "overall": 64,
+        "position": 35
       },
       "espn": {
         "overall": 66,
@@ -2285,7 +2252,7 @@
     "rankings": {
       "nfc": {
         "overall": 83,
-        "position": 6
+        "position": 5
       },
       "espn": {
         "overall": 69,
@@ -2317,7 +2284,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 71,
+        "overall": 73,
         "position": 24
       },
       "espn": {
@@ -2350,8 +2317,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 88,
-        "position": 29
+        "overall": 86,
+        "position": 28
       },
       "espn": {
         "overall": 51,
@@ -2383,7 +2350,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 94,
+        "overall": 89,
         "position": 7
       },
       "espn": {
@@ -2416,7 +2383,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 61,
+        "overall": 62,
         "position": 33
       },
       "espn": {
@@ -2449,8 +2416,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 84,
-        "position": 28
+        "overall": 87,
+        "position": 29
       },
       "espn": {
         "overall": 91,
@@ -2482,8 +2449,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 60,
-        "position": 32
+        "overall": 63,
+        "position": 34
       },
       "espn": {
         "overall": 64,
@@ -2515,7 +2482,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 102,
+        "overall": 104,
         "position": 9
       },
       "espn": {
@@ -2548,7 +2515,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 124,
+        "overall": 128,
         "position": 11
       },
       "espn": {
@@ -2581,7 +2548,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 87,
+        "overall": 90,
         "position": 7
       },
       "espn": {
@@ -2614,8 +2581,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 82,
-        "position": 5
+        "overall": 85,
+        "position": 6
       },
       "espn": {
         "overall": 83,
@@ -2647,8 +2614,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 91,
-        "position": 31
+        "overall": 82,
+        "position": 27
       },
       "espn": {
         "overall": 82,
@@ -2680,8 +2647,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 70,
-        "position": 38
+        "overall": 72,
+        "position": 39
       },
       "espn": {
         "overall": 74,
@@ -2713,8 +2680,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 72,
-        "position": 39
+        "overall": 70,
+        "position": 38
       },
       "espn": {
         "overall": 77,
@@ -2746,7 +2713,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 93,
+        "overall": 95,
         "position": 32
       },
       "espn": {
@@ -2779,8 +2746,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 79,
-        "position": 42
+        "overall": 81,
+        "position": 44
       },
       "espn": {
         "overall": 73,
@@ -2812,7 +2779,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 96,
+        "overall": 100,
         "position": 8
       },
       "espn": {
@@ -2845,7 +2812,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 77,
+        "overall": 78,
         "position": 41
       },
       "espn": {
@@ -2878,8 +2845,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 132,
-        "position": 13
+        "overall": 139,
+        "position": 14
       },
       "espn": {
         "overall": 106,
@@ -2911,8 +2878,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 105,
-        "position": 9
+        "overall": 107,
+        "position": 10
       },
       "espn": {
         "overall": 84,
@@ -2944,7 +2911,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 101,
+        "overall": 103,
         "position": 8
       },
       "espn": {
@@ -2977,8 +2944,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 80,
-        "position": 43
+        "overall": 79,
+        "position": 42
       },
       "espn": {
         "overall": 97,
@@ -3010,7 +2977,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 130,
+        "overall": 134,
         "position": 12
       },
       "espn": {
@@ -3076,7 +3043,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 74,
+        "overall": 75,
         "position": 40
       },
       "espn": {
@@ -3109,8 +3076,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 85,
-        "position": 45
+        "overall": 93,
+        "position": 47
       },
       "espn": {
         "overall": 102,
@@ -3142,8 +3109,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 95,
-        "position": 33
+        "overall": 88,
+        "position": 30
       },
       "espn": {
         "overall": 115,
@@ -3175,7 +3142,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 144,
+        "overall": 148,
         "position": 16
       },
       "espn": {
@@ -3208,8 +3175,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 90,
-        "position": 30
+        "overall": 92,
+        "position": 31
       },
       "espn": {
         "overall": 120,
@@ -3241,7 +3208,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 92,
+        "overall": 94,
         "position": 48
       },
       "espn": {
@@ -3274,8 +3241,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 134,
-        "position": 14
+        "overall": 141,
+        "position": 15
       },
       "espn": {
         "overall": 104,
@@ -3307,8 +3274,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 127,
-        "position": 12
+        "overall": 120,
+        "position": 11
       },
       "espn": {
         "overall": 113,
@@ -3340,8 +3307,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 86,
-        "position": 46
+        "overall": 84,
+        "position": 45
       },
       "espn": {
         "overall": 109,
@@ -3373,7 +3340,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 121,
+        "overall": 125,
         "position": 10
       },
       "espn": {
@@ -3406,8 +3373,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 104,
-        "position": 36
+        "overall": 105,
+        "position": 35
       },
       "espn": {
         "overall": 92,
@@ -3439,8 +3406,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 140,
-        "position": 15
+        "overall": 137,
+        "position": 13
       },
       "espn": {
         "overall": 121,
@@ -3472,8 +3439,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 110,
-        "position": 39
+        "overall": 109,
+        "position": 37
       },
       "espn": {
         "overall": 93,
@@ -3505,7 +3472,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 154,
+        "overall": 149,
         "position": 17
       },
       "espn": {
@@ -3538,8 +3505,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 100,
-        "position": 35
+        "overall": 101,
+        "position": 34
       },
       "espn": {
         "overall": 133,
@@ -3571,8 +3538,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 99,
-        "position": 50
+        "overall": 96,
+        "position": 49
       },
       "espn": {
         "overall": 101,
@@ -3604,8 +3571,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 108,
-        "position": 37
+        "overall": 118,
+        "position": 43
       },
       "espn": {
         "overall": 116,
@@ -3637,8 +3604,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 89,
-        "position": 47
+        "overall": 91,
+        "position": 46
       },
       "espn": {
         "overall": 76,
@@ -3670,8 +3637,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 129,
-        "position": 48
+        "overall": 132,
+        "position": 47
       },
       "espn": {
         "overall": 135,
@@ -3703,8 +3670,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 112,
-        "position": 40
+        "overall": 117,
+        "position": 42
       },
       "espn": {
         "overall": 117,
@@ -3736,8 +3703,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 98,
-        "position": 34
+        "overall": 97,
+        "position": 33
       },
       "espn": {
         "overall": 95,
@@ -3769,8 +3736,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 65,
-        "position": 35
+        "overall": 61,
+        "position": 32
       },
       "espn": {
         "overall": 112,
@@ -3802,8 +3769,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 109,
-        "position": 38
+        "overall": 106,
+        "position": 36
       },
       "espn": {
         "overall": 94,
@@ -3835,8 +3802,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 126,
-        "position": 11
+        "overall": 125,
+        "position": 12
       },
       "espn": {
         "overall": 127,
@@ -3868,7 +3835,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 161,
+        "overall": 162,
         "position": 20
       },
       "espn": {
@@ -3901,8 +3868,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 106,
-        "position": 10
+        "overall": 102,
+        "position": 9
       },
       "espn": {
         "overall": 129,
@@ -3934,7 +3901,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 135,
+        "overall": 140,
         "position": 14
       },
       "espn": {
@@ -3967,8 +3934,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 128,
-        "position": 47
+        "overall": 133,
+        "position": 48
       },
       "espn": {
         "overall": 119,
@@ -4000,7 +3967,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 113,
+        "overall": 115,
         "position": 54
       },
       "espn": {
@@ -4033,8 +4000,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 159,
-        "position": 19
+        "overall": 156,
+        "position": 18
       },
       "espn": {
         "overall": 145,
@@ -4066,7 +4033,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 111,
+        "overall": 113,
         "position": 53
       },
       "espn": {
@@ -4099,7 +4066,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 156,
+        "overall": 155,
         "position": 16
       },
       "espn": {
@@ -4132,8 +4099,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 123,
-        "position": 45
+        "overall": 126,
+        "position": 46
       },
       "espn": {
         "overall": 131,
@@ -4165,8 +4132,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 81,
-        "position": 44
+        "overall": 80,
+        "position": 43
       },
       "espn": {
         "overall": 78,
@@ -4198,8 +4165,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 97,
-        "position": 49
+        "overall": 99,
+        "position": 51
       },
       "espn": {
         "overall": 100,
@@ -4231,7 +4198,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 119,
+        "overall": 121,
         "position": 56
       },
       "espn": {
@@ -4264,8 +4231,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 157,
-        "position": 18
+        "overall": 159,
+        "position": 19
       },
       "espn": {
         "overall": 124,
@@ -4297,8 +4264,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 117,
-        "position": 43
+        "overall": 116,
+        "position": 41
       },
       "espn": {
         "overall": 151,
@@ -4330,7 +4297,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 107,
+        "overall": 108,
         "position": 52
       },
       "espn": {
@@ -4396,8 +4363,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 149,
-        "position": 55
+        "overall": 152,
+        "position": 54
       },
       "espn": {
         "overall": 114,
@@ -4430,7 +4397,7 @@
     "rankings": {
       "nfc": {
         "overall": 193,
-        "position": 25
+        "position": 24
       },
       "espn": {
         "overall": 143,
@@ -4495,8 +4462,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 146,
-        "position": 54
+        "overall": 147,
+        "position": 53
       },
       "espn": {
         "overall": 134,
@@ -4529,7 +4496,7 @@
     "rankings": {
       "nfc": {
         "overall": 145,
-        "position": 53
+        "position": 51
       },
       "espn": {
         "overall": 118,
@@ -4561,7 +4528,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 137,
+        "overall": 127,
         "position": 58
       },
       "espn": {
@@ -4587,39 +4554,6 @@
     }
   },
   {
-    "id": "chiwrlutherburdeniii",
-    "name": "Luther Burden III",
-    "team": "CHI",
-    "position": "WR",
-    "bye": "5",
-    "rankings": {
-      "nfc": {
-        "overall": 114,
-        "position": 55
-      },
-      "espn": {
-        "overall": 157,
-        "position": 64
-      },
-      "fantasypros": {
-        "overall": 140,
-        "position": 56
-      },
-      "draftsharks": {
-        "overall": 153,
-        "position": 61
-      },
-      "yahoo": {
-        "overall": 157,
-        "position": 59
-      },
-      "sleeper": {
-        "overall": 134,
-        "position": 55
-      }
-    }
-  },
-  {
     "id": "arirbtreybenson",
     "name": "Trey Benson",
     "team": "ARI",
@@ -4627,8 +4561,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 116,
-        "position": 42
+        "overall": 110,
+        "position": 38
       },
       "espn": {
         "overall": 130,
@@ -4660,8 +4594,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 115,
-        "position": 41
+        "overall": 112,
+        "position": 39
       },
       "espn": {
         "overall": 161,
@@ -4693,7 +4627,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 171,
+        "overall": 170,
         "position": 18
       },
       "espn": {
@@ -4726,8 +4660,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 136,
-        "position": 49
+        "overall": 124,
+        "position": 45
       },
       "espn": {
         "overall": 148,
@@ -4759,7 +4693,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 162,
+        "overall": 168,
         "position": 17
       },
       "espn": {
@@ -4792,8 +4726,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 201,
-        "position": 26
+        "overall": 222,
+        "position": 27
       },
       "espn": {
         "overall": 144,
@@ -4825,7 +4759,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 139,
+        "overall": 143,
         "position": 59
       },
       "espn": {
@@ -4891,7 +4825,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 118,
+        "overall": 123,
         "position": 44
       },
       "espn": {
@@ -4924,7 +4858,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 182,
+        "overall": 181,
         "position": 22
       },
       "espn": {
@@ -4957,7 +4891,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 120,
+        "overall": 122,
         "position": 57
       },
       "espn": {
@@ -4990,8 +4924,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 163,
-        "position": 57
+        "overall": 159,
+        "position": 56
       },
       "espn": {
         "overall": 222,
@@ -5023,7 +4957,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 176,
+        "overall": 173,
         "position": 19
       },
       "espn": {
@@ -5056,8 +4990,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 166,
-        "position": 69
+        "overall": 163,
+        "position": 65
       },
       "espn": {
         "overall": 194,
@@ -5089,8 +5023,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 138,
-        "position": 50
+        "overall": 152,
+        "position": 55
       },
       "espn": {
         "overall": 213,
@@ -5122,8 +5056,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 125,
-        "position": 46
+        "overall": 114,
+        "position": 40
       },
       "espn": {
         "overall": 132,
@@ -5155,8 +5089,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 143,
-        "position": 52
+        "overall": 135,
+        "position": 49
       },
       "espn": {
         "overall": 146,
@@ -5188,8 +5122,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 165,
-        "position": 68
+        "overall": 164,
+        "position": 66
       },
       "espn": {
         "overall": 136,
@@ -5221,8 +5155,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 103,
-        "position": 51
+        "overall": 98,
+        "position": 50
       },
       "espn": {
         "overall": 111,
@@ -5254,8 +5188,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 141,
-        "position": 51
+        "overall": 136,
+        "position": 50
       },
       "espn": {
         "overall": 147,
@@ -5287,8 +5221,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 164,
-        "position": 58
+        "overall": 174,
+        "position": 61
       },
       "espn": {
         "overall": 160,
@@ -5320,8 +5254,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 147,
-        "position": 60
+        "overall": 151,
+        "position": 61
       },
       "espn": {
         "overall": 155,
@@ -5353,8 +5287,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 207,
-        "position": 28
+        "overall": 214,
+        "position": 26
       },
       "espn": {
         "overall": 219,
@@ -5386,8 +5320,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 155,
-        "position": 66
+        "overall": 154,
+        "position": 62
       },
       "espn": {
         "overall": 158,
@@ -5419,7 +5353,7 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 151,
+        "overall": 156,
         "position": 63
       },
       "espn": {
@@ -5452,8 +5386,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 153,
-        "position": 65
+        "overall": 158,
+        "position": 64
       },
       "espn": {
         "overall": 153,
@@ -5485,8 +5419,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 148,
-        "position": 61
+        "overall": 144,
+        "position": 60
       },
       "espn": {
         "overall": 201,
@@ -5518,7 +5452,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 158,
+        "overall": 166,
         "position": 67
       },
       "espn": {
@@ -5551,7 +5485,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 178,
+        "overall": 177,
         "position": 20
       },
       "espn": {
@@ -5584,7 +5518,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 179,
+        "overall": 177,
         "position": 21
       },
       "espn": {
@@ -5617,8 +5551,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 205,
-        "position": 27
+        "overall": 231,
+        "position": 28
       },
       "espn": {
         "overall": 267,
@@ -5650,7 +5584,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 185,
+        "overall": 191,
         "position": 23
       },
       "espn": {
@@ -5683,7 +5617,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 169,
+        "overall": 171,
         "position": 60
       },
       "espn": {
@@ -5709,39 +5643,6 @@
     }
   },
   {
-    "id": "bufwrjoshuapalmer",
-    "name": "Joshua Palmer",
-    "team": "BUF",
-    "position": "WR",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
-        "overall": 152,
-        "position": 64
-      },
-      "espn": {
-        "overall": 203,
-        "position": 73
-      },
-      "fantasypros": {
-        "overall": 178,
-        "position": 70
-      },
-      "draftsharks": {
-        "overall": 154,
-        "position": 62
-      },
-      "yahoo": {
-        "overall": 163,
-        "position": 62
-      },
-      "sleeper": {
-        "overall": 185,
-        "position": 66
-      }
-    }
-  },
-  {
     "id": "balwrdeandrehopkins",
     "name": "DeAndre Hopkins",
     "team": "BAL",
@@ -5749,8 +5650,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 183,
-        "position": 72
+        "overall": 193,
+        "position": 71
       },
       "espn": {
         "overall": 209,
@@ -5782,8 +5683,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 180,
-        "position": 65
+        "overall": 186,
+        "position": 66
       },
       "espn": {
         "overall": 150,
@@ -5815,8 +5716,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 196,
-        "position": 25
+        "overall": 205,
+        "position": 23
       },
       "espn": {
         "overall": 258,
@@ -5848,8 +5749,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 195,
-        "position": 24
+        "overall": 199,
+        "position": 22
       },
       "espn": {
         "overall": 165,
@@ -5881,8 +5782,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 150,
-        "position": 62
+        "overall": 119,
+        "position": 55
       },
       "espn": {
         "overall": 107,
@@ -5914,8 +5815,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 192,
-        "position": 74
+        "overall": 202,
+        "position": 72
       },
       "espn": {
         "overall": 261,
@@ -5947,7 +5848,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 211,
+        "overall": 230,
         "position": 27
       },
       "espn": {
@@ -5980,8 +5881,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 200,
-        "position": 26
+        "overall": 209,
+        "position": 24
       },
       "espn": {
         "overall": 207,
@@ -6006,72 +5907,6 @@
     }
   },
   {
-    "id": "lvwrjackbech",
-    "name": "Jack Bech",
-    "team": "LV",
-    "position": "WR",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 174,
-        "position": 70
-      },
-      "espn": {
-        "overall": 152,
-        "position": 59
-      },
-      "fantasypros": {
-        "overall": 191,
-        "position": 74
-      },
-      "draftsharks": {
-        "overall": 185,
-        "position": 73
-      },
-      "yahoo": {
-        "overall": 207,
-        "position": 75
-      },
-      "sleeper": {
-        "overall": 149,
-        "position": 61
-      }
-    }
-  },
-  {
-    "id": "nyjtemasontaylor",
-    "name": "Mason Taylor",
-    "team": "NYJ",
-    "position": "TE",
-    "bye": "9",
-    "rankings": {
-      "nfc": {
-        "overall": 189,
-        "position": 22
-      },
-      "espn": {
-        "overall": 216,
-        "position": 25
-      },
-      "fantasypros": {
-        "overall": 196,
-        "position": 26
-      },
-      "draftsharks": {
-        "overall": 156,
-        "position": 30
-      },
-      "yahoo": {
-        "overall": 251,
-        "position": 33
-      },
-      "sleeper": {
-        "overall": 178,
-        "position": 22
-      }
-    }
-  },
-  {
     "id": "carwrjalencoker",
     "name": "Jalen Coker",
     "team": "CAR",
@@ -6080,7 +5915,7 @@
     "rankings": {
       "nfc": {
         "overall": 210,
-        "position": 81
+        "position": 76
       },
       "espn": {
         "overall": 272,
@@ -6112,7 +5947,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 214,
+        "overall": 247,
         "position": 29
       },
       "espn": {
@@ -6145,8 +5980,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 199,
-        "position": 76
+        "overall": 202,
+        "position": 73
       },
       "espn": {
         "overall": 163,
@@ -6178,8 +6013,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 218,
-        "position": 30
+        "overall": 270,
+        "position": 31
       },
       "espn": {
         "overall": 259,
@@ -6211,8 +6046,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 197,
-        "position": 75
+        "overall": 228,
+        "position": 81
       },
       "espn": {
         "overall": 208,
@@ -6244,7 +6079,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 175,
+        "overall": 183,
         "position": 64
       },
       "espn": {
@@ -6277,7 +6112,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 186,
+        "overall": 189,
         "position": 67
       },
       "espn": {
@@ -6303,6 +6138,39 @@
     }
   },
   {
+    "id": "chirbkylemonangai",
+    "name": "Kyle Monangai",
+    "team": "CHI",
+    "position": "RB",
+    "bye": "5",
+    "rankings": {
+      "nfc": {
+        "overall": 185,
+        "position": 65
+      },
+      "espn": {
+        "overall": 277,
+        "position": 80
+      },
+      "fantasypros": {
+        "overall": 211,
+        "position": 62
+      },
+      "draftsharks": {
+        "overall": 218,
+        "position": 67
+      },
+      "yahoo": {
+        "overall": 250,
+        "position": 73
+      },
+      "sleeper": {
+        "overall": 224,
+        "position": 66
+      }
+    }
+  },
+  {
     "id": "indqbanthonyrichardsonsr.",
     "name": "Anthony Richardson Sr.",
     "team": "IND",
@@ -6310,8 +6178,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 191,
-        "position": 24
+        "overall": 203,
+        "position": 25
       },
       "espn": {
         "overall": 220,
@@ -6343,8 +6211,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 184,
-        "position": 66
+        "overall": 195,
+        "position": 68
       },
       "espn": {
         "overall": 196,
@@ -6369,6 +6237,39 @@
     }
   },
   {
+    "id": "houwrjaylinnoel",
+    "name": "Jaylin Noel",
+    "team": "HOU",
+    "position": "WR",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 177,
+        "position": 69
+      },
+      "espn": {
+        "overall": 271,
+        "position": 92
+      },
+      "fantasypros": {
+        "overall": 216,
+        "position": 79
+      },
+      "draftsharks": {
+        "overall": 234,
+        "position": 82
+      },
+      "yahoo": {
+        "overall": 205,
+        "position": 74
+      },
+      "sleeper": {
+        "overall": 233,
+        "position": 77
+      }
+    }
+  },
+  {
     "id": "dalrbmilessanders",
     "name": "Miles Sanders",
     "team": "DAL",
@@ -6376,8 +6277,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 188,
-        "position": 68
+        "overall": 195,
+        "position": 69
       },
       "espn": {
         "overall": 225,
@@ -6409,8 +6310,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 209,
-        "position": 80
+        "overall": 219,
+        "position": 79
       },
       "espn": {
         "overall": 224,
@@ -6435,39 +6336,6 @@
     }
   },
   {
-    "id": "indrbdjgiddens",
-    "name": "DJ Giddens",
-    "team": "IND",
-    "position": "RB",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 173,
-        "position": 63
-      },
-      "espn": {
-        "overall": 226,
-        "position": 67
-      },
-      "fantasypros": {
-        "overall": 222,
-        "position": 65
-      },
-      "draftsharks": {
-        "overall": 221,
-        "position": 69
-      },
-      "yahoo": {
-        "overall": 222,
-        "position": 66
-      },
-      "sleeper": {
-        "overall": 206,
-        "position": 62
-      }
-    }
-  },
-  {
     "id": "phirbwillshipley",
     "name": "Will Shipley",
     "team": "PHI",
@@ -6475,8 +6343,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 168,
-        "position": 59
+        "overall": 167,
+        "position": 58
       },
       "espn": {
         "overall": 162,
@@ -6508,8 +6376,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 212,
-        "position": 82
+        "overall": 215,
+        "position": 78
       },
       "espn": {
         "overall": 233,
@@ -6541,8 +6409,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 194,
-        "position": 69
+        "overall": 222,
+        "position": 72
       },
       "espn": {
         "overall": 278,
@@ -6574,8 +6442,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 206,
-        "position": 71
+        "overall": 241,
+        "position": 74
       },
       "espn": {
         "overall": 243,
@@ -6600,6 +6468,72 @@
     }
   },
   {
+    "id": "carteja'tavionsanders",
+    "name": "Ja'Tavion Sanders",
+    "team": "CAR",
+    "position": "TE",
+    "bye": "14",
+    "rankings": {
+      "nfc": {
+        "overall": 227,
+        "position": 26
+      },
+      "espn": {
+        "overall": 292,
+        "position": 33
+      },
+      "fantasypros": {
+        "overall": 232,
+        "position": 28
+      },
+      "draftsharks": {
+        "overall": 173,
+        "position": 32
+      },
+      "yahoo": {
+        "overall": 221,
+        "position": 28
+      },
+      "sleeper": {
+        "overall": 240,
+        "position": 30
+      }
+    }
+  },
+  {
+    "id": "notejuwanjohnson",
+    "name": "Juwan Johnson",
+    "team": "NO",
+    "position": "TE",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 260,
+        "position": 30
+      },
+      "espn": {
+        "overall": 291,
+        "position": 32
+      },
+      "fantasypros": {
+        "overall": 234,
+        "position": 29
+      },
+      "draftsharks": {
+        "overall": 137,
+        "position": 26
+      },
+      "yahoo": {
+        "overall": 228,
+        "position": 30
+      },
+      "sleeper": {
+        "overall": 263,
+        "position": 32
+      }
+    }
+  },
+  {
     "id": "denwrpatbryant",
     "name": "Pat Bryant",
     "team": "DEN",
@@ -6607,8 +6541,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 177,
-        "position": 71
+        "overall": 169,
+        "position": 68
       },
       "espn": {
         "overall": 164,
@@ -6640,8 +6574,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 208,
-        "position": 79
+        "overall": 213,
+        "position": 77
       },
       "espn": {
         "overall": 197,
@@ -6666,39 +6600,6 @@
     }
   },
   {
-    "id": "seateelijaharroyo",
-    "name": "Elijah Arroyo",
-    "team": "SEA",
-    "position": "TE",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 190,
-        "position": 23
-      },
-      "espn": {
-        "overall": 215,
-        "position": 24
-      },
-      "fantasypros": {
-        "overall": 239,
-        "position": 30
-      },
-      "draftsharks": {
-        "overall": 168,
-        "position": 31
-      },
-      "yahoo": {
-        "overall": 243,
-        "position": 32
-      },
-      "sleeper": {
-        "overall": 220,
-        "position": 29
-      }
-    }
-  },
-  {
     "id": "larrbjarquezhunter",
     "name": "Jarquez Hunter",
     "team": "LAR",
@@ -6706,8 +6607,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 172,
-        "position": 62
+        "overall": 175,
+        "position": 63
       },
       "espn": {
         "overall": 240,
@@ -6732,6 +6633,72 @@
     }
   },
   {
+    "id": "balrbkeatonmitchell",
+    "name": "Keaton Mitchell",
+    "team": "BAL",
+    "position": "RB",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 174,
+        "position": 62
+      },
+      "espn": {
+        "overall": 265,
+        "position": 79
+      },
+      "fantasypros": {
+        "overall": 242,
+        "position": 71
+      },
+      "draftsharks": {
+        "overall": 222,
+        "position": 70
+      },
+      "yahoo": {
+        "overall": 258,
+        "position": 75
+      },
+      "sleeper": {
+        "overall": 278,
+        "position": 77
+      }
+    }
+  },
+  {
+    "id": "cinrbtahjbrooks",
+    "name": "Tahj Brooks",
+    "team": "CIN",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 162,
+        "position": 57
+      },
+      "espn": {
+        "overall": 281,
+        "position": 82
+      },
+      "fantasypros": {
+        "overall": 244,
+        "position": 72
+      },
+      "draftsharks": {
+        "overall": 213,
+        "position": 65
+      },
+      "yahoo": {
+        "overall": 246,
+        "position": 72
+      },
+      "sleeper": {
+        "overall": 228,
+        "position": 67
+      }
+    }
+  },
+  {
     "id": "kcrbbrashardsmith",
     "name": "Brashard Smith",
     "team": "KC",
@@ -6739,8 +6706,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 170,
-        "position": 61
+        "overall": 168,
+        "position": 59
       },
       "espn": {
         "overall": 282,
@@ -6772,8 +6739,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 204,
-        "position": 78
+        "overall": 238,
+        "position": 83
       },
       "espn": {
         "overall": 204,
@@ -6805,7 +6772,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 198,
+        "overall": 218,
         "position": 70
       },
       "espn": {
@@ -6831,6 +6798,138 @@
     }
   },
   {
+    "id": "kcrbelijahmitchell",
+    "name": "Elijah Mitchell",
+    "team": "KC",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 220,
+        "position": 71
+      },
+      "espn": {
+        "overall": 247,
+        "position": 75
+      },
+      "fantasypros": {
+        "overall": 252,
+        "position": 75
+      },
+      "draftsharks": {
+        "overall": 225,
+        "position": 71
+      },
+      "yahoo": {
+        "overall": 268,
+        "position": 80
+      },
+      "sleeper": {
+        "overall": 276,
+        "position": 76
+      }
+    }
+  },
+  {
+    "id": "dalwrjalentolbert",
+    "name": "Jalen Tolbert",
+    "team": "DAL",
+    "position": "WR",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 223,
+        "position": 80
+      },
+      "espn": {
+        "overall": 264,
+        "position": 91
+      },
+      "fantasypros": {
+        "overall": 256,
+        "position": 90
+      },
+      "draftsharks": {
+        "overall": 297,
+        "position": 94
+      },
+      "yahoo": {
+        "overall": 295,
+        "position": 100
+      },
+      "sleeper": {
+        "overall": 298,
+        "position": 89
+      }
+    }
+  },
+  {
+    "id": "carrbtrevoretienne",
+    "name": "Trevor Etienne",
+    "team": "CAR",
+    "position": "RB",
+    "bye": "14",
+    "rankings": {
+      "nfc": {
+        "overall": 224,
+        "position": 73
+      },
+      "espn": {
+        "overall": 239,
+        "position": 68
+      },
+      "fantasypros": {
+        "overall": 258,
+        "position": 77
+      },
+      "draftsharks": {
+        "overall": 219,
+        "position": 68
+      },
+      "yahoo": {
+        "overall": 286,
+        "position": 84
+      },
+      "sleeper": {
+        "overall": 265,
+        "position": 73
+      }
+    }
+  },
+  {
+    "id": "jacwrdyamibrown",
+    "name": "Dyami Brown",
+    "team": "JAC",
+    "position": "WR",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 204,
+        "position": 74
+      },
+      "espn": {
+        "overall": 229,
+        "position": 82
+      },
+      "fantasypros": {
+        "overall": 263,
+        "position": 91
+      },
+      "draftsharks": {
+        "overall": 205,
+        "position": 76
+      },
+      "yahoo": {
+        "overall": 238,
+        "position": 82
+      },
+      "sleeper": {
+        "overall": 241,
+        "position": 79
+      }
+    }
+  },
+  {
     "id": "wasrbjacorycroskey-merritt",
     "name": "Jacory Croskey-Merritt",
     "team": "WAS",
@@ -6838,8 +6937,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 160,
-        "position": 56
+        "overall": 145,
+        "position": 52
       },
       "espn": {
         "overall": 283,
@@ -6864,6 +6963,72 @@
     }
   },
   {
+    "id": "nygrbdevinsingletary",
+    "name": "Devin Singletary",
+    "team": "NYG",
+    "position": "RB",
+    "bye": "14",
+    "rankings": {
+      "nfc": {
+        "overall": 263,
+        "position": 75
+      },
+      "espn": {
+        "overall": 244,
+        "position": 73
+      },
+      "fantasypros": {
+        "overall": 265,
+        "position": 82
+      },
+      "draftsharks": {
+        "overall": 246,
+        "position": 79
+      },
+      "yahoo": {
+        "overall": 260,
+        "position": 76
+      },
+      "sleeper": {
+        "overall": 295,
+        "position": 78
+      }
+    }
+  },
+  {
+    "id": "nowrbrandincooks",
+    "name": "Brandin Cooks",
+    "team": "NO",
+    "position": "WR",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 260,
+        "position": 85
+      },
+      "espn": {
+        "overall": 205,
+        "position": 75
+      },
+      "fantasypros": {
+        "overall": 266,
+        "position": 92
+      },
+      "draftsharks": {
+        "overall": 274,
+        "position": 92
+      },
+      "yahoo": {
+        "overall": 322,
+        "position": 112
+      },
+      "sleeper": {
+        "overall": 297,
+        "position": 88
+      }
+    }
+  },
+  {
     "id": "fawramaricooper",
     "name": "Amari Cooper",
     "team": "FA",
@@ -6871,8 +7036,8 @@
     "bye": "-",
     "rankings": {
       "nfc": {
-        "overall": 202,
-        "position": 77
+        "overall": 207,
+        "position": 75
       },
       "espn": {
         "overall": 227,
@@ -6904,7 +7069,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 213,
+        "overall": 246,
         "position": 28
       },
       "espn": {
@@ -6937,8 +7102,8 @@
     "bye": "12",
     "rankings": {
       "nfc": {
-        "overall": 216,
-        "position": 29
+        "overall": 226,
+        "position": 25
       },
       "espn": {
         "overall": 166,
@@ -6970,8 +7135,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 187,
-        "position": 73
+        "overall": 183,
+        "position": 70
       },
       "espn": {
         "overall": 211,
@@ -6992,6 +7157,138 @@
       "sleeper": {
         "overall": 219,
         "position": 75
+      }
+    }
+  },
+  {
+    "id": "gbwrchristianwatson",
+    "name": "Christian Watson",
+    "team": "GB",
+    "position": "WR",
+    "bye": "5",
+    "rankings": {
+      "nfc": {
+        "overall": 257,
+        "position": 84
+      },
+      "espn": {
+        "overall": 234,
+        "position": 87
+      },
+      "fantasypros": {
+        "overall": 305,
+        "position": 106
+      },
+      "draftsharks": {
+        "overall": 223,
+        "position": 79
+      },
+      "yahoo": {
+        "overall": 318,
+        "position": 108
+      },
+      "sleeper": {
+        "overall": 290,
+        "position": 87
+      }
+    }
+  },
+  {
+    "id": "larwrtutuatwell",
+    "name": "Tutu Atwell",
+    "team": "LAR",
+    "position": "WR",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 230,
+        "position": 82
+      },
+      "espn": {
+        "overall": 232,
+        "position": 85
+      },
+      "fantasypros": {
+        "overall": 324,
+        "position": 111
+      },
+      "draftsharks": {
+        "overall": 241,
+        "position": 84
+      },
+      "yahoo": {
+        "overall": 323,
+        "position": 113
+      },
+      "sleeper": {
+        "overall": 283,
+        "position": 86
+      }
+    }
+  },
+  {
+    "id": "lactetylerconklin",
+    "name": "Tyler Conklin",
+    "team": "LAC",
+    "position": "TE",
+    "bye": "12",
+    "rankings": {
+      "nfc": {
+        "overall": 254,
+        "position": 29
+      },
+      "espn": {
+        "overall": 293,
+        "position": 34
+      },
+      "fantasypros": {
+        "overall": 328,
+        "position": 43
+      },
+      "draftsharks": {
+        "overall": 253,
+        "position": 34
+      },
+      "yahoo": {
+        "overall": 297,
+        "position": 39
+      },
+      "sleeper": {
+        "overall": 282,
+        "position": 33
+      }
+    }
+  },
+  {
+    "id": "larwrjordanwhittington",
+    "name": "Jordan Whittington",
+    "team": "LAR",
+    "position": "WR",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 267,
+        "position": 86
+      },
+      "espn": {
+        "overall": 284,
+        "position": 95
+      },
+      "fantasypros": {
+        "overall": 339,
+        "position": 115
+      },
+      "draftsharks": {
+        "overall": 260,
+        "position": 90
+      },
+      "yahoo": {
+        "overall": 288,
+        "position": 97
+      },
+      "sleeper": {
+        "overall": 279,
+        "position": 85
       }
     }
   }
