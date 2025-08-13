@@ -13,7 +13,7 @@ export default function App() {
   }
   return (
     <div>
-      <p className="header-text">2025 Fantasy Football Platform Rankings test</p>
+      <p className="header-text">2025 Fantasy Football Platform Rankings</p>
       <div style={{display: "flex", marginBottom: "1rem"}}>
         <p className="filter-label">Sort by rankings:</p>
         <select
