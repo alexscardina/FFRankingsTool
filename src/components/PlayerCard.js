@@ -9,6 +9,7 @@ export default function PlayerCard({ player, onClick, platform }) {
   const posRank = player.rankings[platform].position;
   const teamLogo = getTeamLogo(team);
   const headshotImgUrl = getPlayerHeadshot(name);
+  const positionString = `${position}${posRank}`;
   return (
     <div className="player-card" onClick={onClick}>
       <div className="player-rank">#{rank}</div>
@@ -17,7 +18,7 @@ export default function PlayerCard({ player, onClick, platform }) {
         <div className="player-info">
           <div className="player-name">{name}</div>
           <div className="player-meta">
-            {position} · {team} · Bye: {bye}
+            {positionString} · {team} · Bye: {bye}
           </div>
         </div>
         <img
