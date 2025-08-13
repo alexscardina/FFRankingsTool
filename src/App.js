@@ -7,6 +7,7 @@ export default function App() {
   const players = JSON.parse(JSON.stringify(data));
   const [sortBy, setSortBy] = React.useState('espn');
   const [positionFilter, setPositionFilter] = React.useState(null);
+  const [isDraftMode, setDraftMode] = React.useState(false);
   const handlePositionFilterChange = (event) => {
     const value = event.target.value;
     value === "null" ? setPositionFilter(null) : setPositionFilter(value);
