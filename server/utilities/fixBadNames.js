@@ -23,6 +23,7 @@ const fixBadNames = name => {
     case 'Calvin Austin': return 'Calvin Austin III';
     case "Dont'e Thornton": return "Dont'e Thornton Jr.";
     case "Brian Thomas": return "Brian Thomas Jr.";
+    case "Devon Achane": return "De'Von Achane";
     default: 
       break;
   }
