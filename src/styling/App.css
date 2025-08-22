@@ -1,8 +1,16 @@
-.header-text {
+.header-text,
+.header-text-red {
   font-weight: 600;
   font-size: 3rem;
   text-align: center;
+}
+
+.header-text {
   color: rgb(213, 218, 230);
+}
+
+.header-text-red {
+  color: rgb(194, 111, 105);
 }
 
 .filter-label {
@@ -67,10 +75,10 @@ h1 {
 }
 
 /* Player card */
-.player-card {
+.player-card,
+.player-card-draft {
   display: flex;
   align-items: center;
-  background: rgb(213, 218, 230);
   margin: 0.75rem 0;
   padding: 1rem;
   border-radius: 14px;
@@ -78,7 +86,16 @@ h1 {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.player-card:hover {
+.player-card {
+  background: rgb(213, 218, 230);
+}
+
+.player-card-draft {
+  background: rgb(213, 230, 214);
+}
+
+.player-card:hover,
+.player-card-draft:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }

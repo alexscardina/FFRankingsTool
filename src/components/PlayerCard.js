@@ -3,15 +3,16 @@ import { getTeamLogo, getPlayerHeadshot } from './../utilities';
 import './../styling/PlayerCard.css';
 import PlatformStats from './PlatformStats';
 
-export default function PlayerCard({ player, onClick, platform }) {
+export default function PlayerCard({ player, onClick, platform, isDraftMode }) {
   const { name, position, team, bye } = player;
   const rank = player.rankings[platform].overall;
   const posRank = player.rankings[platform].position;
   const teamLogo = getTeamLogo(team);
   const headshotImgUrl = getPlayerHeadshot(name);
   const positionString = `${position}${posRank}`;
+  const playerCardClass = isDraftMode ? 'player-card-draft' : 'player-card';
   return (
-    <div className="player-card" onClick={onClick}>
+    <div className={playerCardClass} onClick={onClick}>
       <div className="player-rank">#{rank}</div>
       <img className="player-headshot" alt={`${name} headshot`} src={headshotImgUrl}/>
       <div style={{display: "flex"}}>

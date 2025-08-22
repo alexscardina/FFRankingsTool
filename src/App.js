@@ -6,15 +6,26 @@ import './styling/App.css';
 export default function App() {
   const players = JSON.parse(JSON.stringify(data));
   const [sortBy, setSortBy] = React.useState('espn');
-  const [positionFilter, setPositionFilter] = React.useState(null);
+  const [positionFilter, setPositionFilter] = React.useState(undefined);
   const [isDraftMode, setDraftMode] = React.useState(false);
   const handlePositionFilterChange = (event) => {
     const value = event.target.value;
     value === "null" ? setPositionFilter(null) : setPositionFilter(value);
   }
+  if (isDraftMode) document.body.style.backgroundColor = '#4d6e50';
+  else document.body.style.backgroundColor = '#555d68';
+  // filters players by position if selected
+  const playersByPosition = positionFilter ? [...players].filter(p => p.position === positionFilter) : players;
+  // sorts players by chosen platform
+  const sortedPlayers = [...playersByPosition].sort((a, b) => {
+    return a.rankings[sortBy].overall - b.rankings[sortBy].overall;
+  });
   return (
     <div>
       <p className="header-text">2025 Fantasy Football Platform Rankings</p>
+      {isDraftMode && (
+        <p className="header-text-red">DRAFT MODE</p>
+      )}
       <div style={{display: "flex", marginBottom: "1rem"}}>
         <p className="filter-label">Sort by rankings:</p>
         <select
@@ -50,11 +61,19 @@ export default function App() {
             Clear
           </button>
         </div>
+        <div style={{display: "flex", marginLeft: "5rem"}}>
+          <button
+            onClick={() => setDraftMode(!isDraftMode)}
+            className="clear-button"
+          >
+            {isDraftMode ? 'Back to List' : 'DRAFT MODE'}
+          </button>
+        </div>
       </div>
       <PlayerList
-        players={players}
+        players={sortedPlayers}
         sortBy={sortBy}
-        positionFilter={positionFilter}
+        isDraftMode={isDraftMode}
       />
     </div>
   );

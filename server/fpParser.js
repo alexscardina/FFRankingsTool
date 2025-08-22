@@ -29,6 +29,8 @@ fs.createReadStream('./rankings/FantasyPros_2025_Draft_ALL_Rankings.csv')
         team,
         position,
         bye,
+        isDrafted: false,
+        isOnYourTeam: false,
         rankings: {
           nfc: { overall: null, position: null },
           espn: { overall: null, position: null },
