@@ -50,6 +50,8 @@ export default function App() {
             Clear
           </button>
         </div>
+        <div style={{display: 'flex', flexGrow: 1}} />
+        <div className="filter-label" style={{justifyContent: "flex-end"}}>Updated: Thu. Aug. 21 9:05 PM EST</div>
       </div>
       <PlayerList
         players={players}
