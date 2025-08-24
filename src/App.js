@@ -15,6 +15,8 @@ export default function App() {
   const [yourTeam, setYourTeam] = React.useState(new Set());
   const [openYourPlayers, setOpenYourPlayers] = React.useState(false);
   const isRosterFilled = yourTeam.size === 13;
+  const draftButtonClass = isDraftMode ? 'back-to-list-button' : 'draft-mode-button';
+
   const handlePositionFilterChange = (event) => {
     const value = event.target.value;
     value === "null" ? setPositionFilter(null) : setPositionFilter(value);
@@ -96,7 +98,7 @@ export default function App() {
         <div style={{display: "flex", marginLeft: "5rem"}}>
           <button
             onClick={handleDraftMode}
-            className="clear-button"
+            className={draftButtonClass}
           >
             {isDraftMode ? 'Back to List' : 'DRAFT MODE'}
           </button>
@@ -104,7 +106,7 @@ export default function App() {
           {isDraftMode && (
             <button
               onClick={() => setOpenYourPlayers(true)}
-              className="clear-button"
+              className="draft-mode-button"
             >
               View Your Team
             </button>

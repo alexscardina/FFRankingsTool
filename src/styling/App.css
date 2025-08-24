@@ -31,7 +31,9 @@
   margin-left: 0.25rem;
 }
 
-.clear-button {
+.clear-button,
+.draft-mode-button,
+.back-to-list-button {
   padding: 6px 12px;
   background-color: #bdb8b8;
   color: white;
@@ -42,6 +44,16 @@
 
 .clear-button:hover {
   background-color: #be5151;
+  transform: scale(1.05);
+}
+
+.draft-mode-button:hover {
+  background-color: #54964b;
+  transform: scale(1.05);
+}
+
+.back-to-list-button:hover {
+  background-color: #555d68;
   transform: scale(1.05);
 }
 
