@@ -4,7 +4,7 @@ import YourPlayersModal from './components/YourPlayersModal';
 import data from './data/players.json';
 import './styling/App.css';
 
-const updatedText = 'Sun. Aug. 24 5:32 PM EST';
+const updatedText = 'Sun. Aug. 24 7:04 PM EST';
 
 export default function App() {
   const players = JSON.parse(JSON.stringify(data));
