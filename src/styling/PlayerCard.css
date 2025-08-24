@@ -1,14 +1,5 @@
-.player-card {
-  display: flex;
-  align-items: center;
-  padding: 1rem;
-  border-bottom: 1px solid #e5e7eb;
-  background-color: white;
-  cursor: pointer;
-  transition: 0.2s;
-}
-
-.player-card:hover {
+.player-card:hover,
+.player-card-draft:hover {
   background-color: #f9fafb;
 }
 

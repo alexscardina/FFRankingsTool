@@ -67,7 +67,7 @@
   cursor: pointer;
   align-content: center;
   justify-content: center;
-  margin-top: 25%;
+  margin-top: 19%;
 }
 
 .their-team-button:hover {
@@ -115,7 +115,7 @@ h1 {
   display: flex;
   align-items: center;
   margin: 0.75rem 0;
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 14px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
@@ -128,6 +128,7 @@ h1 {
 
 .player-card-draft {
   background: rgb(213, 230, 214);
+  margin-bottom: -3px;
 }
 
 .player-card:hover,
