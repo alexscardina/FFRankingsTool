@@ -45,6 +45,29 @@
   transform: scale(1.05);
 }
 
+.their-team-button,
+.your-team-button {
+  padding: 6px 12px;
+  background-color: #bdb8b8;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  align-content: center;
+  justify-content: center;
+  margin-top: 25%;
+}
+
+.their-team-button:hover {
+  background-color: #be5151;
+  transform: scale(1.05);
+}
+
+.your-team-button:hover {
+  background-color: #54964b;
+  transform: scale(1.05);
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -84,6 +107,7 @@ h1 {
   border-radius: 14px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+  flex-grow: 1;
 }
 
 .player-card {
@@ -139,6 +163,103 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+}
+
+.your-player-logo {
+  width: 25px;
+  height: 25px;
+  margin-left: 0.5rem;
+  vertical-align: text-bottom;
+}
+
+.your-player {
+  padding: 0.25rem;
+  font-size: 1rem;
+}
+
+:root {
+  --rb-box-color: #30c72b;
+  --wr-box-color: #1989e6;
+  --te-box-color: #ec3fdd;
+  --qb-box-color: #e93819;
+}
+
+.qb-color {
+  color: var(--qb-box-color);
+}
+.rb-color {
+  color: var(--rb-box-color);
+}
+.wr-color {
+  color: var(--wr-box-color);
+}
+.te-color {
+  color: var(--te-box-color);
+}
+
+.qb-circle,
+.rb-circle,
+.wr-circle,
+.te-circle {
+  border-radius: 50%;
+  margin-right: 0.25rem;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+.qb-circle {
+  background-color: var(--qb-box-color);
+}
+.rb-circle {
+  background-color: var(--rb-box-color);
+}
+.wr-circle {
+  background-color: var(--wr-box-color);
+}
+.te-circle {
+  background-color: var(--te-box-color);
+}
+
+.qb-box,
+.rb-box,
+.wr-box,
+.te-box,
+.flx-box,
+.bench-box {
+  text-align: center;
+  min-width: 50px;
+  padding: 0.25rem;
+  font-size: 1rem;
+  margin-right: 0.25rem;
+  border-radius: 2px;
+  color: #ffffff
+}
+
+.qb-box {
+  background-color: var(--qb-box-color);
+}
+.rb-box {
+  background-color: var(--rb-box-color);
+}
+.wr-box {
+  background-color: var(--wr-box-color);
+}
+.te-box {
+  background-color: var(--te-box-color);
+}
+.flx-box {
+  background: linear-gradient(
+    to right,
+    var(--rb-box-color) 33.33%,
+    var(--wr-box-color) 33.33%,
+    var(--wr-box-color) 66.66%,
+    var(--te-box-color) 66.66%
+  );
+}
+.bench-box {
+  background-color: #ffffff;
+  color: #000000;
 }
 
 .platform-box {
