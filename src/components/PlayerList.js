@@ -2,17 +2,10 @@ import React from 'react';
 import PlayerCard from './PlayerCard';
 import PlayerModal from './PlayerModal';
 
-export default function PlayerList({ players, sortBy, positionFilter }) {
+export default function PlayerList({ players, sortBy, isDraftMode , onTheirTeam, onYourTeam, isRosterFilled }) {
   const [selectedPlayer, setSelectedPlayer] = React.useState(null);
   const [isModalOpen, setIsModalOpen] = React.useState(false);
-  
-  // filters players by position if selected
-  const playersByPosition = positionFilter ? [...players].filter(p => p.position === positionFilter) : players;
-  
-  // sorts players by chosen platform
-  const sortedPlayers = [...playersByPosition].sort((a, b) => {
-    return a.rankings[sortBy].overall - b.rankings[sortBy].overall;
-  });
+
   const handleClick = (id) => {
     setSelectedPlayer(id);
     setIsModalOpen(true);
@@ -21,16 +14,25 @@ export default function PlayerList({ players, sortBy, positionFilter }) {
     setSelectedPlayer(null);
     setIsModalOpen(false);
   }
+  
+  const displayStyle = isDraftMode ? 'flex' : '';
   return (
     <>
-      {sortedPlayers.map(player => (
-        <PlayerCard
-          key={player.id}
-          player={player}
-          onClick={() => handleClick(player)}
-          platform={sortBy}
-        />
-      ))}
+      {players.map(player => {
+        return (
+          <div style={{display: displayStyle}}>
+            <PlayerCard
+              key={player.id}
+              player={player}
+              onClick={() => handleClick(player)}
+              platform={sortBy}
+              isDraftMode={isDraftMode}
+              onTheirTeam={onTheirTeam}
+              onYourTeam={onYourTeam}
+              isRosterFilled={isRosterFilled}
+            />
+          </div>
+      )})}
       {selectedPlayer && (
         <PlayerModal
           isOpen={isModalOpen}

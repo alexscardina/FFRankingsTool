@@ -19,13 +19,13 @@ function PlatformStatsModal({ player, platform, rank, posRank }) {
         <div style={{display: 'flex'}}>
           Rank: {player.rankings[platform].overall}
           <div style={{display: 'flex', flexGrow: 1}} />
-          <div class={differenceClassName}>{difference}</div>
+          <div className={differenceClassName}>{difference}</div>
         </div>
         <div style={{display: 'flex', flexGrow: 1}} />
         <div style={{display: 'flex'}}>
           {`${player.position}${player.rankings[platform].position}`} 
           <div style={{display: 'flex', flexGrow: 1}} />
-          <div class={posDiffClassName}>{posDifference}</div>
+          <div className={posDiffClassName}>{posDifference}</div>
         </div>
       </div>
     </>
@@ -42,12 +42,12 @@ function PlatformStatsCard({ player, platform, rank, posRank }) {
       <div className="platform-stats">
         <div>Rank: {player.rankings[platform].overall}</div>
         <div style={{flexGrow: 1}} />
-        <div class={differenceClassName}>{difference}</div>
+        <div className={differenceClassName}>{difference}</div>
       </div>
       <div className="platform-stats">
         <div>{`${player.position}${player.rankings[platform].position}`}</div>
         <div style={{flexGrow: 1}} />
-        <div class={posDiffClassName}>{posDifference}</div>
+        <div className={posDiffClassName}>{posDifference}</div>
       </div>
     </>
   )
