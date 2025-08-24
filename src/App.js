@@ -113,7 +113,7 @@ export default function App() {
           )}
         </div>
         <div style={{display: 'flex', flexGrow: 1}} />
-        <div className="filter-label" style={{justifyContent: "flex-end"}}>Updated: {updatedText}</div>
+        <div className="filter-label" style={{justifyContent: "flex-end", marginTop: '25px'}}>Updated: {updatedText}</div>
       </div>
       <PlayerList
         players={displayedPlayers}
