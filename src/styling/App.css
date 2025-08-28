@@ -195,6 +195,8 @@ h1 {
   --wr-box-color: #1989e6;
   --te-box-color: #ec3fdd;
   --qb-box-color: #e93819;
+  --def-box-color: #694425;
+  --k-box-color: #727272;
 }
 
 .qb-color {
@@ -232,6 +234,12 @@ h1 {
 }
 .te-circle {
   background-color: var(--te-box-color);
+}
+.def-circle {
+  background-color: var(--def-box-color);
+}
+.k-circle {
+  background-color: var(--k-box-color);
 }
 
 .qb-box,

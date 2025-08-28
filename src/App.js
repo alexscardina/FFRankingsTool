@@ -4,7 +4,7 @@ import YourPlayersModal from './components/YourPlayersModal';
 import data from './data/players.json';
 import './styling/App.css';
 
-const updatedText = 'Sun. Aug. 24 7:04 PM EST';
+const updatedText = 'Wed. Aug. 27 10:16 PM EST';
 
 export default function App() {
   const players = JSON.parse(JSON.stringify(data));
@@ -14,8 +14,9 @@ export default function App() {
   const [theirTeam, setTheirTeam] = React.useState(new Set());
   const [yourTeam, setYourTeam] = React.useState(new Set());
   const [openYourPlayers, setOpenYourPlayers] = React.useState(false);
+  const [openRosterSettings, setOpenRosterSettings] = React.useState(false);
+
   const isRosterFilled = yourTeam.size === 13;
-  const draftButtonClass = isDraftMode ? 'back-to-list-button' : 'draft-mode-button';
 
   const handlePositionFilterChange = (event) => {
     const value = event.target.value;
@@ -98,7 +99,7 @@ export default function App() {
         <div style={{display: "flex", marginLeft: "5rem"}}>
           <button
             onClick={handleDraftMode}
-            className={draftButtonClass}
+            className={isDraftMode ? 'back-to-list-button' : 'draft-mode-button'}
           >
             {isDraftMode ? 'Back to List' : 'DRAFT MODE'}
           </button>

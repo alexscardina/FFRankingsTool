@@ -18,11 +18,11 @@ fs.createReadStream('./rankings/FantasyPros_2025_Draft_ALL_Rankings.csv')
     const name = fixBadNames(rawName);
     const formattedName = name.toLowerCase().replace(/\s/g, '');
     const id = `${team.toLowerCase()}${position.toLowerCase()}${formattedName}`;
-    const matchPositions = ['QB', 'RB', 'WR', 'TE'];
-    const isNotKorDST = matchPositions.includes(position);
+    const matchPositions = ['QB', 'RB', 'WR', 'TE', 'DST', 'K'];
+    const isNotIDP = matchPositions.includes(position);
     
 
-    if (isNotKorDST) {
+    if (isNotIDP) {
       results.push({
         id,
         name,

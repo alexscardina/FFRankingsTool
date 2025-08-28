@@ -24,9 +24,9 @@ fs.createReadStream(dsCsv)
     const tempName = row['Player'];
     const overallRank = parseInt(row['Rank'], 10);
     const position = row['Fantasy Position'];
-    const matchPositions = ['QB', 'RB', 'WR', 'TE'];
-    const isNotKorDST = matchPositions.includes(position);
-    if (!isNotKorDST) badPositionCount += 1;
+    const matchPositions = ['QB', 'RB', 'WR', 'TE', 'DEF', 'K'];
+    const isNotIDP = matchPositions.includes(position);
+    if (!isNotIDP) badPositionCount += 1;
     const finalRank = overallRank - badPositionCount;
 
     if (!tempName || isNaN(overallRank)) return;
