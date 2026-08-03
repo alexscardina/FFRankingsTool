@@ -6,7 +6,7 @@ const fixBadNames = require('./utilities/fixBadNames');
 const results = [];
 
 // fantasyPros
-fs.createReadStream('./rankings/FantasyPros_2025_Draft_ALL_Rankings.csv')
+fs.createReadStream('./rankings/FantasyPros_2026_Draft_ALL_Rankings.csv')
   .pipe(csv())
   .on('data', (data) => {
     const fpRank = data.RK ? parseInt(data.RK) : null;

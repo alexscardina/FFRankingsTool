@@ -4,7 +4,7 @@ const addPositionRanks = require('./utilities/addPositionRanks');
 const fixBadNames = require('./utilities/fixBadNames');
 
 const playersFile = './raw-players.json';
-const nfcCsv = './rankings/nfc-rankings.csv';
+const nfcTsv = './rankings/ADP.tsv';
 
 const players = JSON.parse(fs.readFileSync(playersFile, 'utf-8'));
 
@@ -17,13 +17,22 @@ const updatedPlayers = new Set();
 
 let badPositionCount = 0;
 
-// Now pipe into the parser
-fs.createReadStream(nfcCsv)
-  .pipe(csv())
+// ADP.tsv uses "Last, First" (e.g. "Robinson, Bijan" or "Cook III, James")
+const formatLastFirstName = (rawName) => {
+  if (!rawName || !rawName.includes(',')) return rawName;
+  const [last, first] = rawName.split(',').map((part) => part.trim());
+  return `${first} ${last}`;
+};
+
+fs.createReadStream(nfcTsv)
+  .pipe(csv({
+    separator: '\t',
+    mapHeaders: ({ header }) => header.trim(),
+  }))
   .on('data', (row) => {
-    const tempName = row['Player Name'];
-    const overallRank = parseInt(row['NFC Rank'], 10);
-    const position = row['Position'];
+    const tempName = formatLastFirstName(row['Player']);
+    const overallRank = parseInt(row['Rank'], 10);
+    const position = row['Position(s)'];
     const matchPositions = ['QB', 'RB', 'WR', 'TE'];
     const isNotKorDST = matchPositions.includes(position);
     if (!isNotKorDST) badPositionCount += 1;
@@ -42,8 +51,8 @@ fs.createReadStream(nfcCsv)
   })
   .on('end', () => {
     const playersWithPosRank = addPositionRanks(players, 'nfc');
-    const newPlayers = playersWithPosRank.filter(x => x.rankings.nfc.overall);
+    // const newPlayers = playersWithPosRank.filter(x => x.rankings.nfc.overall);
+    const newPlayers = playersWithPosRank;
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
     console.log(`✅ Rotowire NFC ranks added for ${updatedPlayers.size} players`);
   });
-

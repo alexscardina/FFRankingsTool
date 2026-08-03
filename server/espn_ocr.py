@@ -2,7 +2,7 @@ from pdf2image import convert_from_path
 import pytesseract
 
 # Path to your PDF
-pdf_path = './rankings/NFL25_CS_PPR300.pdf'
+pdf_path = './rankings/NFL26_CS_PPR300.pdf'
 
 # Output text file path
 output_path = 'raw_espn_rankings.txt'

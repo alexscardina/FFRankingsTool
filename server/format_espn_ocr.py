@@ -10,6 +10,8 @@ def fix_bad_espn_names(name):
     if name == 'Hollywood Brown': return 'Marquise Brown'
     if name == 'Anthony Richardson': return 'Anthony Richardson Sr.'
     if name == 'Chigoziem Okonkwo': return 'Chig Okonkwo'
+    if name == 'Oronde Gadsden': return 'Oronde Gadsden II'
+    if name == 'Kyle Pitts Sr.': return 'Kyle Pitts'
     return name
 
 with open('raw_espn_rankings.txt', 'r') as file:
@@ -18,8 +20,11 @@ with open('raw_espn_rankings.txt', 'r') as file:
 # Fix spacing like "11.(RB5)" ➜ "11. (RB5)"
 text = re.sub(r'(\d+)\.\(', r'\1. (', text)
 
+# OCR often confuses 9→Q and 0→O in position ranks, e.g. "(WRQ)" ➜ "(WR9)"
+text = re.sub(r'\((\w{2,3})([QO\d]+)\)', lambda m: f"({m.group(1)}{m.group(2).replace('Q', '9').replace('O', '0')})", text)
+
 # Regex: match player rows with optional junk characters before names
-pattern = r'(\d+)\.\s*\((\w{2,3})\d+\)[\s—\-=_|~‘’\'"·\xa0+]*([A-Z][a-zA-Z\.\'\- ]+?),\s+([A-Z]{2,3})'
+pattern = r'(\d+)\.\s*\((\w{2,3})\d+\)[\s—\-=_|~‘’\'"·\xa0+©]*([A-Z][a-zA-Z\.\'\- ]+?),\s+([A-Z]{2,3})'
 
 matches = re.findall(pattern, text)
 print(f"⏳ Formatting ESPN OCR text...")

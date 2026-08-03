@@ -1,18 +1,12 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 const addPositionRanks = require('./utilities/addPositionRanks');
+const fixBadNames = require('./utilities/fixBadNames');
 
 const playersFile = './raw-players.json';
-const yahooCsv = './rankings/FantasyPros-consensus-rankings.csv';
+const yahooCsv = './rankings/player_adps_yahoo.csv';
 
 const players = JSON.parse(fs.readFileSync(playersFile, 'utf-8'));
-
-const raw = fs.readFileSync(yahooCsv, 'utf-8');
-// Only keep lines after the 2nd newline (skips header text)
-const lines = raw.split('\n').slice(4).join('\n');
-
-// Write to a temp file to parse cleanly
-fs.writeFileSync('temp_yahoo.csv', lines);
 
 const nameToPlayerMap = new Map();
 for (const player of players) {
@@ -21,15 +15,20 @@ for (const player of players) {
 const updatedPlayers = new Set();
 
 // Now pipe into the parser
-fs.createReadStream('temp_yahoo.csv')
-  .pipe(csv())
+fs.createReadStream(yahooCsv)
+  .pipe(csv({
+    mapHeaders: ({ header }) => header.trim()
+  }))
   .on('data', (row) => {
-    const rawName = row['Player Name'];
-    const overallRank = parseInt(row['Rank'], 10);
+    const tempName = row['Player Name'];
+    const adp = row['Yahoo: Redraft 0.5 PPR ADP'];
+    const [roundStr, pickStr] = adp.split('.');
+    const round = Number(roundStr);
+    const pick = Number(pickStr);
+    const overallRank = pick + ((round - 1) * 12);
 
-    const name = rawName.startsWith('Kyle Pitts') ? 'Kyle Pitts' : rawName;
-    if (!name || isNaN(overallRank)) return;
-    
+    if (!tempName || isNaN(overallRank)) return;
+    const name = fixBadNames(tempName);
 
     const player = nameToPlayerMap.get(name);
     if (player) {
