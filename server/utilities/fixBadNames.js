@@ -24,6 +24,8 @@ const fixBadNames = name => {
     case "Dont'e Thornton": return "Dont'e Thornton Jr.";
     case "Brian Thomas": return "Brian Thomas Jr.";
     case "Devon Achane": return "De'Von Achane";
+    case "Oronde Gadsden": return "Oronde Gadsden II";
+    case "James Cook": return "James Cook III";
     default: 
       break;
   }
