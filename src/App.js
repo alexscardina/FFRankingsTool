@@ -1,10 +1,11 @@
 import React from 'react';
 import PlayerList from './components/PlayerList';
 import YourPlayersModal from './components/YourPlayersModal';
+import DraftBoardModal from './components/DraftBoardModal';
 import data from './data/players.json';
-import './styling/App.css';
+import updatedText from './data/lastUpdated';
 
-const updatedText = 'Wed. Aug. 27 10:16 PM EST';
+import './styling/App.css';
 
 export default function App() {
   const players = JSON.parse(JSON.stringify(data));
@@ -13,8 +14,9 @@ export default function App() {
   const [isDraftMode, setDraftMode] = React.useState(false);
   const [theirTeam, setTheirTeam] = React.useState(new Set());
   const [yourTeam, setYourTeam] = React.useState(new Set());
+  const [drafted, setDrafted] = React.useState([]);
   const [openYourPlayers, setOpenYourPlayers] = React.useState(false);
-  const [openRosterSettings, setOpenRosterSettings] = React.useState(false);
+  const [openDraftBoard, setOpenDraftBoard] = React.useState(false);
 
   const isRosterFilled = yourTeam.size === 13;
 
@@ -26,16 +28,14 @@ export default function App() {
   else document.body.style.backgroundColor = '#555d68';
   const handleTheirTeam = id => {
     setTheirTeam((prev) => new Set(prev).add(id));
+    setDrafted((prev) => [...prev, id]);
   };
   const handleYourTeam = id => {
     setYourTeam((prev) => new Set(prev).add(id));
+    setDrafted((prev) => [...prev, id]);
   };
   const handleDraftMode = () => {
     setDraftMode(!isDraftMode);
-    if (isDraftMode === false) {
-      if (theirTeam.length > 0) setTheirTeam(theirTeam.clear);
-      if (yourTeam.length > 0) setYourTeam([]);
-    }
   }
 
   const displayedPlayers = React.useMemo(() => {
@@ -56,7 +56,7 @@ export default function App() {
   
   return (
     <div>
-      <p className="header-text">2025 Fantasy Football Platform Rankings</p>
+      <p className="header-text">2026 Fantasy Football Platform Rankings</p>
       <h3 style={{textAlign: "center", marginTop: "-3%"}}>by Alex Scardina</h3>
       {isDraftMode && (
         <p className="header-text-red" style={{marginTop: "-5px"}}>DRAFT MODE</p>
@@ -105,12 +105,20 @@ export default function App() {
           </button>
           <div style={{marginLeft: "5rem"}}/>
           {isDraftMode && (
-            <button
-              onClick={() => setOpenYourPlayers(true)}
-              className="draft-mode-button"
-            >
-              View Your Team
-            </button>
+            <>
+              <button
+                onClick={() => setOpenYourPlayers(true)}
+                className="draft-mode-button"
+              >
+                View Your Team
+              </button>
+              <button
+                onClick={() => setOpenDraftBoard(true)}
+                className="draft-mode-button"
+              >
+                View Draft Board
+              </button>
+            </>
           )}
         </div>
         <div style={{display: 'flex', flexGrow: 1}} />
@@ -129,6 +137,16 @@ export default function App() {
           isOpen={openYourPlayers}
           yourTeam={yourTeam}
           onClose={() => setOpenYourPlayers(false)}
+        />
+      )}
+      {openDraftBoard && (
+        <DraftBoardModal
+          isOpen={openDraftBoard}
+          onClose={() => setOpenDraftBoard(false)}
+          drafted={drafted}
+          yourTeam={yourTeam}
+          leagueSize={12}
+          rosterSize={13}
         />
       )}
     </div>

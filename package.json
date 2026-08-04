@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start",
-    "update": "cd server && node fpParser.js && python3 espn_ocr.py && python3 format_espn_ocr.py && node yahooParser.js && node espnParser.js && node dsParser.js && node sleeperParser.js && node nfcParser.js && node mergeRanks.js && rm raw_espn_rankings.txt && rm temp_yahoo.csv && rm raw-players.json"
+    "update": "cd server && node fpParser.js && python3 espn_ocr.py && python3 format_espn_ocr.py && node yahooParser.js && node espnParser.js && node dsParser.js && node sleeperParser.js && node nfcParser.js && node mergeRanks.js && rm raw_espn_rankings.txt && rm raw-players.json",
+    "update-keep-raw": "cd server && node fpParser.js && python3 espn_ocr.py && python3 format_espn_ocr.py && node yahooParser.js && node espnParser.js && node dsParser.js && node sleeperParser.js && node nfcParser.js && node mergeRanks.js"
   },
   "author": "Alex Scardina",
   "license": "ISC",

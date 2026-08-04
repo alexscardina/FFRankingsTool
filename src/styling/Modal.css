@@ -38,3 +38,95 @@
   margin-left: 15px;
   vertical-align: text-top;
 }
+
+.draft-board-grid {
+  display: grid;
+  gap: 6px;
+  width: 100%;
+}
+
+.draft-board-corner {
+  min-height: 24px;
+}
+
+.draft-board-team-header,
+.draft-board-round-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.75rem;
+  color: #4b5563;
+}
+
+.draft-board-card {
+  min-height: 58px;
+  border-radius: 6px;
+  padding: 4px 6px;
+  box-sizing: border-box;
+}
+
+.draft-board-card-empty {
+  background: linear-gradient(135deg, #e5e7eb 0%, #d1d5db 100%);
+  border: 1px dashed #9ca3af;
+}
+
+.draft-board-card-filled {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+.draft-board-card-yours {
+  outline: 2px solid #111827;
+  outline-offset: 1px;
+}
+
+.draft-board-pick-num {
+  font-size: 0.65rem;
+  opacity: 0.85;
+  line-height: 1;
+}
+
+.draft-board-player-name {
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.15;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.draft-board-player-meta {
+  font-size: 0.65rem;
+  opacity: 0.9;
+  line-height: 1;
+}
+
+.draft-board-pos-qb {
+  background-color: #e93819;
+}
+
+.draft-board-pos-rb {
+  background-color: #30c72b;
+}
+
+.draft-board-pos-wr {
+  background-color: #1989e6;
+}
+
+.draft-board-pos-te {
+  background-color: #ec3fdd;
+}
+
+.draft-board-pos-dst,
+.draft-board-pos-def {
+  background-color: #694425;
+}
+
+.draft-board-pos-k {
+  background-color: #727272;
+}
