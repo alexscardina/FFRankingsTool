@@ -40,8 +40,7 @@ fs.createReadStream(sleeperCsv)
   })
   .on('end', () => {
     const playersWithPosRank = addPositionRanks(players, 'sleeper');
-    // const newPlayers = playersWithPosRank.filter(x => x.rankings.sleeper.overall);
-    const newPlayers = playersWithPosRank;
+    const newPlayers = playersWithPosRank.filter(x => x.rankings.sleeper.overall);
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
     console.log(`✅ Sleeper ranks added for ${updatedPlayers.size} players`);
   });
