@@ -42,7 +42,8 @@ fs.createReadStream(dsCsv)
   })
   .on('end', () => {
     const playersWithPosRank = addPositionRanks(players, 'draftsharks');
-    const newPlayers = playersWithPosRank.filter(x => x.rankings.draftsharks.overall);
+    // const newPlayers = playersWithPosRank.filter(x => x.rankings.draftsharks.overall);
+    const newPlayers = playersWithPosRank;
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
     console.log(`✅ DraftSharks ranks added for ${updatedPlayers.size} players`);
   });

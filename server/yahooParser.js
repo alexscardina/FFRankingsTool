@@ -40,7 +40,8 @@ fs.createReadStream(yahooCsv)
   })
   .on('end', () => {
     const playersWithPosRank = addPositionRanks(players, 'yahoo');
-    const newPlayers = playersWithPosRank.filter(x => x.rankings.yahoo.overall);
+    // const newPlayers = playersWithPosRank.filter(x => x.rankings.yahoo.overall);
+    const newPlayers = playersWithPosRank;
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
     console.log(`✅ Yahoo ranks added for ${updatedPlayers.size} players`);
   });
