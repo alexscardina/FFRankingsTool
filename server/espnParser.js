@@ -33,6 +33,7 @@ fs.createReadStream(espnCsv)
   .on('end', () => {
     const playersWithPosRank = addPositionRanks(players, 'espn');
     const newPlayers = playersWithPosRank.filter(x => x.rankings.espn.overall);
+    // const newPlayers = playersWithPosRank;
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
     console.log(`✅ ESPN ranks added for ${updatedPlayers.size} players`);
   });
