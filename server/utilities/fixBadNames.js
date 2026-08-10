@@ -26,6 +26,10 @@ const fixBadNames = name => {
     case "Devon Achane": return "De'Von Achane";
     case "Oronde Gadsden": return "Oronde Gadsden II";
     case "James Cook": return "James Cook III";
+    case "Chris Godwin": return "Chris Godwin Jr.";
+    case "Chris Rodriguez": return "Chris Rodriguez Jr.";
+    case "Kenneth Gainwell": return "Kenny Gainwell";
+    case "Cameron Ward": return "Cam Ward";
     default: 
       break;
   }
