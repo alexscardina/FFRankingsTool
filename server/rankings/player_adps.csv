@@ -1,355 +1,355 @@
-"Player Name", "Player Team", "Player Position", Sleeper: Redraft 0.5 PPR ADP, "Market Index 1",
-"Bijan Robinson","ATL","RB","1.1","-2",
-"Jahmyr Gibbs","DET","RB","1.2","1",
-"Ja'Marr Chase","CIN","WR","1.3","-1",
-"Puka Nacua","LAR","WR","1.4","2",
-"Christian McCaffrey","SF","RB","1.5","0",
-"Jonathan Taylor","IND","RB","1.6","-2",
-"Jaxon Smith-Njigba","SEA","WR","1.7","1",
-"Amon-Ra St. Brown","DET","WR","1.8","1",
-"James Cook","BUF","RB","1.9","-1",
-"CeeDee Lamb","DAL","WR","1.10","1",
-"Justin Jefferson","MIN","WR","1.11","0",
-"Ashton Jeanty","LVR","RB","1.12","0",
-"Saquon Barkley","PHI","RB","2.1","0",
-"De'Von Achane","MIA","RB","2.2","-9",
-"Omarion Hampton","LAC","RB","2.3","-7",
-"Drake London","ATL","WR","2.4","0",
-"Chase Brown","CIN","RB","2.5","-7",
-"Trey McBride","ARI","TE","2.6","-8",
-"Brock Bowers","LVR","TE","2.7","-6",
-"A.J. Brown","NE","WR","2.8","6",
-"Nico Collins","HOU","WR","2.9","6",
-"Kenneth Walker III","KC","RB","2.10","3",
-"Derrick Henry","BAL","RB","2.11","6",
-"Jeremiyah Love","ARI","RB","2.12","-7",
-"Rashee Rice","KC","WR","3.1","7",
-"Josh Allen","BUF","QB","3.2","5",
-"Buffalo Bills","BUF","TQB","3.2","0",
-"Josh Jacobs","GB","RB","3.3","0",
-"Kyren Williams","LAR","RB","3.4","-13",
-"George Pickens","DAL","WR","3.5","9",
-"Chris Olave","NO","WR","3.6","-2",
-"Breece Hall","NYJ","RB","3.7","-7",
-"Javonte Williams","DAL","RB","3.8","-5",
-"Tetairoa McMillan","CAR","WR","3.9","-14",
-"Tee Higgins","CIN","WR","3.10","5",
-"Garrett Wilson","NYJ","WR","3.11","-1",
-"Malik Nabers","NYG","WR","3.12","8",
-"Lamar Jackson","BAL","QB","4.1","-13",
-"Baltimore Ravens","BAL","TQB","4.1","0",
-"DeVonta Smith","PHI","WR","4.2","4",
-"Cameron Skattebo","NYG","RB","4.3","-21",
-"Travis Etienne","NO","RB","4.4","-5",
-"Bucky Irving","TB","RB","4.5","-29",
-"Ladd McConkey","LAC","WR","4.6","-10",
-"TreVeyon Henderson","NE","RB","4.7","-29",
-"Colston Loveland","CHI","TE","4.8","11",
-"Emeka Egbuka","TB","WR","4.9","-3",
-"Zay Flowers","BAL","WR","4.10","16",
-"Luther Burden III","CHI","WR","4.11","-2",
-"Terry McLaurin","WAS","WR","4.12","2",
-"Jaylen Waddle","DEN","WR","5.1","9",
-"Quinshon Judkins","CLE","RB","5.2","-21",
-"Tyler Warren","IND","TE","5.3","7",
-"Jameson Williams","DET","WR","5.4","-4",
-"David Montgomery","HOU","RB","5.5","-12",
-"D.J. Moore","BUF","WR","5.6","-14",
-"New England Patriots","NE","TQB","5.7","0",
-"Drake Maye","NE","QB","5.7","-2",
-"Bhayshul Tuten","JAC","RB","5.8","-26",
-"Davante Adams","LAR","WR","5.9","14",
-"Mike Evans","SF","WR","5.10","7",
-"Joe Burrow","CIN","QB","5.11","-2",
-"Cincinnati Bengals","CIN","TQB","5.11","0",
-"D'Andre Swift","CHI","RB","5.12","-2",
-"Carnell Tate","TEN","WR","6.1","-27",
-"Rome Odunze","CHI","WR","6.2","-1",
-"Jadarian Price","SEA","RB","6.3","-27",
-"Christian Watson","GB","WR","6.4","25",
-"Washington Commanders","WAS","TQB","6.5","0",
-"Jayden Daniels","WAS","QB","6.5","1",
-"Brian Thomas Jr.","JAC","WR","6.6","-28",
-"Jaylen Warren","PIT","RB","6.7","-24",
-"Harold Fannin Jr.","CLE","TE","6.8","-6",
-"Tucker Kraft","GB","TE","6.9","11",
-"Jalen Hurts","PHI","QB","6.10","4",
-"Philadelphia Eagles","PHI","TQB","6.10","0",
-"RJ Harvey","DEN","RB","6.11","-56",
-"Jordyn Tyson","NO","WR","6.12","-23",
-"Chuba Hubbard","CAR","RB","7.1","-26",
-"Rhamondre Stevenson","NE","RB","7.2","-15",
-"Kyle Pitts","ATL","TE","7.3","-29",
-"Marvin Harrison Jr.","ARI","WR","7.4","-8",
-"Makai Lemon","PHI","WR","7.5","-63",
-"D.K. Metcalf","PIT","WR","7.6","1",
-"Sam LaPorta","DET","TE","7.7","12",
-"Kyle Monangai","CHI","RB","7.8","-43",
-"Parker Washington","JAC","WR","7.9","8",
-"Alec Pierce","IND","WR","7.10","-3",
-"Tony Pollard","TEN","RB","7.11","-10",
-"Michael Wilson","ARI","WR","7.12","-75",
-"Courtland Sutton","DEN","WR","8.1","-7",
-"Rico Dowdle","PIT","RB","8.2","-17",
-"Justin Herbert","LAC","QB","8.3","11",
-"Los Angeles Chargers","LAC","TQB","8.3","0",
-"Chicago Bears","CHI","TQB","8.4","0",
-"Caleb Williams","CHI","QB","8.4","9",
-"New York Giants","NYG","TQB","8.5","0",
-"Jaxson Dart","NYG","QB","8.5","2",
-"J.K. Dobbins","DEN","RB","8.6","-12",
-"Blake Corum","LAR","RB","8.7","-31",
-"Jonathon Brooks","CAR","RB","8.8","-24",
-"Chris Godwin","TB","WR","8.9","-41",
-"Trevor Lawrence","JAC","QB","8.10","19",
-"Jacksonville Jaguars","JAC","TQB","8.10","0",
-"Jakobi Meyers","JAC","WR","8.11","-16",
-"Dalton Kincaid","BUF","TE","8.12","-83",
-"Dak Prescott","DAL","QB","9.1","17",
-"Dallas Cowboys","DAL","TQB","9.1","0",
-"Michael Pittman Jr.","PIT","WR","9.2","-15",
-"Jordan Addison","MIN","WR","9.3","-1",
-"George Kittle","SF","TE","9.4","-6",
-"Patrick Mahomes","KC","QB","9.5","0",
-"Kansas City Chiefs","KC","TQB","9.5","0",
-"Wan'Dale Robinson","TEN","WR","9.6","-83",
-"Oronde Gadsden II","LAC","TE","9.7","-181",
-"Quentin Johnston","LAC","WR","9.8","-1",
-"Jake Ferguson","DAL","TE","9.9","-94",
-"San Francisco 49ers","SF","TQB","9.10","0",
-"Brock Purdy","SF","QB","9.10","28",
-"Aaron Jones","MIN","RB","9.11","-46",
-"Jacory Croskey-Merritt","WAS","RB","9.12","-24",
-"Kenneth Gainwell","TB","RB","10.1","-30",
-"Jayden Reed","GB","WR","10.2","13",
-"Travis Kelce","KC","TE","10.3","-18",
-"Romeo Doubs","NE","WR","10.4","-30",
-"Denver Broncos","DEN","TQB","10.5","0",
-"Bo Nix","DEN","QB","10.5","15",
-"Mark Andrews","BAL","TE","10.6","-41",
-"KC Concepcion","CLE","WR","10.7","-37",
-"Dallas Goedert","PHI","TE","10.8","-73",
-"Matthew Stafford","LAR","QB","10.9","-4",
-"Los Angeles Rams","LAR","TQB","10.9","0",
-"Rachaad White","WAS","RB","10.10","-15",
-"Hunter Henry","NE","TE","10.11","-89",
-"Xavier Worthy","KC","WR","10.12","1",
-"Los Angeles Rams","LAR","DEF","11.1","-126",
-"Isaiah Likely","NYG","TE","11.2","-93",
-"Tyler Allgeier","ARI","RB","11.3","-83",
-"Josh Downs","IND","WR","11.4","-6",
-"Zach Charbonnet","SEA","RB","11.5","-32",
-"Houston Texans","HOU","DEF","11.6","-65",
-"Jordan Mason","MIN","RB","11.7","2",
-"Seattle Seahawks","SEA","DEF","11.8","-73",
-"Jared Goff","DET","QB","11.9","11",
-"Detroit Lions","DET","TQB","11.9","0",
-"Brenton Strange","JAC","TE","11.10","-70",
-"Jayden Higgins","HOU","WR","11.11","-18",
-"Jonah Coleman","DEN","RB","11.12","-112",
-"Khalil Shakir","BUF","WR","12.1","-61",
-"Philadelphia Eagles","PHI","DEF","12.2","-131",
-"Tyrone Tracy Jr.","NYG","RB","12.3","-51",
-"Kenyon Sadiq","NYJ","TE","12.4","-104",
-"Matthew Golden","GB","WR","12.5","-14",
-"AJ Barner","SEA","TE","12.6","-202",
-"Jordan Love","GB","QB","12.7","19",
-"Green Bay Packers","GB","TQB","12.7","0",
-"Stefon Diggs","UNS","WR","12.8","-14",
-"Denver Broncos","DEN","DEF","12.9","-62",
-"Brian Robinson Jr.","ATL","RB","12.10","-68",
-"Jalen Coker","CAR","WR","12.11","-70",
-"Woody Marks","HOU","RB","12.12","-36",
-"Baltimore Ravens","BAL","DEF","13.1","-81",
-"New Orleans Saints","NO","TQB","13.2","0",
-"Tyler Shough","NO","QB","13.2","22",
-"Miami Dolphins","MIA","TQB","13.3","0",
-"Malik Willis","MIA","QB","13.3","-13",
-"Chris Rodriguez","JAC","RB","13.4","-21",
-"Baker Mayfield","TB","QB","13.5","21",
-"Tampa Bay Buccaneers","TB","TQB","13.5","0",
-"Juwan Johnson","NO","TE","13.6","-98",
-"Denzel Boston","CLE","WR","13.7","-77",
-"Travis Hunter","JAC","WR","13.8","-257",
-"New England Patriots","NE","DEF","13.9","-74",
-"Tyjae Spears","TEN","RB","13.10","-9",
-"Omar Cooper Jr.","NYJ","WR","13.11","-63",
-"Jauan Jennings","MIN","WR","13.12","-123",
-"Dallas Cowboys","DAL","TK","14.1","0",
-"Brandon Aubrey","DAL","K","14.1","11",
-"Los Angeles Chargers","LAC","TK","14.2","0",
-"Cameron Dicker","LAC","K","14.2","-17",
-"Jason Myers","SEA","K","14.3","-135",
-"Seattle Seahawks","SEA","TK","14.3","0",
-"Dalton Schultz","HOU","TE","14.4","-128",
-"Los Angeles Rams","LAR","TK","14.5","0",
-"Harrison Mevis","LAR","K","14.5","-82",
-"Rashid Shaheed","SEA","WR","14.6","-25",
-"De'Zhaun Stribling","SF","WR","14.7","-109",
-"Dylan Sampson","CLE","RB","14.8","-26",
-"James Conner","ARI","RB","14.9","-115",
-"Chigoziem Okonkwo","WAS","TE","14.10","-84",
-"Terrance Ferguson","LAR","TE","14.11","-184",
-"Kyler Murray","MIN","QB","14.12","87",
-"Minnesota Vikings","MIN","TQB","14.12","0",
-"Emmett Johnson","KC","RB","15.1","-104",
-"New England Patriots","NE","TK","15.2","0",
-"Andres Borregales","NE","K","15.2","-122",
-"Minnesota Vikings","MIN","DEF","15.3","-80",
-"Theo Johnson","NYG","TE","15.4","-608",
-"Ka'imi Fairbairn","HOU","K","15.5","-24",
-"Houston Texans","HOU","TK","15.5","0",
-"Tyreek Hill","UNS","WR","15.6","-233",
-"Jacksonville Jaguars","JAC","TK","15.7","0",
-"Cam Little","JAC","K","15.7","-48",
-"Alvin Kamara","NO","RB","15.8","-29",
-"Cade Otton","TB","TE","15.9","-166",
-"Sam Darnold","SEA","QB","15.10","-24",
-"Seattle Seahawks","SEA","TQB","15.10","0",
-"Detroit Lions","DET","DEF","15.11","-108",
-"Braelon Allen","NYJ","RB","15.12","-83",
-"Deebo Samuel","SF","WR","16.1","33",
-"T.J. Hockenson","MIN","TE","16.2","-108",
-"Gunnar Helm","TEN","TE","16.3","-190",
-"Jalen McMillan","TB","WR","16.4","-8",
-"Mike Washington Jr.","LVR","RB","16.5","-86",
-"Antonio Williams","WAS","WR","16.6","-211",
-"Eddy Pineiro","SF","K","16.7","-35",
-"San Francisco 49ers","SF","TK","16.7","0",
-"Keaton Mitchell","LAC","RB","16.8","-5",
-"Houston Texans","HOU","TQB","16.9","0",
-"C.J. Stroud","HOU","QB","16.9","24",
-"Tennessee Titans","TEN","TQB","16.10","0",
-"Cameron Ward","TEN","QB","16.10","-5",
-"Jerry Jeudy","CLE","WR","16.11","-104",
-"Harrison Butker","KC","K","16.12","-70",
-"Kansas City Chiefs","KC","TK","16.12","0",
-"Jacksonville Jaguars","JAC","DEF","17.1","-65",
-"Daniel Jones","IND","QB","17.2","32",
-"Indianapolis Colts","IND","TQB","17.2","0",
-"Las Vegas Raiders","LVR","TQB","17.3","0",
-"Fernando Mendoza","LVR","QB","17.3","-65",
-"Nicholas Singleton","TEN","RB","17.4","-74",
-"Tank Bigsby","PHI","RB","17.5","-104",
-"David Njoku","LAC","TE","17.6","-300",
-"Carolina Panthers","CAR","TQB","17.7","0",
-"Bryce Young","CAR","QB","17.7","-46",
-"Adonai Mitchell","NYJ","WR","17.8","-42",
-"Detroit Lions","DET","TK","17.9","0",
-"Jake Bates","DET","K","17.9","-37",
-"Kayshon Boutte","NE","WR","17.10","-134",
-"Baltimore Ravens","BAL","TK","17.11","0",
-"Tyler Loop","BAL","K","17.11","-14",
-"Isiah Pacheco","DET","RB","17.12","34",
-"Eli Stowers","PHI","TE","18.1","-462",
-"Pittsburgh Steelers","PIT","DEF","18.2","-23",
-"Trey Benson","ARI","RB","18.3","-95",
-"Kaytron Allen","WAS","RB","18.4","-28",
-"Kansas City Chiefs","KC","DEF","18.5","-80",
-"Chris Boswell","PIT","K","18.6","-90",
-"Pittsburgh Steelers","PIT","TK","18.6","0",
-"Kimani Vidal","LAC","RB","18.7","-158",
-"Minnesota Vikings","MIN","TK","18.8","0",
-"Will Reichard","MIN","K","18.8","-99",
-"Tre Harris","LAC","WR","18.9","-124",
-"New York Giants","NYG","DEF","18.10","-62",
-"Cairo Santos","CHI","K","18.11","-6",
-"Chicago Bears","CHI","TK","18.11","0",
-"Sean Tucker","TB","RB","18.12","-62",
-"Ja'Kobi Lane","BAL","WR","19.1","-298",
-"Los Angeles Chargers","LAC","DEF","19.2","-43",
-"Ray Davis","BUF","RB","19.3","-182",
-"Isaac TeSlaa","DET","WR","19.4","-257",
-"Brandon Aiyuk","UNS","WR","19.5","-173",
-"Colby Parkinson","LAR","TE","19.6","-225",
-"Chase McLaughlin","TB","K","19.7","-80",
-"Tampa Bay Buccaneers","TB","TK","19.7","0",
-"Zachariah Branch","ATL","WR","19.8","-239",
-"Tre Tucker","LVR","WR","19.9","-14",
-"Green Bay Packers","GB","DEF","19.10","-20",
-"Jaylen Wright","MIA","RB","19.11","-92",
-"Nathaniel Dell","HOU","WR","19.12","-266",
-"Kaleb Johnson","PIT","RB","20.1","-149",
-"Emanuel Wilson","SEA","RB","20.2","-93",
-"Dallas Cowboys","DAL","DEF","20.3","-126",
-"Wil Lutz","DEN","K","20.4","-27",
-"Denver Broncos","DEN","TK","20.4","0",
-"Demond Claiborne","MIN","RB","20.5","-109",
-"Troy Franklin","DEN","WR","20.6","-283",
-"Jacoby Brissett","ARI","QB","20.7","-29",
-"Arizona Cardinals","ARI","TQB","20.7","0",
-"Chicago Bears","CHI","DEF","20.8","-63",
-"Jaylin Noel","HOU","WR","20.9","-108",
-"Pat Bryant","DEN","WR","20.10","-185",
-"Evan McPherson","CIN","K","20.11","-146",
-"Cincinnati Bengals","CIN","TK","20.11","0",
-"Kendre Miller","NO","RB","20.12","-99",
-"San Francisco 49ers","SF","DEF","21.1","-41",
-"Marvin Mims Jr.","DEN","WR","21.2","-294",
-"Brashard Smith","KC","RB","21.3","-85",
-"Darnell Mooney","NYG","WR","21.4","-184",
-"Germie Bernard","PIT","WR","21.5","-48",
-"Kyle Williams","NE","WR","21.6","-484",
-"Jake Tonges","SF","TE","21.7","-613",
-"Ted Hurst","TB","WR","21.8","-428",
-"Calvin Ridley","TEN","WR","21.9","-36",
-"Jalen Nailor","LVR","WR","21.10","-57",
-"Indianapolis Colts","IND","DEF","21.11","-67",
-"Chimere Dike","TEN","WR","21.12","-523",
-"Ryan Flournoy","DAL","WR","22.1","-129",
-"Jaydon Blue","DAL","RB","22.2","22",
-"Tory Horton","SEA","WR","22.3","-436",
-"Mason Taylor","NYJ","TE","22.4","-481",
-"Audric Estime","NO","RB","22.5","-184",
-"Elijah Sarratt","BAL","WR","22.6","-249",
-"Buffalo Bills","BUF","DEF","22.7","3",
-"Chris Bell","MIA","WR","22.8","-279",
-"Jake Elliott","PHI","K","22.9","-65",
-"Philadelphia Eagles","PHI","TK","22.9","0",
-"Rashod Bateman","BAL","WR","22.10","-54",
-"Jarquez Hunter","LAR","RB","22.11","-153",
-"Keenan Allen","UNS","WR","22.12","-19",
-"Keon Coleman","BUF","WR","23.1","-195",
-"Atlanta Falcons","ATL","DEF","23.2","-156",
-"Cooper Kupp","SEA","WR","23.3","-105",
-"J.J. McCarthy","MIN","QB","23.4","-1042",
-"Cleveland Browns","CLE","TQB","23.5","0",
-"Shedeur Sanders","CLE","QB","23.5","-173",
-"Jack Bech","LVR","WR","23.6","-166",
-"Devaughn Vele","NO","WR","23.7","-174",
-"Tampa Bay Buccaneers","TB","DEF","23.8","-41",
-"Christian Kirk","SF","WR","23.9","-469",
-"Atlanta Falcons","ATL","TQB","23.10","0",
-"Michael Penix Jr.","ATL","QB","23.10","-107",
-"Malachi Fields","NYG","WR","23.11","-446",
-"Carolina Panthers","CAR","DEF","23.12","-139",
-"Max Klare","LAR","TE","24.1","-496",
-"Michael Trigg","DAL","TE","24.2","-699",
-"Cincinnati Bengals","CIN","DEF","24.3","-68",
-"Tua Tagovailoa","ATL","QB","24.4","-100",
-"New Orleans Saints","NO","DEF","24.5","-79",
-"Joe Mixon","UNS","RB","24.6","-282",
-"Ty Simpson","LAR","QB","24.7","-1224",
-"Elic Ayomanor","TEN","WR","24.8","-385",
-"Najee Harris","UNS","RB","24.9","-25",
-"Matt Gay","LVR","K","24.10","-164",
-"Las Vegas Raiders","LVR","TK","24.10","0",
-"Cleveland Browns","CLE","DEF","24.11","-27",
-"Riley Patterson","MIA","K","24.12","-1738",
-"Miami Dolphins","MIA","TK","24.12","0",
-"Tennessee Titans","TEN","DEF","25.1","-73",
-"New Orleans Saints","NO","TK","25.2","0",
-"Charlie Smyth","NO","K","25.2","21",
-"Devin Neal","NO","RB","25.3","-138",
-"Nick Folk","ATL","K","25.4","-113",
-"Atlanta Falcons","ATL","TK","25.4","0",
-"Arizona Cardinals","ARI","DEF","25.5","-120",
-"Las Vegas Raiders","LVR","DEF","25.6","-82",
-"New York Jets","NYJ","DEF","25.7","-79",
-"Tyler Bass","BUF","K","25.8","-26",
-"Buffalo Bills","BUF","TK","25.8","0",
-"Miami Dolphins","MIA","DEF","25.9","-154",
-"Washington Commanders","WAS","TK","25.10","0",
-"Jake Moody","WAS","K","25.10","-26",
-"Younghoe Koo","NYJ","K","25.11","-1719",
-"New York Jets","NYJ","TK","25.11","0",
+"Player Name","Player Team","Player Position","DS Rank","Sleeper: Redraft 0.5 PPR ADP","Sleeper: Redraft 0.5 PPR ADP Market Index"
+"Jahmyr Gibbs","DET","RB","1","1.2","1"
+"Puka Nacua","LAR","WR","2","1.4","2"
+"Bijan Robinson","ATL","RB","3","1.1","-2"
+"Ja'Marr Chase","CIN","WR","4","1.3","-1"
+"Christian McCaffrey","SF","RB","5","1.5","0"
+"Jaxon Smith-Njigba","SEA","WR","6","1.7","1"
+"Amon-Ra St. Brown","DET","WR","7","1.8","1"
+"CeeDee Lamb","DAL","WR","8","1.10","2"
+"Jonathan Taylor","IND","RB","9","1.6","-3"
+"James Cook","BUF","RB","10","1.9","-1"
+"Justin Jefferson","MIN","WR","11","1.11","0"
+"Ashton Jeanty","LVR","RB","12","1.12","0"
+"A.J. Brown","NE","WR","13","2.8","7"
+"Saquon Barkley","PHI","RB","14","2.1","-1"
+"Nico Collins","HOU","WR","15","2.9","6"
+"Drake London","ATL","WR","16","2.4","0"
+"Derrick Henry","BAL","RB","17","2.11","6"
+"Kenneth Walker III","KC","RB","18","2.10","4"
+"Rashee Rice","KC","WR","19","3.1","6"
+"George Pickens","DAL","WR","20","3.5","9"
+"Josh Allen","BUF","QB","21","3.2","5"
+"Omarion Hampton","LAC","RB","22","2.3","-7"
+"De'Von Achane","MIA","RB","23","2.2","-9"
+"Brock Bowers","LVR","TE","24","2.7","-5"
+"Chase Brown","CIN","RB","25","2.5","-8"
+"Trey McBride","ARI","TE","26","2.6","-8"
+"Josh Jacobs","GB","RB","27","3.3","0"
+"Malik Nabers","NYG","WR","28","3.12","8"
+"Tee Higgins","CIN","WR","29","3.10","5"
+"Zay Flowers","BAL","WR","30","4.10","16"
+"Jeremiyah Love","ARI","RB","31","2.12","-7"
+"Chris Olave","NO","WR","32","3.6","-2"
+"Colston Loveland","CHI","TE","33","4.8","11"
+"DeVonta Smith","PHI","WR","34","4.2","4"
+"Garrett Wilson","NYJ","WR","36","3.11","-1"
+"Javonte Williams","DAL","RB","37","3.8","-5"
+"Breece Hall","NYJ","RB","38","3.7","-7"
+"Christian Watson","GB","WR","39","6.4","25"
+"Jaylen Waddle","DEN","WR","40","5.1","9"
+"Kyren Williams","LAR","RB","42","3.4","-14"
+"Tyler Warren","IND","TE","43","5.3","8"
+"Davante Adams","LAR","WR","44","5.9","13"
+"Travis Etienne","NO","RB","45","4.4","-5"
+"Tetairoa McMillan","CAR","WR","46","3.9","-13"
+"Emeka Egbuka","TB","WR","47","4.9","-2"
+"Lamar Jackson","BAL","QB","48","4.1","-11"
+"Mike Evans","SF","WR","49","5.10","9"
+"Luther Burden III","CHI","WR","50","4.11","-3"
+"Ladd McConkey","LAC","WR","52","4.6","-10"
+"Terry McLaurin","WAS","WR","53","4.12","-5"
+"Drake Maye","NE","QB","56","5.7","-1"
+"Jameson Williams","DET","WR","57","5.4","-5"
+"Tucker Kraft","GB","TE","58","6.9","11"
+"Cameron Skattebo","NYG","RB","60","4.3","-21"
+"D'Andre Swift","CHI","RB","61","5.12","-1"
+"Rome Odunze","CHI","WR","62","6.2","0"
+"Jayden Daniels","WAS","QB","63","6.5","2"
+"Joe Burrow","CIN","QB","64","5.11","-5"
+"Jalen Hurts","PHI","QB","65","6.10","5"
+"David Montgomery","HOU","RB","66","5.5","-13"
+"Sam LaPorta","DET","TE","67","7.7","12"
+"D.J. Moore","BUF","WR","69","5.6","-15"
+"Bucky Irving","TB","RB","70","4.5","-29"
+"Quinshon Judkins","CLE","RB","71","5.2","-21"
+"TreVeyon Henderson","NE","RB","72","4.7","-29"
+"Harold Fannin Jr.","CLE","TE","73","6.8","-5"
+"Parker Washington","JAC","WR","74","7.9","7"
+"Trevor Lawrence","JAC","QB","75","8.10","19"
+"Justin Herbert","LAC","QB","76","8.3","11"
+"Brock Purdy","SF","QB","77","9.10","29"
+"Caleb Williams","CHI","QB","78","8.4","10"
+"D.K. Metcalf","PIT","WR","79","7.6","-1"
+"Dak Prescott","DAL","QB","81","9.1","16"
+"Kyler Murray","MIN","QB","82","14.12","86"
+"Bhayshul Tuten","JAC","RB","83","5.8","-27"
+"Carnell Tate","TEN","WR","84","6.1","-23"
+"Marvin Harrison Jr.","ARI","WR","86","7.4","-10"
+"Jaxson Dart","NYG","QB","87","8.5","2"
+"Jadarian Price","SEA","RB","88","6.3","-25"
+"Rhamondre Stevenson","NE","RB","89","7.2","-15"
+"Courtland Sutton","DEN","WR","90","8.1","-5"
+"Brian Thomas Jr.","JAC","WR","91","6.6","-25"
+"Tony Pollard","TEN","RB","92","7.11","-9"
+"Jordyn Tyson","NO","WR","93","6.12","-21"
+"Alec Pierce","IND","WR","94","7.10","-12"
+"Jaylen Warren","PIT","RB","95","6.7","-28"
+"Jayden Reed","GB","WR","97","10.2","13"
+"Rico Dowdle","PIT","RB","98","8.2","-12"
+"Bo Nix","DEN","QB","99","10.5","14"
+"Chuba Hubbard","CAR","RB","100","7.1","-27"
+"Patrick Mahomes","KC","QB","101","9.5","0"
+"Jordan Addison","MIN","WR","102","9.3","-3"
+"J.K. Dobbins","DEN","RB","103","8.6","-13"
+"Kyle Pitts","ATL","TE","104","7.3","-29"
+"Quentin Johnston","LAC","WR","106","9.8","-2"
+"George Kittle","SF","TE","107","9.4","-7"
+"Jordan Mason","MIN","RB","109","11.7","18"
+"Michael Pittman Jr.","PIT","WR","115","9.2","-17"
+"Jonathon Brooks","CAR","RB","116","8.8","-24"
+"Jared Goff","DET","QB","117","11.9","12"
+"Josh Downs","IND","WR","119","11.4","5"
+"Jakobi Meyers","JAC","WR","120","8.11","-25"
+"Matthew Stafford","LAR","QB","121","10.9","-4"
+"Xavier Worthy","KC","WR","123","10.12","-3"
+"Jacory Croskey-Merritt","WAS","RB","124","9.12","-16"
+"Blake Corum","LAR","RB","125","8.7","-34"
+"Kyle Monangai","CHI","RB","126","7.8","-46"
+"Tyler Shough","NO","QB","127","13.2","19"
+"Jordan Love","GB","QB","128","12.7","11"
+"RJ Harvey","DEN","RB","130","6.11","-59"
+"Baker Mayfield","TB","QB","131","13.5","18"
+"Travis Kelce","KC","TE","132","10.3","-21"
+"Chris Godwin","TB","WR","134","8.9","-41"
+"Romeo Doubs","NE","WR","136","10.4","-24"
+"Stefon Diggs","WAS","WR","138","12.8","2"
+"Kenneth Gainwell","TB","RB","142","10.1","-33"
+"Makai Lemon","PHI","WR","143","7.5","-66"
+"Jayden Higgins","HOU","WR","145","11.11","-14"
+"Brandon Aubrey","DAL","K","147","14.1","10"
+"Deebo Samuel","SF","WR","149","16.1","32"
+"Rachaad White","WAS","RB","150","10.10","-32"
+"Zach Charbonnet","SEA","RB","151","11.5","-26"
+"Matthew Golden","GB","WR","154","12.5","-17"
+"KC Concepcion","CLE","WR","156","10.7","-41"
+"Aaron Jones","MIN","RB","158","9.11","-51"
+"Mark Andrews","BAL","TE","159","10.6","-45"
+"Malik Willis","MIA","QB","163","13.3","-16"
+"Michael Wilson","ARI","WR","164","7.12","-80"
+"Daniel Jones","IND","QB","165","17.2","29"
+"Tyjae Spears","TEN","RB","166","13.10","-12"
+"C.J. Stroud","HOU","QB","169","16.9","20"
+"Chris Rodriguez","JAC","RB","171","13.4","-23"
+"Cameron Dicker","LAC","K","174","14.2","-16"
+"Dalton Kincaid","BUF","TE","176","8.12","-80"
+"Woody Marks","HOU","RB","178","12.12","-34"
+"Isiah Pacheco","DET","RB","179","17.12","25"
+"Wan'Dale Robinson","TEN","WR","182","9.6","-80"
+"Tyrone Tracy Jr.","NYG","RB","183","12.3","-48"
+"Houston Texans","HOU","DEF","184","11.6","-58"
+"Rashid Shaheed","SEA","WR","185","14.6","-23"
+"Cameron Ward","TEN","QB","188","16.10","2"
+"Dallas Goedert","PHI","TE","189","10.8","-73"
+"Dylan Sampson","CLE","RB","190","14.8","-26"
+"Jalen McMillan","TB","WR","193","16.4","-9"
+"Keaton Mitchell","LAC","RB","195","16.8","-7"
+"Khalil Shakir","BUF","WR","196","12.1","-63"
+"Ka'imi Fairbairn","HOU","K","197","15.5","-24"
+"Sam Darnold","SEA","QB","200","15.10","-22"
+"Jake Ferguson","DAL","TE","201","9.9","-96"
+"Brenton Strange","JAC","TE","202","11.10","-72"
+"Denver Broncos","DEN","DEF","203","12.9","-62"
+"Tyler Allgeier","ARI","RB","206","11.3","-83"
+"Alvin Kamara","NO","RB","207","15.8","-31"
+"Isaiah Likely","NYG","TE","208","11.2","-86"
+"Hunter Henry","NE","TE","210","10.11","-91"
+"Brian Robinson Jr.","ATL","RB","211","12.10","-69"
+"Seattle Seahawks","SEA","DEF","213","11.8","-85"
+"Jalen Coker","CAR","WR","215","12.11","-72"
+"Omar Cooper Jr.","NYJ","WR","222","13.11","-67"
+"Tyler Loop","BAL","K","223","17.11","-20"
+"Green Bay Packers","GB","DEF","224","19.10","2"
+"Baltimore Ravens","BAL","DEF","225","13.1","-80"
+"Cairo Santos","CHI","K","226","18.11","-11"
+"Eddy Pineiro","SF","K","227","16.7","-40"
+"Cam Little","JAC","K","229","15.7","-54"
+"Denzel Boston","CLE","WR","232","13.7","-81"
+"Pittsburgh Steelers","PIT","DEF","233","18.2","-27"
+"Jaydon Blue","DAL","RB","234","22.2","20"
+"Minnesota Vikings","MIN","DEF","235","15.3","-64"
+"New England Patriots","NE","DEF","238","13.9","-85"
+"Jake Bates","DET","K","239","17.9","-38"
+"Tre Tucker","LVR","WR","240","19.9","-15"
+"Adonai Mitchell","NYJ","WR","241","17.8","-41"
+"Harrison Mevis","LAR","K","242","14.5","-81"
+"Bryce Young","CAR","QB","244","17.7","-45"
+"Jonah Coleman","DEN","RB","246","11.12","-114"
+"Juwan Johnson","NO","TE","248","13.6","-98"
+"Philadelphia Eagles","PHI","DEF","250","12.2","-116"
+"Kenyon Sadiq","NYJ","TE","251","12.4","-115"
+"Los Angeles Rams","LAR","DEF","254","11.1","-133"
+"Wil Lutz","DEN","K","256","20.4","-24"
+"Chigoziem Okonkwo","WAS","TE","257","14.10","-91"
+"Fernando Mendoza","LVR","QB","258","17.3","-63"
+"Jacoby Brissett","ARI","QB","259","20.7","-24"
+"Detroit Lions","DET","DEF","260","15.11","-81"
+"Harrison Butker","KC","K","261","16.12","-69"
+"Braelon Allen","NYJ","RB","262","15.12","-82"
+"Los Angeles Chargers","LAC","DEF","264","19.2","-46"
+"New York Giants","NYG","DEF","265","18.10","-51"
+"Charlie Smyth","NO","K","270","25.2","20"
+"Nicholas Singleton","TEN","RB","271","17.4","-75"
+"Mike Washington Jr.","LVR","RB","272","16.5","-87"
+"De'Zhaun Stribling","SF","WR","273","14.7","-110"
+"Kaytron Allen","WAS","RB","275","18.4","-67"
+"Emmett Johnson","KC","RB","276","15.1","-107"
+"Jacksonville Jaguars","JAC","DEF","278","17.1","-85"
+"Sean Tucker","TB","RB","280","18.12","-64"
+"James Conner","ARI","RB","281","14.9","-116"
+"Jauan Jennings","MIN","WR","282","13.12","-126"
+"Keenan Allen","UNS","WR","283","22.12","-19"
+"Oronde Gadsden II","LAC","TE","284","9.7","-181"
+"Calvin Ridley","TEN","WR","285","21.9","-36"
+"Chicago Bears","CHI","DEF","286","20.8","-50"
+"Dalton Schultz","HOU","TE","287","14.4","-127"
+"Buffalo Bills","BUF","DEF","289","22.7","-30"
+"T.J. Hockenson","MIN","TE","290","16.2","-108"
+"Andres Borregales","NE","K","292","15.2","-122"
+"Cleveland Browns","CLE","DEF","293","24.11","-6"
+"Jason Myers","SEA","K","294","14.3","-135"
+"Jalen Nailor","LVR","WR","295","21.10","-45"
+"Germie Bernard","PIT","WR","296","21.5","-51"
+"Jerry Jeudy","CLE","WR","297","16.11","-106"
+"Kansas City Chiefs","KC","DEF","301","18.5","-92"
+"Chris Boswell","PIT","K","302","18.6","-92"
+"Tank Bigsby","PHI","RB","303","17.5","-106"
+"Trey Benson","ARI","RB","304","18.3","-97"
+"Chase McLaughlin","TB","K","305","19.7","-82"
+"Tampa Bay Buccaneers","TB","DEF","306","23.8","-34"
+"Will Reichard","MIN","K","310","18.8","-98"
+"San Francisco 49ers","SF","DEF","313","21.1","-72"
+"Najee Harris","UNS","RB","314","24.9","-29"
+"Rashod Bateman","BAL","WR","316","22.10","-54"
+"Jaylen Wright","MIA","RB","320","19.11","-93"
+"Indianapolis Colts","IND","DEF","323","21.11","-72"
+"Tyler Bass","BUF","K","324","25.8","-28"
+"Jake Elliott","PHI","K","327","22.9","-66"
+"Jake Moody","WAS","K","328","25.10","-30"
+"Brashard Smith","KC","RB","329","21.3","-86"
+"Terrance Ferguson","LAR","TE","334","14.11","-167"
+"Kayshon Boutte","NE","WR","335","17.10","-133"
+"Tre Harris","LAC","WR","337","18.9","-124"
+"Kendre Miller","NO","RB","338","20.12","-98"
+"Emanuel Wilson","SEA","RB","339","20.2","-109"
+"AJ Barner","SEA","TE","340","12.6","-202"
+"New Orleans Saints","NO","DEF","343","24.5","-62"
+"Tennessee Titans","TEN","DEF","344","25.1","-55"
+"Demond Claiborne","MIN","RB","347","20.5","-114"
+"Cade Otton","TB","TE","349","15.9","-172"
+"Ray Davis","BUF","RB","356","19.3","-137"
+"Cincinnati Bengals","CIN","DEF","359","24.3","-80"
+"New York Jets","NYJ","DEF","364","25.7","-69"
+"Jaylin Noel","HOU","WR","368","20.9","-131"
+"Dallas Cowboys","DAL","DEF","369","20.3","-138"
+"Las Vegas Raiders","LVR","DEF","370","25.6","-76"
+"Cooper Kupp","SEA","WR","372","23.3","-105"
+"Kimani Vidal","LAC","RB","374","18.7","-163"
+"Tua Tagovailoa","ATL","QB","381","24.4","-101"
+"Michael Penix Jr.","ATL","QB","383","23.10","-109"
+"Kaleb Johnson","PIT","RB","386","20.1","-157"
+"Ryan Flournoy","DAL","WR","387","22.1","-134"
+"Evan McPherson","CIN","K","391","20.11","-152"
+"Zachariah Branch","ATL","WR","393","19.8","-169"
+"Gunnar Helm","TEN","TE","398","16.3","-215"
+"Nick Folk","ATL","K","405","25.4","-113"
+"Brandon Aiyuk","UNS","WR","406","19.5","-185"
+"Travis Hunter","JAC","WR","407","13.8","-255"
+"Atlanta Falcons","ATL","DEF","408","23.2","-142"
+"Arizona Cardinals","ARI","DEF","409","25.5","-116"
+"Carolina Panthers","CAR","DEF","410","23.12","-134"
+"Pat Bryant","DEN","WR","414","20.10","-176"
+"Jarquez Hunter","LAR","RB","416","22.11","-153"
+"Ja'Kobi Lane","BAL","WR","421","19.1","-204"
+"Miami Dolphins","MIA","DEF","426","25.9","-129"
+"Darnell Mooney","NYG","WR","428","21.4","-184"
+"Devin Neal","NO","RB","430","25.3","-139"
+"Tyreek Hill","UNS","WR","435","15.6","-261"
+"Shedeur Sanders","CLE","QB","440","23.5","-171"
+"Audric Estime","NO","RB","443","22.5","-186"
+"Devaughn Vele","NO","WR","446","23.7","-175"
+"Colby Parkinson","LAR","TE","447","19.6","-225"
+"Matt Gay","LVR","K","449","24.10","-163"
+"Keon Coleman","BUF","WR","455","23.1","-190"
+"Isaac TeSlaa","DET","WR","477","19.4","-257"
+"David Njoku","LAC","TE","499","17.6","-301"
+"Nathaniel Dell","HOU","WR","505","19.12","-277"
+"Elijah Sarratt","BAL","WR","506","22.6","-248"
+"Troy Franklin","DEN","WR","520","20.6","-286"
+"Marvin Mims Jr.","DEN","WR","540","21.2","-298"
+"Chris Bell","MIA","WR","541","22.8","-281"
+"Jack Bech","LVR","WR","554","23.6","-284"
+"Joe Mixon","UNS","RB","565","24.6","-283"
+"Eli Stowers","PHI","TE","668","18.1","-463"
+"Elic Ayomanor","TEN","WR","670","24.8","-386"
+"Ted Hurst","TB","WR","679","21.8","-431"
+"Antonio Williams","WAS","WR","681","16.6","-495"
+"Tory Horton","SEA","WR","698","22.3","-443"
+"Malachi Fields","NYG","WR","723","23.11","-448"
+"Kyle Williams","NE","WR","728","21.6","-482"
+"Mason Taylor","NYJ","TE","736","22.4","-480"
+"Christian Kirk","SF","WR","741","23.9","-468"
+"Max Klare","LAR","TE","776","24.1","-499"
+"Chimere Dike","TEN","WR","783","21.12","-531"
+"Theo Johnson","NYG","TE","786","15.4","-614"
+"Jake Tonges","SF","TE","863","21.7","-616"
+"Michael Trigg","DAL","TE","979","24.2","-701"
+"J.J. McCarthy","MIN","QB","1310","23.4","-1042"
+"Ty Simpson","LAR","QB","1507","24.7","-1224"
+"Younghoe Koo","NYJ","K","2018","25.11","-1719"
+"Riley Patterson","MIA","K","2027","24.12","-1739"
+"Buffalo Bills","BUF","TQB","","3.2","0"
+"Baltimore Ravens","BAL","TQB","","4.1","0"
+"New England Patriots","NE","TQB","","5.7","0"
+"Cincinnati Bengals","CIN","TQB","","5.11","0"
+"Washington Commanders","WAS","TQB","","6.5","0"
+"Philadelphia Eagles","PHI","TQB","","6.10","0"
+"Los Angeles Chargers","LAC","TQB","","8.3","0"
+"Chicago Bears","CHI","TQB","","8.4","0"
+"New York Giants","NYG","TQB","","8.5","0"
+"Jacksonville Jaguars","JAC","TQB","","8.10","0"
+"Dallas Cowboys","DAL","TQB","","9.1","0"
+"Kansas City Chiefs","KC","TQB","","9.5","0"
+"San Francisco 49ers","SF","TQB","","9.10","0"
+"Denver Broncos","DEN","TQB","","10.5","0"
+"Los Angeles Rams","LAR","TQB","","10.9","0"
+"Detroit Lions","DET","TQB","","11.9","0"
+"Green Bay Packers","GB","TQB","","12.7","0"
+"New Orleans Saints","NO","TQB","","13.2","0"
+"Miami Dolphins","MIA","TQB","","13.3","0"
+"Tampa Bay Buccaneers","TB","TQB","","13.5","0"
+"Dallas Cowboys","DAL","TK","","14.1","0"
+"Los Angeles Chargers","LAC","TK","","14.2","0"
+"Seattle Seahawks","SEA","TK","","14.3","0"
+"Los Angeles Rams","LAR","TK","","14.5","0"
+"Minnesota Vikings","MIN","TQB","","14.12","0"
+"New England Patriots","NE","TK","","15.2","0"
+"Houston Texans","HOU","TK","","15.5","0"
+"Jacksonville Jaguars","JAC","TK","","15.7","0"
+"Seattle Seahawks","SEA","TQB","","15.10","0"
+"San Francisco 49ers","SF","TK","","16.7","0"
+"Houston Texans","HOU","TQB","","16.9","0"
+"Tennessee Titans","TEN","TQB","","16.10","0"
+"Kansas City Chiefs","KC","TK","","16.12","0"
+"Indianapolis Colts","IND","TQB","","17.2","0"
+"Las Vegas Raiders","LVR","TQB","","17.3","0"
+"Carolina Panthers","CAR","TQB","","17.7","0"
+"Detroit Lions","DET","TK","","17.9","0"
+"Baltimore Ravens","BAL","TK","","17.11","0"
+"Pittsburgh Steelers","PIT","TK","","18.6","0"
+"Minnesota Vikings","MIN","TK","","18.8","0"
+"Chicago Bears","CHI","TK","","18.11","0"
+"Tampa Bay Buccaneers","TB","TK","","19.7","0"
+"Denver Broncos","DEN","TK","","20.4","0"
+"Arizona Cardinals","ARI","TQB","","20.7","0"
+"Cincinnati Bengals","CIN","TK","","20.11","0"
+"Philadelphia Eagles","PHI","TK","","22.9","0"
+"Cleveland Browns","CLE","TQB","","23.5","0"
+"Atlanta Falcons","ATL","TQB","","23.10","0"
+"Las Vegas Raiders","LVR","TK","","24.10","0"
+"Miami Dolphins","MIA","TK","","24.12","0"
+"New Orleans Saints","NO","TK","","25.2","0"
+"Atlanta Falcons","ATL","TK","","25.4","0"
+"Buffalo Bills","BUF","TK","","25.8","0"
+"Washington Commanders","WAS","TK","","25.10","0"
+"New York Jets","NYJ","TK","","25.11","0"

@@ -142,15 +142,15 @@ Rank,Position,Name,Team
 281,RB,Seth McGowan,IND
 42,WR,Emeka Egbuka,TB
 122,RB,Woody Marks,HOU
-202,WR,Stefon Diggs,FA
+202,WR,Tre Harris,LAC
 282,RB,Kendre Miller,NO
 43,WR,Davante Adams,LAR
 123,RB,Zach Charbonnet,SEA
-203,WR,Tre Harris,LAC
+203,WR,Ryan Flournoy,DAL
 283,RB,Jawhar Jordan,HOU
 44,WR,Ladd McConkey,LAC
 124,WR,Quentin Johnston,LAC
-204,WR,Ryan Flournoy,DAL
+204,WR,Antonio Williams,WAS
 284,WR,Marvin Mims Jr.,DEN
 45,WR,Terry McLaurin,WAS
 125,WR,KC Concepcion,CLE
@@ -159,27 +159,27 @@ Rank,Position,Name,Team
 126,WR,Deebo Samuel Sr.,SF
 206,TE,Pat Freiermuth,PIT
 47,WR,Jaylen Waddle,DEN
-127,WR,Chris Godwin Jr.,TB
+127,WR,Stefon Diggs,WAS
 207,TE,Dalton Schultz,HOU
 287,K1,Trey Smack,GB
 48,WR,Jameson Williams,DET
-128,WR,Romeo Doubs,NE
+128,WR,Chris Godwin Jr.,TB
 208,WR,Xavier Legette,CAR
 288,K1,Jake Elliott,PHI
 49,TE,Colston Loveland,CHI
-129,WR,Jayden Higgins,HOU
+129,WR,Romeo Doubs,NE
 209,WR,Jack Bech,LV
 289,TE,Mike Gesicki,CIN
 50,TE,Tyler Warren,IND
-130,WR,Jalen Coker,CAR
+130,WR,Jayden Higgins,HOU
 210,WR,Isaac TeSlaa,DET
 290,TE,Evan Engram,DEN
 51,WR,Carnell Tate,TEN
-131,WR,Jerry Jeudy,CLE
+131,WR,Jalen Coker,CAR
 211,WR,Chris Bell,MIA
 291,TE,David Njoku,LAC
 52,WR,Rome Odunze,CHI
-132,WR,Rashid Shaheed,SEA
+132,WR,Jerry Jeudy,CLE
 212,RB,Jonah Coleman,DEN
 292,TE,Michael Mayer,LV
 53,WR,Luther Burden III,CHI
@@ -217,22 +217,22 @@ Rank,Position,Name,Team
 142,RB,Tank Bigsby,PHI
 222,RB,Demond Claiborne,MIN
 63,RB,Jadarian Price,SEA
-143,WR,Jalen McMillan,TB
+143,WR,Rashid Shaheed,SEA
 223,RB,Kimani Vidal,LAC
 64,RB,Tony Pollard,TEN
-144,WR,Calvin Ridley,TEN
+144,WR,Jalen McMillan,TB
 224,WR,Malik Washington,MIA
 65,WR,Courtland Sutton,DEN
-145,WR,Denzel Boston,CLE
+145,WR,Calvin Ridley,TEN
 225,RB,Jaylen Wright,MIA
 66,WR,Michael Pittman Jr.,PIT
-146,WR,Travis Hunter,JAC
+146,WR,Denzel Boston,CLE
 226,RB,Ollie Gordon II,MIA
 67,WR,Alec Pierce,IND
-147,WR,Adonai Mitchell,NYJ
+147,WR,Travis Hunter,JAC
 227,WR,Jalen Tolbert,MIA
 68,WR,Marvin Harrison Jr.,ARI
-148,WR,De'Zhaun Stribling,SF
+148,WR,Adonai Mitchell,NYJ
 228,WR,Cooper Kupp,SEA
 69,WR,DK Metcalf,PIT
 149,QB,Baker Mayfield,TB
@@ -241,10 +241,10 @@ Rank,Position,Name,Team
 150,QB,Malik Willis,MIA
 230,WR,Kayshon Boutte,NE
 71,TE,Kyle Pitts,ATL
-151,WR,Germie Bernard,PIT
+151,WR,De'Zhaun Stribling,SF
 231,WR,Brandon Aiyuk,SF
 72,TE,Harold Fannin Jr.,CLE
-152,WR,Antonio Williams,WAS
+152,WR,Germie Bernard,PIT
 232,WR,Ja'Kobi Lane,BAL
 73,TE,Sam LaPorta,DET
 153,WR,Tre Tucker,LV
