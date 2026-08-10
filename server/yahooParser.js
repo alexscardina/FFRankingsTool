@@ -11,6 +11,8 @@ const players = JSON.parse(fs.readFileSync(playersFile, 'utf-8'));
 const nameToPlayerMap = new Map();
 for (const player of players) {
   nameToPlayerMap.set(player.name, player);
+  // hardcode in Travis Hunter because he's not in yahoo's rankings at all
+  if (player.name === 'Travis Hunter') player.rankings.yahoo.overall = 250;
 }
 const updatedPlayers = new Set();
 
@@ -40,8 +42,8 @@ fs.createReadStream(yahooCsv)
   })
   .on('end', () => {
     const playersWithPosRank = addPositionRanks(players, 'yahoo');
-    // const newPlayers = playersWithPosRank.filter(x => x.rankings.yahoo.overall);
-    const newPlayers = playersWithPosRank;
+    const newPlayers = playersWithPosRank.filter(x => x.rankings.yahoo.overall);
+    // const newPlayers = playersWithPosRank;
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
     console.log(`✅ Yahoo ranks added for ${updatedPlayers.size} players`);
   });
