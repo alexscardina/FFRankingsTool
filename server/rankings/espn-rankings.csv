@@ -1,15 +1,15 @@
 Rank,Position,Name,Team
 1,RB,Jahmyr Gibbs,DET
-81,WR,Brian Thomas Jr.,JAC
+81,WR,Jakobi Meyers,JAC
 161,WR,Jalen Nailor,LV
 241,RB,Nicholas Singleton,TEN
 2,RB,Bijan Robinson,ATL
 82,QB,Trevor Lawrence,JAC
-162,WR,Rashod Bateman,BAL
+162,WR,Keenan Allen,IND
 242,RB,Demond Claiborne,MIN
 3,WR,Ja'Marr Chase,CIN
 83,QB,Dak Prescott,DAL
-163,WR,Ja'Kobi Lane,BAL
+163,WR,Rashod Bateman,BAL
 243,RB,Adam Randall,BAL
 4,WR,Puka Nacua,LAR
 84,QB,Bo Nix,DEN
@@ -17,7 +17,7 @@ Rank,Position,Name,Team
 244,RB,Emmett Johnson,KC
 5,WR,Jaxon Smith-Njigba,SEA
 85,QB,Brock Purdy,SF
-165,WR,Germie Bernard,PIT
+165,WR,Jaylin Noel,HOU
 245,RB,LeQuint Allen,JAC
 6,RB,Christian McCaffrey,SF
 86,QB,Matthew Stafford,LAR
@@ -28,27 +28,27 @@ Rank,Position,Name,Team
 167,RB,Mike Washington Jr.,LV
 247,RB,Sean Tucker,TB
 8,WR,Amon-Ra St. Brown,DET
-88,WR,Jakobi Meyers,JAC
-168,RB,Braelon Allen,NYJ
+88,WR,Wan'Dale Robinson,TEN
+168,RB,Tyrone Tracy Jr.,NYG
 248,RB,James Conner,ARI
 9,WR,CeeDee Lamb,DAL
-89,WR,Wan'Dale Robinson,TEN
+89,WR,Jordan Addison,MIN
 249,RB,Emari Demercado,KC
 10,RB,De'Von Achane,MIA
-90,WR,Josh Downs,IND
+90,WR,Khalil Shakir,BUF
 250,RB,Chris Brooks,GB
 11,WR,Justin Jefferson,MIN
-91,WR,Jordan Addison,MIN
+91,WR,Jayden Reed,GB
 251,RB,DJ Giddens,IND
 12,RB,James Cook III,BUF
-92,WR,Khalil Shakir,BUF
+92,WR,Xavier Worthy,KC
 252,WR,Isaac TeSlaa,DET
-13,RB,Jeremiyah Love,ARI
+13,RB,Ashton Jeanty,LV
 93,QB,Justin Herbert,LAC
 253,WR,Pat Bryant,DEN
 14,WR,Drake London,ATL
 94,QB,Patrick Mahomes II,KC
-15,RB,Ashton Jeanty,LV
+15,RB,Jeremiyah Love,ARI
 95,RB,Jaylen Warren,PIT
 16,WR,Rashee Rice,KC
 96,RB,Rico Dowdle,PIT
@@ -68,28 +68,28 @@ Rank,Position,Name,Team
 21,RB,Kenneth Walker III,KC
 101,TE,Tucker Kraft,GB
 261,WR,Marvin Mims Jr.,DEN
-22,RB,Breece Hall,NYJ
+22,RB,Omarion Hampton,LAC
 102,TE,George Kittle,SF
 262,WR,KaVontae Turpin,DAL
-23,RB,Omarion Hampton,LAC
+23,RB,Breece Hall,NYJ
 103,TE,Dallas Goedert,PHI
-263,WR,Jack Bech,LV
+263,WR,Xavier Hutchinson,HOU
 24,TE,Brock Bowers,LV
 104,TE,Travis Kelce,KC
-264,WR,Tory Horton,SEA
+264,WR,Jack Bech,LV
 25,WR,Nico Collins,HOU
 105,RB,J.K. Dobbins,DEN
 265,RB,Emanuel Wilson,SEA
-26,WR,Garrett Wilson,NYJ
+26,WR,Chris Olave,NO
 106,RB,Kyle Monangai,CHI
 266,RB,Will Shipley,PHI
-27,WR,A.J. Brown,NE
+27,WR,Garrett Wilson,NYJ
 107,RB,Jacory Croskey-Merritt,WAS
 267,QB,Geno Smith,NYJ
-28,WR,Malik Nabers,NYG
+28,WR,A.J. Brown,NE
 108,RB,Rachaad White,WAS
 268,QB,Fernando Mendoza,LV
-29,WR,Chris Olave,NO
+29,WR,Malik Nabers,NYG
 109,TE,Jake Ferguson,DAL
 269,QB,Aaron Rodgers,PIT
 30,RB,Josh Jacobs,GB
@@ -99,17 +99,17 @@ Rank,Position,Name,Team
 31,RB,Javonte Williams,DAL
 111,TE,T.J. Hockenson,MIN
 191,K1,Cairo Santos,CHI
-271,WR,Ted Hurst,TB
+271,WR,Tory Horton,SEA
 32,WR,George Pickens,DAL
-112,WR,Jayden Reed,GB
+112,WR,Quentin Johnston,LAC
 192,K1,Will Reichard,MIN
-272,WR,Ashton Dulin,IND
+272,WR,Ted Hurst,TB
 33,WR,Tetairoa McMillan,CAR
-113,WR,Xavier Worthy,KC
-193,RB,Jonah Coleman,DEN
+113,WR,Josh Downs,IND
+193,RB,Braelon Allen,NYJ
 273,WR,Darnell Mooney,NYG
 34,WR,Zay Flowers,BAL
-114,WR,Quentin Johnston,LAC
+114,WR,Deebo Samuel Sr.,SF
 194,TE,Brenton Strange,JAC
 274,WR,DeMario Douglas,NE
 35,WR,DeVonta Smith,PHI
@@ -122,64 +122,64 @@ Rank,Position,Name,Team
 276,RB,Phil Mafah,DAL
 37,RB,Travis Etienne Jr.,NO
 117,TE,Dalton Kincaid,BUF
-197,WR,Jauan Jennings,MIN
-277,RB,Devin Singletary,NYG
+197,WR,Ja'Kobi Lane,BAL
+277,RB,Najee Harris,NYG
 38,RB,Kyren Williams,LAR
 118,TE,Kenyon Sadiq,NYJ
 198,QB,Jordan Love,GB
 278,RB,Tahj Brooks,CIN
-39,RB,Cam Skattebo,NYG
+39,RB,Quinshon Judkins,CLE
 119,TE,Hunter Henry,NE
 199,QB,C.J. Stroud,HOU
 279,RB,Trevor Etienne,CAR
-40,RB,Quinshon Judkins,CLE
+40,RB,Cam Skattebo,NYG
 120,RB,Jordan Mason,MIN
 200,QB,Sam Darnold,SEA
 280,RB,Seth McGowan,IND
 41,RB,Bucky Irving,TB
 121,RB,Blake Corum,LAR
-201,WR,Tank Dell,HOU
+201,WR,Devaughn Vele,NO
 281,RB,Kendre Miller,NO
 42,WR,Emeka Egbuka,TB
 122,RB,RJ Harvey,DEN
-202,WR,Tre Harris,LAC
+202,WR,Germie Bernard,PIT
 282,RB,Jawhar Jordan,HOU
 43,WR,Davante Adams,LAR
 123,RB,Woody Marks,HOU
-203,WR,Ryan Flournoy,DAL
+203,WR,Jauan Jennings,MIN
 283,RB,Kaleb Johnson,PIT
 44,WR,Ladd McConkey,LAC
-124,WR,Deebo Samuel Sr.,SF
-204,WR,Zachariah Branch,ATL
+124,WR,Stefon Diggs,WAS
+204,WR,Tre Harris,LAC
 284,WR,Malachi Fields,NYG
 45,WR,Terry McLaurin,WAS
-125,WR,Stefon Diggs,WAS
-205,WR,Omar Cooper Jr.,NYJ
+125,WR,Makai Lemon,PHI
+205,WR,Ryan Flournoy,DAL
 46,WR,Tee Higgins,CIN
-126,WR,Makai Lemon,PHI
+126,WR,KC Concepcion,CLE
 206,TE,Pat Freiermuth,PIT
 47,WR,Jaylen Waddle,DEN
-127,WR,KC Concepcion,CLE
+127,WR,Chris Godwin Jr.,TB
 207,TE,Dalton Schultz,HOU
 287,K1,Trey Smack,GB
 48,WR,Rome Odunze,CHI
-128,WR,Chris Godwin Jr.,TB
-208,WR,Kayshon Boutte,NE
+128,WR,Romeo Doubs,NE
+208,WR,Zachariah Branch,ATL
 288,K1,Jake Elliott,PHI
 49,TE,Colston Loveland,CHI
-129,WR,Romeo Doubs,NE
-209,WR,Malik Washington,MIA
+129,WR,De'Zhaun Stribling,SF
+209,WR,Omar Cooper Jr.,NYJ
 289,TE,Evan Engram,DEN
 50,TE,Tyler Warren,IND
-130,WR,De'Zhaun Stribling,SF
-210,WR,Cooper Kupp,SEA
+130,WR,Tank Dell,HOU
+210,WR,Kayshon Boutte,NE
 290,TE,David Njoku,LAC
 51,WR,Jameson Williams,DET
-131,WR,Jayden Higgins,HOU
-211,WR,Xavier Legette,CAR
+131,WR,Jalen Coker,CAR
+211,WR,Malik Washington,MIA
 291,TE,Oronde Gadsden II,LAC
 52,WR,DJ Moore,BUF
-132,WR,Jalen Coker,CAR
+132,WR,Rashid Shaheed,SEA
 212,RB,Jordan James,SF
 292,TE,Mike Gesicki,CIN
 53,WR,Luther Burden III,CHI
@@ -211,60 +211,61 @@ Rank,Position,Name,Team
 140,RB,Chris Rodriguez Jr.,JAC
 220,QB,Jacoby Brissett,ARI
 61,RB,David Montgomery,HOU
-141,RB,Tyrone Tracy Jr.,NYG
+141,RB,Brian Robinson Jr.,ATL
 221,RB,Jaylen Wright,MIA
 62,RB,Jadarian Price,SEA
-142,RB,Brian Robinson Jr.,ATL
+142,RB,Tyler Aligeier,ARI
 222,RB,Ollie Gordon II,MIA
 63,RB,TreVeyon Henderson,NE
-143,WR,Rashid Shaheed,SEA
+143,WR,Denzel Boston,CLE
 223,RB,Samaje Perine,CIN
-144,WR,Denzel Boston,CLE
-224,WR,Jahan Dotson,ATL
+64,RB,Rhamondre Stevenson,NE
+144,WR,Jerry Jeudy,CLE
+224,WR,Cooper Kupp,SEA
 65,WR,Courtland Sutton,DEN
-145,WR,Jerry Jeudy,CLE
+145,WR,Jalen McMillan,TB
 225,RB,Ty Johnson,BUF
 66,WR,Michael Pittman Jr.,PIT
-146,WR,Jalen McMillan,TB
+146,WR,Calvin Ridley,TEN
 226,RB,Isaiah Davis,NYJ
-67,WR,Alec Pierce,IND
-147,WR,Calvin Ridley,TEN
-227,WR,Darius Slayton,NYG
-68,WR,Marvin Harrison Jr.,ARI
-148,WR,Caleb Douglas,MIA
-228,WR,Jalen Tolbert,MIA
-69,WR,DK Metcalf,PIT
+67,WR,Marvin Harrison Jr.,ARI
+147,WR,Caleb Douglas,MIA
+227,WR,Xavier Legette,CAR
+68,WR,DK Metcalf,PIT
+148,WR,Adonai Mitchell,NYJ
+228,WR,Jahan Dotson,ATL
+69,WR,Parker Washington,JAC
 149,QB,Baker Mayfield,TB
-229,WR,Chris Bell,MIA
-70,WR,Parker Washington,JAC
+229,WR,Darius Slayton,NYG
+70,WR,Alec Pierce,IND
 150,QB,Malik Willis,MIA
-230,WR,Devaughn Vele,NO
+230,WR,Jalen Tolbert,MIA
 71,TE,Kyle Pitts,ATL
-151,WR,Adonai Mitchell,NYJ
-231,WR,Antonio Williams,WAS
+151,WR,Travis Hunter,JAC
+231,WR,Chris Bell,MIA
 72,TE,Harold Fannin Jr.,CLE
-152,WR,Travis Hunter,JAC
-232,WR,Tyquan Thornton,KC
+152,WR,Jordyn Tyson,NO
+232,WR,Antonio Williams,WAS
 73,TE,Sam LaPorta,DET
 153,WR,Tre Tucker,LV
-233,WR,Jaylin Noel,HOU
+233,WR,Tyquan Thornton,KC
 74,QB,Joe Burrow,CIN
-154,RB,Tyler Allgeier,ARI
+154,RB,Keaton Mitchell,LAC
 234,WR,Keon Coleman,BUF
 75,QB,Jaxson Dart,NYG
-155,RB,Keaton Mitchell,LAC
+155,RB,Isiah Pacheco,DET
 76,WR,Mike Evans,SF
-156,RB,Isiah Pacheco,DET
-77,WR,Jordyn Tyson,NO
+156,RB,Jonah Coleman,DEN
+77,WR,Christian Watson,GB
 157,RB,Tank Bigsby,PHI
 237,K1,Chris Boswell,PIT
-78,WR,Christian Watson,GB
+78,WR,Matthew Golden,GB
 158,RB,Ray Davis,BUF
 238,K1,Chase McLaughlin,TB
-79,WR,Matthew Golden,GB
+79,WR,Michael Wilson,ARI
 159,TE,Terrance Ferguson,LAR
 239,RB,Jaydon Blue,DAL
-80,WR,Michael Wilson,ARI
+80,WR,Brian Thomas Jr.,JAC
 160,TE,Juwan Johnson,NO
 240,RB,Kaytron Allen,WAS
 1,RB,Jahmyr Gibbs,DET
