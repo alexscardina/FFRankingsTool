@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start",
-    "update": "cd server && node fpParser.js && python3 espn_ocr.py && python3 format_espn_ocr.py && node yahooParser.js && node espnParser.js && node dsParser.js && node sleeperParser.js && node nfcParser.js && node mergeRanks.js && rm raw_espn_rankings.txt && rm raw-players.json && cd ../ && git add . && git commit -m 'rankings update' && git push origin main",
+    "update": "cd server && node fpParser.js && python3 espn_ocr.py && python3 format_espn_ocr.py && node yahooParser.js && node espnParser.js && node dsParser.js && node sleeperParser.js && node nfcParser.js && node mergeRanks.js && rm raw_espn_rankings.txt && rm raw-players.json && cd ../ && git add . && git commit -m \"rankings update $(node -p \"require('fs').readFileSync('src/data/lastUpdated.js','utf8').match(/'([^']+)'/)[1]\")\" && git push origin main",
     "update-keep-raw": "cd server && node fpParser.js && python3 espn_ocr.py && python3 format_espn_ocr.py && node yahooParser.js && node espnParser.js && node dsParser.js && node sleeperParser.js && node nfcParser.js && node mergeRanks.js"
   },
   "author": "Alex Scardina",
