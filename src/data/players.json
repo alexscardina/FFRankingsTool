@@ -172,7 +172,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 7,
+        "overall": 6,
         "position": 4
       },
       "espn": {
@@ -238,7 +238,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 6,
+        "overall": 7,
         "position": 3
       },
       "espn": {
@@ -403,8 +403,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 18,
-        "position": 7
+        "overall": 19,
+        "position": 8
       },
       "espn": {
         "overall": 14,
@@ -436,8 +436,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 14,
-        "position": 8
+        "overall": 13,
+        "position": 7
       },
       "espn": {
         "overall": 20,
@@ -469,8 +469,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 20,
-        "position": 8
+        "overall": 18,
+        "position": 7
       },
       "espn": {
         "overall": 28,
@@ -535,7 +535,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 19,
+        "overall": 20,
         "position": 1
       },
       "espn": {
@@ -602,7 +602,7 @@
     "rankings": {
       "nfc": {
         "overall": 23,
-        "position": 9
+        "position": 10
       },
       "espn": {
         "overall": 25,
@@ -634,8 +634,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 13,
-        "position": 7
+        "overall": 14,
+        "position": 8
       },
       "espn": {
         "overall": 22,
@@ -733,8 +733,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 24,
-        "position": 10
+        "overall": 22,
+        "position": 9
       },
       "espn": {
         "overall": 32,
@@ -766,7 +766,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 22,
+        "overall": 27,
         "position": 2
       },
       "espn": {
@@ -799,7 +799,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 28,
+        "overall": 25,
         "position": 12
       },
       "espn": {
@@ -833,7 +833,7 @@
     "rankings": {
       "nfc": {
         "overall": 26,
-        "position": 11
+        "position": 13
       },
       "espn": {
         "overall": 16,
@@ -865,8 +865,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 29,
-        "position": 13
+        "overall": 24,
+        "position": 11
       },
       "espn": {
         "overall": 29,
@@ -898,7 +898,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 27,
+        "overall": 31,
         "position": 1
       },
       "espn": {
@@ -931,7 +931,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 32,
+        "overall": 28,
         "position": 14
       },
       "espn": {
@@ -964,8 +964,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 33,
-        "position": 15
+        "overall": 30,
+        "position": 16
       },
       "espn": {
         "overall": 34,
@@ -997,8 +997,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 30,
-        "position": 14
+        "overall": 34,
+        "position": 15
       },
       "espn": {
         "overall": 38,
@@ -1030,8 +1030,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 35,
-        "position": 16
+        "overall": 39,
+        "position": 20
       },
       "espn": {
         "overall": 33,
@@ -1063,7 +1063,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 37,
+        "overall": 36,
         "position": 18
       },
       "espn": {
@@ -1096,7 +1096,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 34,
+        "overall": 37,
         "position": 16
       },
       "espn": {
@@ -1129,8 +1129,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 31,
-        "position": 15
+        "overall": 33,
+        "position": 14
       },
       "espn": {
         "overall": 23,
@@ -1162,7 +1162,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 39,
+        "overall": 42,
         "position": 17
       },
       "espn": {
@@ -1228,8 +1228,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 40,
-        "position": 20
+        "overall": 35,
+        "position": 17
       },
       "espn": {
         "overall": 44,
@@ -1261,8 +1261,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 57,
-        "position": 3
+        "overall": 64,
+        "position": 4
       },
       "espn": {
         "overall": 56,
@@ -1294,7 +1294,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 25,
+        "overall": 32,
         "position": 13
       },
       "espn": {
@@ -1327,8 +1327,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 43,
-        "position": 22
+        "overall": 40,
+        "position": 21
       },
       "espn": {
         "overall": 47,
@@ -1360,8 +1360,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 36,
-        "position": 17
+        "overall": 29,
+        "position": 15
       },
       "espn": {
         "overall": 42,
@@ -1393,7 +1393,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 44,
+        "overall": 43,
         "position": 3
       },
       "espn": {
@@ -1426,8 +1426,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 59,
-        "position": 4
+        "overall": 63,
+        "position": 3
       },
       "espn": {
         "overall": 57,
@@ -1459,8 +1459,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 41,
-        "position": 18
+        "overall": 46,
+        "position": 19
       },
       "espn": {
         "overall": 37,
@@ -1492,7 +1492,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 46,
+        "overall": 44,
         "position": 23
       },
       "espn": {
@@ -1525,8 +1525,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 49,
-        "position": 25
+        "overall": 51,
+        "position": 27
       },
       "espn": {
         "overall": 43,
@@ -1558,8 +1558,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 42,
-        "position": 21
+        "overall": 41,
+        "position": 22
       },
       "espn": {
         "overall": 53,
@@ -1592,7 +1592,7 @@
     "rankings": {
       "nfc": {
         "overall": 52,
-        "position": 23
+        "position": 21
       },
       "espn": {
         "overall": 60,
@@ -1624,7 +1624,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 55,
+        "overall": 60,
         "position": 2
       },
       "espn": {
@@ -1658,7 +1658,7 @@
     "rankings": {
       "nfc": {
         "overall": 45,
-        "position": 19
+        "position": 18
       },
       "espn": {
         "overall": 40,
@@ -1690,8 +1690,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 48,
-        "position": 24
+        "overall": 49,
+        "position": 26
       },
       "espn": {
         "overall": 51,
@@ -1723,7 +1723,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 61,
+        "overall": 56,
         "position": 4
       },
       "espn": {
@@ -1756,7 +1756,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 51,
+        "overall": 55,
         "position": 22
       },
       "espn": {
@@ -1789,8 +1789,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 53,
-        "position": 24
+        "overall": 61,
+        "position": 25
       },
       "espn": {
         "overall": 41,
@@ -1822,7 +1822,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 47,
+        "overall": 50,
         "position": 20
       },
       "espn": {
@@ -1855,8 +1855,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 54,
-        "position": 26
+        "overall": 48,
+        "position": 25
       },
       "espn": {
         "overall": 77,
@@ -1888,8 +1888,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 58,
-        "position": 28
+        "overall": 47,
+        "position": 24
       },
       "espn": {
         "overall": 52,
@@ -1921,8 +1921,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 56,
-        "position": 27
+        "overall": 54,
+        "position": 29
       },
       "espn": {
         "overall": 76,
@@ -1954,8 +1954,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 60,
-        "position": 29
+        "overall": 53,
+        "position": 28
       },
       "espn": {
         "overall": 48,
@@ -1987,8 +1987,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 69,
-        "position": 5
+        "overall": 79,
+        "position": 6
       },
       "espn": {
         "overall": 55,
@@ -2020,8 +2020,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 75,
-        "position": 8
+        "overall": 93,
+        "position": 10
       },
       "espn": {
         "overall": 58,
@@ -2053,8 +2053,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 62,
-        "position": 25
+        "overall": 58,
+        "position": 24
       },
       "espn": {
         "overall": 59,
@@ -2086,8 +2086,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 50,
-        "position": 21
+        "overall": 57,
+        "position": 23
       },
       "espn": {
         "overall": 63,
@@ -2119,7 +2119,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 65,
+        "overall": 66,
         "position": 26
       },
       "espn": {
@@ -2152,8 +2152,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 71,
-        "position": 6
+        "overall": 74,
+        "position": 5
       },
       "espn": {
         "overall": 87,
@@ -2185,8 +2185,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 68,
-        "position": 33
+        "overall": 59,
+        "position": 30
       },
       "espn": {
         "overall": 69,
@@ -2218,7 +2218,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 82,
+        "overall": 77,
         "position": 5
       },
       "espn": {
@@ -2251,7 +2251,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 73,
+        "overall": 83,
         "position": 7
       },
       "espn": {
@@ -2284,8 +2284,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 64,
-        "position": 31
+        "overall": 65,
+        "position": 32
       },
       "espn": {
         "overall": 67,
@@ -2317,7 +2317,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 67,
+        "overall": 68,
         "position": 27
       },
       "espn": {
@@ -2350,8 +2350,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 63,
-        "position": 30
+        "overall": 62,
+        "position": 31
       },
       "espn": {
         "overall": 54,
@@ -2383,8 +2383,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 79,
-        "position": 30
+        "overall": 73,
+        "position": 29
       },
       "espn": {
         "overall": 64,
@@ -2416,8 +2416,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 66,
-        "position": 32
+        "overall": 67,
+        "position": 33
       },
       "espn": {
         "overall": 80,
@@ -2449,8 +2449,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 81,
-        "position": 9
+        "overall": 86,
+        "position": 8
       },
       "espn": {
         "overall": 82,
@@ -2483,7 +2483,7 @@
     "rankings": {
       "nfc": {
         "overall": 80,
-        "position": 31
+        "position": 30
       },
       "espn": {
         "overall": 97,
@@ -2515,8 +2515,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 86,
-        "position": 7
+        "overall": 94,
+        "position": 8
       },
       "espn": {
         "overall": 72,
@@ -2549,7 +2549,7 @@
     "rankings": {
       "nfc": {
         "overall": 70,
-        "position": 34
+        "position": 35
       },
       "espn": {
         "overall": 68,
@@ -2581,8 +2581,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 93,
-        "position": 8
+        "overall": 91,
+        "position": 7
       },
       "espn": {
         "overall": 73,
@@ -2614,8 +2614,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 83,
-        "position": 10
+        "overall": 88,
+        "position": 9
       },
       "espn": {
         "overall": 83,
@@ -2647,8 +2647,8 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 90,
-        "position": 32
+        "overall": 95,
+        "position": 34
       },
       "espn": {
         "overall": 96,
@@ -2680,7 +2680,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 85,
+        "overall": 82,
         "position": 6
       },
       "espn": {
@@ -2713,8 +2713,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 89,
-        "position": 41
+        "overall": 75,
+        "position": 37
       },
       "espn": {
         "overall": 127,
@@ -2746,8 +2746,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 72,
-        "position": 35
+        "overall": 69,
+        "position": 34
       },
       "espn": {
         "overall": 65,
@@ -2779,7 +2779,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 101,
+        "overall": 98,
         "position": 36
       },
       "espn": {
@@ -2812,8 +2812,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 102,
-        "position": 37
+        "overall": 71,
+        "position": 28
       },
       "espn": {
         "overall": 99,
@@ -2845,7 +2845,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 88,
+        "overall": 81,
         "position": 40
       },
       "espn": {
@@ -2878,8 +2878,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 84,
-        "position": 38
+        "overall": 78,
+        "position": 39
       },
       "espn": {
         "overall": 79,
@@ -2911,8 +2911,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 87,
-        "position": 39
+        "overall": 72,
+        "position": 36
       },
       "espn": {
         "overall": 112,
@@ -2944,8 +2944,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 78,
-        "position": 29
+        "overall": 96,
+        "position": 35
       },
       "espn": {
         "overall": 100,
@@ -2977,8 +2977,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 95,
-        "position": 34
+        "overall": 87,
+        "position": 31
       },
       "espn": {
         "overall": 121,
@@ -3010,8 +3010,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 74,
-        "position": 36
+        "overall": 85,
+        "position": 42
       },
       "espn": {
         "overall": 70,
@@ -3043,7 +3043,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 99,
+        "overall": 109,
         "position": 13
       },
       "espn": {
@@ -3076,8 +3076,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 77,
-        "position": 28
+        "overall": 89,
+        "position": 32
       },
       "espn": {
         "overall": 122,
@@ -3109,8 +3109,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 103,
-        "position": 45
+        "overall": 84,
+        "position": 41
       },
       "espn": {
         "overall": 113,
@@ -3175,8 +3175,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 97,
-        "position": 12
+        "overall": 110,
+        "position": 14
       },
       "espn": {
         "overall": 75,
@@ -3208,7 +3208,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 98,
+        "overall": 90,
         "position": 43
       },
       "espn": {
@@ -3241,7 +3241,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 105,
+        "overall": 115,
         "position": 15
       },
       "espn": {
@@ -3274,7 +3274,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 108,
+        "overall": 118,
         "position": 16
       },
       "espn": {
@@ -3307,7 +3307,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 120,
+        "overall": 111,
         "position": 40
       },
       "espn": {
@@ -3340,8 +3340,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 96,
-        "position": 35
+        "overall": 105,
+        "position": 39
       },
       "espn": {
         "overall": 106,
@@ -3373,8 +3373,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 129,
-        "position": 54
+        "overall": 106,
+        "position": 48
       },
       "espn": {
         "overall": 124,
@@ -3406,7 +3406,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 106,
+        "overall": 102,
         "position": 46
       },
       "espn": {
@@ -3440,7 +3440,7 @@
     "rankings": {
       "nfc": {
         "overall": 121,
-        "position": 11
+        "position": 12
       },
       "espn": {
         "overall": 104,
@@ -3472,7 +3472,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 91,
+        "overall": 92,
         "position": 33
       },
       "espn": {
@@ -3505,8 +3505,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 110,
-        "position": 39
+        "overall": 100,
+        "position": 37
       },
       "espn": {
         "overall": 120,
@@ -3538,7 +3538,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 92,
+        "overall": 104,
         "position": 11
       },
       "espn": {
@@ -3571,8 +3571,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 107,
-        "position": 47
+        "overall": 97,
+        "position": 44
       },
       "espn": {
         "overall": 91,
@@ -3604,7 +3604,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 109,
+        "overall": 101,
         "position": 38
       },
       "espn": {
@@ -3637,8 +3637,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 104,
-        "position": 14
+        "overall": 108,
+        "position": 12
       },
       "espn": {
         "overall": 135,
@@ -3670,8 +3670,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 100,
-        "position": 44
+        "overall": 103,
+        "position": 47
       },
       "espn": {
         "overall": 81,
@@ -3703,8 +3703,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 94,
-        "position": 42
+        "overall": 99,
+        "position": 45
       },
       "espn": {
         "overall": 125,
@@ -3736,8 +3736,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 122,
-        "position": 12
+        "overall": 117,
+        "position": 10
       },
       "espn": {
         "overall": 117,
@@ -3769,7 +3769,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 130,
+        "overall": 129,
         "position": 41
       },
       "espn": {
@@ -3802,7 +3802,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 119,
+        "overall": 133,
         "position": 19
       },
       "espn": {
@@ -3835,7 +3835,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 127,
+        "overall": 125,
         "position": 14
       },
       "espn": {
@@ -3868,8 +3868,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 125,
-        "position": 13
+        "overall": 119,
+        "position": 11
       },
       "espn": {
         "overall": 116,
@@ -3901,8 +3901,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 116,
-        "position": 10
+        "overall": 124,
+        "position": 13
       },
       "espn": {
         "overall": 109,
@@ -3934,7 +3934,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 111,
+        "overall": 126,
         "position": 17
       },
       "espn": {
@@ -3967,7 +3967,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 123,
+        "overall": 134,
         "position": 20
       },
       "espn": {
@@ -4000,7 +4000,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 132,
+        "overall": 135,
         "position": 15
       },
       "espn": {
@@ -4033,8 +4033,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 135,
-        "position": 43
+        "overall": 137,
+        "position": 44
       },
       "espn": {
         "overall": 140,
@@ -4066,8 +4066,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 114,
-        "position": 48
+        "overall": 116,
+        "position": 51
       },
       "espn": {
         "overall": 92,
@@ -4099,7 +4099,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 126,
+        "overall": 120,
         "position": 52
       },
       "espn": {
@@ -4132,7 +4132,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 117,
+        "overall": 131,
         "position": 18
       },
       "espn": {
@@ -4165,8 +4165,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 128,
-        "position": 53
+        "overall": 123,
+        "position": 54
       },
       "espn": {
         "overall": 131,
@@ -4199,7 +4199,7 @@
     "rankings": {
       "nfc": {
         "overall": 76,
-        "position": 37
+        "position": 38
       },
       "espn": {
         "overall": 152,
@@ -4231,8 +4231,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 124,
-        "position": 51
+        "overall": 122,
+        "position": 53
       },
       "espn": {
         "overall": 90,
@@ -4264,7 +4264,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 115,
+        "overall": 107,
         "position": 49
       },
       "espn": {
@@ -4297,8 +4297,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 136,
-        "position": 44
+        "overall": 139,
+        "position": 45
       },
       "espn": {
         "overall": 123,
@@ -4330,7 +4330,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 131,
+        "overall": 130,
         "position": 42
       },
       "espn": {
@@ -4363,7 +4363,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 143,
+        "overall": 147,
         "position": 17
       },
       "espn": {
@@ -4396,7 +4396,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 118,
+        "overall": 114,
         "position": 50
       },
       "espn": {
@@ -4429,7 +4429,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 137,
+        "overall": 145,
         "position": 21
       },
       "espn": {
@@ -4462,7 +4462,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 155,
+        "overall": 150,
         "position": 49
       },
       "espn": {
@@ -4495,8 +4495,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 182,
-        "position": 64
+        "overall": 136,
+        "position": 57
       },
       "espn": {
         "overall": 129,
@@ -4528,7 +4528,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 146,
+        "overall": 142,
         "position": 47
       },
       "espn": {
@@ -4561,8 +4561,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 145,
-        "position": 23
+        "overall": 171,
+        "position": 25
       },
       "espn": {
         "overall": 199,
@@ -4594,8 +4594,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 141,
-        "position": 46
+        "overall": 132,
+        "position": 43
       },
       "espn": {
         "overall": 154,
@@ -4627,8 +4627,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 165,
-        "position": 52
+        "overall": 152,
+        "position": 50
       },
       "espn": {
         "overall": 157,
@@ -4660,8 +4660,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 144,
-        "position": 18
+        "overall": 146,
+        "position": 16
       },
       "espn": {
         "overall": 194,
@@ -4693,8 +4693,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 163,
-        "position": 51
+        "overall": 156,
+        "position": 52
       },
       "espn": {
         "overall": 138,
@@ -4726,7 +4726,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 157,
+        "overall": 162,
         "position": 20
       },
       "espn": {
@@ -4759,7 +4759,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 138,
+        "overall": 155,
         "position": 22
       },
       "espn": {
@@ -4793,7 +4793,7 @@
     "rankings": {
       "nfc": {
         "overall": 140,
-        "position": 45
+        "position": 46
       },
       "espn": {
         "overall": 156,
@@ -4825,8 +4825,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 151,
-        "position": 48
+        "overall": 153,
+        "position": 51
       },
       "espn": {
         "overall": 166,
@@ -4858,8 +4858,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 150,
-        "position": 58
+        "overall": 127,
+        "position": 55
       },
       "espn": {
         "overall": 114,
@@ -4891,8 +4891,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 152,
-        "position": 19
+        "overall": 151,
+        "position": 18
       },
       "espn": {
         "overall": 216,
@@ -4924,8 +4924,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 147,
-        "position": 56
+        "overall": 141,
+        "position": 58
       },
       "espn": {
         "overall": 143,
@@ -4957,8 +4957,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 153,
-        "position": 25
+        "overall": 163,
+        "position": 23
       },
       "espn": {
         "overall": 136,
@@ -4990,7 +4990,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 148,
+        "overall": 165,
         "position": 24
       },
       "espn": {
@@ -5023,8 +5023,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 134,
-        "position": 55
+        "overall": 128,
+        "position": 56
       },
       "espn": {
         "overall": 132,
@@ -5056,8 +5056,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 170,
-        "position": 23
+        "overall": 181,
+        "position": 24
       },
       "espn": {
         "overall": 207,
@@ -5089,8 +5089,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 168,
-        "position": 53
+        "overall": 167,
+        "position": 55
       },
       "espn": {
         "overall": 141,
@@ -5122,8 +5122,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 156,
-        "position": 50
+        "overall": 157,
+        "position": 53
       },
       "espn": {
         "overall": 155,
@@ -5155,8 +5155,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 149,
-        "position": 57
+        "overall": 144,
+        "position": 60
       },
       "espn": {
         "overall": 145,
@@ -5188,8 +5188,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 139,
-        "position": 16
+        "overall": 159,
+        "position": 19
       },
       "espn": {
         "overall": 291,
@@ -5221,8 +5221,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 154,
-        "position": 59
+        "overall": 158,
+        "position": 61
       },
       "espn": {
         "overall": 203,
@@ -5254,7 +5254,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 167,
+        "overall": 198,
         "position": 26
       },
       "espn": {
@@ -5287,7 +5287,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 169,
+        "overall": 178,
         "position": 22
       },
       "espn": {
@@ -5320,8 +5320,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 179,
-        "position": 24
+        "overall": 189,
+        "position": 26
       },
       "espn": {
         "overall": 217,
@@ -5353,8 +5353,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 190,
-        "position": 55
+        "overall": 148,
+        "position": 48
       },
       "espn": {
         "overall": 196,
@@ -5386,8 +5386,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 158,
-        "position": 60
+        "overall": 143,
+        "position": 59
       },
       "espn": {
         "overall": 161,
@@ -5419,8 +5419,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 164,
-        "position": 61
+        "overall": 174,
+        "position": 62
       },
       "espn": {
         "overall": 209,
@@ -5452,8 +5452,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 177,
-        "position": 63
+        "overall": 180,
+        "position": 64
       },
       "espn": {
         "overall": 151,
@@ -5485,8 +5485,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 162,
-        "position": 21
+        "overall": 179,
+        "position": 23
       },
       "espn": {
         "overall": 118,
@@ -5518,8 +5518,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 196,
-        "position": 26
+        "overall": 173,
+        "position": 21
       },
       "espn": {
         "overall": 159,
@@ -5551,8 +5551,8 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 171,
-        "position": 54
+        "overall": 168,
+        "position": 56
       },
       "espn": {
         "overall": 167,
@@ -5584,7 +5584,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 197,
+        "overall": 216,
         "position": 57
       },
       "espn": {
@@ -5617,8 +5617,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 172,
-        "position": 62
+        "overall": 175,
+        "position": 63
       },
       "espn": {
         "overall": 252,
@@ -5650,8 +5650,8 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 191,
-        "position": 56
+        "overall": 161,
+        "position": 54
       },
       "espn": {
         "overall": 239,
@@ -5683,7 +5683,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 185,
+        "overall": 208,
         "position": 27
       },
       "espn": {
@@ -5749,7 +5749,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 193,
+        "overall": 187,
         "position": 25
       },
       "espn": {
