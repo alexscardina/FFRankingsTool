@@ -1,7 +1,32 @@
 import React from 'react';
 import Modal from 'react-modal';
 import data from './../data/players.json';
+import { getPlayerHeadshot } from './../utilities';
 import './../styling/Modal.css';
+
+function RosterSlot({ label, boxClass, player }) {
+  return (
+    <div className={`roster-slot${player ? '' : ' roster-slot-empty'}`}>
+      <div className={`roster-slot-label ${boxClass}`}>{label}</div>
+      {player ? (
+        <div className="roster-slot-player">
+          <div className="roster-slot-name">{player.name}</div>
+          <div className="roster-slot-meta">
+            {player.position} · {player.team}
+          </div>
+          <img
+            className="roster-slot-headshot"
+            src={getPlayerHeadshot(player.name)}
+            alt=""
+            loading="lazy"
+          />
+        </div>
+      ) : (
+        <div className="roster-slot-player roster-slot-player-empty">—</div>
+      )}
+    </div>
+  );
+}
 
 export default function YourPlayersModal({ isOpen, onClose, yourTeam }) {
   const players = JSON.parse(JSON.stringify(data));
@@ -46,77 +71,31 @@ export default function YourPlayersModal({ isOpen, onClose, yourTeam }) {
       } else teCount = teCount + 1;
     }
   });
+
   return (
     <Modal
       isOpen={isOpen}
       onRequestClose={onClose}
-      contentLabel='Your team'
-      style={{
-        content: {
-          top: '50%',
-          left: '50%',
-          right: 'auto',
-          bottom: 'auto',
-          transform: 'translate(-50%, -50%)',
-          width: '90%',
-          maxWidth: '500px',
-          padding: '20px',
-          borderRadius: '10px',
-        },
-      }}
+      contentLabel="Your team"
+      className="app-modal your-players-modal"
+      overlayClassName="app-modal-overlay"
     >
-      <div style={{display: "flex"}}>
-        <div className="qb-box">QB</div>
-        <div className="your-player">{yourQBs.length > 0 ? yourQBs[0].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="rb-box">RB</div>
-        <div className="your-player">{yourRBs.length > 0 ? yourRBs[0].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="rb-box">RB</div>
-        <div className="your-player">{yourRBs.length > 1 ? yourRBs[1].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="wr-box">WR</div>
-        <div className="your-player">{yourWRs.length > 0 ? yourWRs[0].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="wr-box">WR</div>
-        <div className="your-player">{yourWRs.length > 1 ? yourWRs[1].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="te-box">TE</div>
-        <div className="your-player">{yourTEs.length > 0 ? yourTEs[0].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="flx-box">FLEX</div>
-        <div className="your-player">{yourFLEXs.length > 0 ? yourFLEXs[0].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="flx-box">FLEX</div>
-        <div className="your-player">{yourFLEXs.length > 1 ? yourFLEXs[1].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="bench-box">BN</div>
-        <div className="your-player">{yourBench.length > 0 ? yourBench[0].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="bench-box">BN</div>
-        <div className="your-player">{yourBench.length > 1 ? yourBench[1].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="bench-box">BN</div>
-        <div className="your-player">{yourBench.length > 2 ? yourBench[2].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="bench-box">BN</div>
-        <div className="your-player">{yourBench.length > 3 ? yourBench[3].name : ''}</div>
-      </div>
-      <div style={{display: "flex"}}>
-        <div className="bench-box">BN</div>
-        <div className="your-player">{yourBench.length > 4 ? yourBench[4].name : ''}</div>
+      <div className="selected-header your-players-header">Your Team</div>
+      <div className="roster-list">
+        <RosterSlot label="QB" boxClass="qb-box" player={yourQBs[0]} />
+        <RosterSlot label="RB" boxClass="rb-box" player={yourRBs[0]} />
+        <RosterSlot label="RB" boxClass="rb-box" player={yourRBs[1]} />
+        <RosterSlot label="WR" boxClass="wr-box" player={yourWRs[0]} />
+        <RosterSlot label="WR" boxClass="wr-box" player={yourWRs[1]} />
+        <RosterSlot label="TE" boxClass="te-box" player={yourTEs[0]} />
+        <RosterSlot label="FLEX" boxClass="flx-box" player={yourFLEXs[0]} />
+        <RosterSlot label="FLEX" boxClass="flx-box" player={yourFLEXs[1]} />
+        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[0]} />
+        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[1]} />
+        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[2]} />
+        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[3]} />
+        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[4]} />
       </div>
     </Modal>
-  )
+  );
 }

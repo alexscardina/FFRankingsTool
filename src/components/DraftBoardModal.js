@@ -1,15 +1,8 @@
 import React from 'react';
 import Modal from 'react-modal';
 import data from './../data/players.json';
+import { getPlayerHeadshot, getBoardIndex } from './../utilities';
 import './../styling/Modal.css';
-
-function getBoardIndex(overallPick, leagueSize) {
-  const round = Math.floor(overallPick / leagueSize);
-  const pickInRound = overallPick % leagueSize;
-  const isSnakeRound = round % 2 === 1;
-  const teamIndex = isSnakeRound ? leagueSize - 1 - pickInRound : pickInRound;
-  return { round, teamIndex };
-}
 
 export default function DraftBoardModal({
   isOpen,
@@ -18,6 +11,7 @@ export default function DraftBoardModal({
   yourTeam,
   leagueSize = 12,
   rosterSize = 13,
+  draftPosition = 1,
 }) {
   const playersById = React.useMemo(() => {
     const map = new Map();
@@ -49,23 +43,20 @@ export default function DraftBoardModal({
       isOpen={isOpen}
       onRequestClose={onClose}
       contentLabel="Draft board"
-      style={{
-        content: {
-          top: '50%',
-          left: '50%',
-          right: 'auto',
-          bottom: 'auto',
-          transform: 'translate(-50%, -50%)',
-          width: '96%',
-          maxWidth: '1400px',
-          maxHeight: '90vh',
-          padding: '20px',
-          borderRadius: '10px',
-          overflow: 'auto',
-        },
-      }}
+      className="app-modal draft-board-modal"
+      overlayClassName="app-modal-overlay"
     >
-      <div className="selected-header" style={{ marginBottom: '1rem' }}>Draft Board</div>
+      <div className="modal-header-row">
+        <div className="selected-header draft-board-title">Draft Board</div>
+        <button
+          type="button"
+          className="modal-close-button"
+          onClick={onClose}
+          aria-label="Close draft board"
+        >
+          Close
+        </button>
+      </div>
       <div
         className="draft-board-grid"
         style={{
@@ -74,7 +65,10 @@ export default function DraftBoardModal({
       >
         <div className="draft-board-corner" />
         {Array.from({ length: leagueSize }, (_, teamIndex) => (
-          <div key={`team-${teamIndex}`} className="draft-board-team-header">
+          <div
+            key={`team-${teamIndex}`}
+            className={`draft-board-team-header${teamIndex + 1 === draftPosition ? ' draft-board-team-yours' : ''}`}
+          >
             {teamIndex + 1}
           </div>
         ))}
@@ -94,6 +88,7 @@ export default function DraftBoardModal({
 
               const { player, pickNumber, isYours } = cell;
               const positionClass = `draft-board-pos-${player.position.toLowerCase()}`;
+              const headshotUrl = getPlayerHeadshot(player.name);
               return (
                 <div
                   key={`pick-${pickNumber}`}
@@ -104,6 +99,12 @@ export default function DraftBoardModal({
                   <div className="draft-board-player-meta">
                     {player.position} · {player.team}
                   </div>
+                  <img
+                    className="draft-board-headshot"
+                    src={headshotUrl}
+                    alt=""
+                    loading="lazy"
+                  />
                 </div>
               );
             })}
