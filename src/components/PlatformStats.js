@@ -13,23 +13,18 @@ function PlatformStatsModal({ player, platform, rank, posRank }) {
   const posDiffClassName = findClassName(posDifference);
   const stylizedPlatform = getStylizedPlatformName(platform);
   return (
-    <>
-      <div className="wrapper">
-        <div>{stylizedPlatform}</div>
-        <div style={{display: 'flex'}}>
-          Rank: {player.rankings[platform].overall}
-          <div style={{display: 'flex', flexGrow: 1}} />
-          <div className={differenceClassName}>{difference}</div>
-        </div>
-        <div style={{display: 'flex', flexGrow: 1}} />
-        <div style={{display: 'flex'}}>
-          {`${player.position}${player.rankings[platform].position}`} 
-          <div style={{display: 'flex', flexGrow: 1}} />
-          <div className={posDiffClassName}>{posDifference}</div>
-        </div>
+    <div className="modal-platform-row">
+      <div className="modal-platform-name">{stylizedPlatform}</div>
+      <div className="modal-platform-stat">
+        <span>Rank {player.rankings[platform].overall}</span>
+        <div className={differenceClassName}>{difference}</div>
       </div>
-    </>
-  )
+      <div className="modal-platform-stat">
+        <span>{`${player.position}${player.rankings[platform].position}`}</span>
+        <div className={posDiffClassName}>{posDifference}</div>
+      </div>
+    </div>
+  );
 }
 
 function PlatformStatsCard({ player, platform, rank, posRank }) {

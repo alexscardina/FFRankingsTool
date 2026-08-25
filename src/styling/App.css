@@ -3,6 +3,7 @@
   font-weight: 600;
   font-size: 3rem;
   text-align: center;
+  margin: 0.4rem 0;
 }
 
 .header-text {
@@ -13,22 +14,79 @@
   color: rgb(194, 111, 105);
 }
 
-.filter-label {
+.header-byline {
+  text-align: center;
+  margin: 0 0 0.75rem;
+  color: #d5dae6;
+  font-weight: 500;
+}
+
+.draft-mode-banner {
+  margin: 0 0 0.75rem;
+  font-size: 2rem;
+}
+
+.toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin: 0 1rem 1rem;
+  padding: 0.75rem 0.9rem;
+  border-radius: 10px;
+  background: rgba(15, 23, 42, 0.22);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.toolbar-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.25rem;
+}
+
+.toolbar-row-draft {
+  padding-top: 0.65rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.toolbar-group {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.toolbar-updated {
+  margin-left: auto;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 0.85rem;
   color: rgb(213, 218, 230);
-  margin-right: 5px;
-  min-width: 50px;
-  margin-left: 2rem;
+  white-space: nowrap;
+}
+
+.filter-label {
+  font-weight: 700;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: rgb(213, 218, 230);
+  margin: 0;
+  min-width: 0;
+  white-space: nowrap;
 }
 
 .filter-select {
-  padding: 8px;
-  border-radius: 4px;
-  border: 1px solid #ccc;
-  min-width: 100px;
-  font-size: 14px;
-  margin-left: 0.25rem;
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid rgba(15, 23, 42, 0.15);
+  min-width: 120px;
+  font-size: 0.85rem;
+  margin: 0;
+  background: #fff;
+}
+
+.filter-select-narrow {
+  min-width: 64px;
 }
 
 .clear-button,
@@ -38,8 +96,11 @@
   background-color: #bdb8b8;
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 6px;
   cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 700;
+  white-space: nowrap;
 }
 
 .clear-button:hover {
@@ -57,27 +118,73 @@
   transform: scale(1.05);
 }
 
-.their-team-button,
-.your-team-button {
-  padding: 6px 12px;
-  background-color: #bdb8b8;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  align-content: center;
+.player-row-draft {
+  display: flex;
+  align-items: center;
+}
+
+.draft-actions {
+  display: flex;
+  align-items: center;
   justify-content: center;
-  margin-top: 19%;
+  margin-right: 0.35rem;
+  flex-shrink: 0;
 }
 
-.their-team-button:hover {
-  background-color: #be5151;
-  transform: scale(1.05);
+.draft-pick-button {
+  padding: 0.28rem 0.45rem;
+  min-width: 52px;
+  color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  line-height: 1.1;
+  background: linear-gradient(145deg, #6b7585 0%, #3f4652 100%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(15, 23, 42, 0.12);
+  transition: transform 0.12s ease, filter 0.12s ease, box-shadow 0.12s ease;
 }
 
-.your-team-button:hover {
-  background-color: #54964b;
-  transform: scale(1.05);
+.draft-pick-button-yours {
+  background: linear-gradient(145deg, #4db85a 0%, #2f7f3c 100%);
+}
+
+.draft-pick-button:hover:not(:disabled) {
+  filter: brightness(1.06);
+  transform: translateY(-1px);
+}
+
+.draft-pick-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  filter: grayscale(0.25);
+  transform: none;
+}
+
+.draft-on-clock {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.65rem;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #e2e8f0;
+  background: rgba(15, 23, 42, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  white-space: nowrap;
+}
+
+.draft-on-clock-yours {
+  color: #ecfdf3;
+  background: rgba(47, 127, 60, 0.55);
+  border-color: rgba(167, 243, 208, 0.35);
 }
 
 .wrapper {
@@ -112,37 +219,94 @@ h1 {
 /* Player card */
 .player-card,
 .player-card-draft {
+  --card-accent: #64748b;
+  position: relative;
   display: flex;
   align-items: center;
-  margin: 0.75rem 0;
-  padding: 0.5rem;
-  border-radius: 14px;
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  margin: 0.3rem 0;
+  padding: 0.35rem 0.65rem 0.35rem 0.8rem;
+  border-radius: 10px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  box-shadow:
+    0 1px 2px rgba(15, 23, 42, 0.05),
+    0 4px 10px rgba(15, 23, 42, 0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
   flex-grow: 1;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.player-card::before,
+.player-card-draft::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: var(--card-accent);
+}
+
+.player-card.player-card-pos-qb,
+.player-card-draft.player-card-pos-qb {
+  --card-accent: var(--qb-box-color);
+}
+
+.player-card.player-card-pos-rb,
+.player-card-draft.player-card-pos-rb {
+  --card-accent: var(--rb-box-color);
+}
+
+.player-card.player-card-pos-wr,
+.player-card-draft.player-card-pos-wr {
+  --card-accent: var(--wr-box-color);
+}
+
+.player-card.player-card-pos-te,
+.player-card-draft.player-card-pos-te {
+  --card-accent: var(--te-box-color);
+}
+
+.player-card.player-card-pos-dst,
+.player-card.player-card-pos-def,
+.player-card-draft.player-card-pos-dst,
+.player-card-draft.player-card-pos-def {
+  --card-accent: var(--def-box-color);
+}
+
+.player-card.player-card-pos-k,
+.player-card-draft.player-card-pos-k {
+  --card-accent: var(--k-box-color);
 }
 
 .player-card {
-  background: rgb(213, 218, 230);
+  background:
+    linear-gradient(110deg, rgba(255, 255, 255, 0.28) 0%, transparent 42%),
+    linear-gradient(180deg, #d9dee9 0%, #c8d0df 100%);
 }
 
 .player-card-draft {
-  background: rgb(213, 230, 214);
+  background:
+    linear-gradient(110deg, rgba(255, 255, 255, 0.28) 0%, transparent 42%),
+    linear-gradient(180deg, #d5e6d7 0%, #bfd8c2 100%);
   margin-bottom: -3px;
 }
 
 .player-card:hover,
 .player-card-draft:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+  border-color: rgba(15, 23, 42, 0.14);
+  box-shadow:
+    0 2px 4px rgba(15, 23, 42, 0.08),
+    0 12px 24px rgba(15, 23, 42, 0.12);
 }
 
 /* Rank number */
 .player-rank {
-  font-size: 1.4rem;
-  font-weight: bold;
-  color: #475569;
-  margin-right: 1rem;
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: #1f2937;
+  margin-right: 0.5rem;
 }
 
 /* Player image */
@@ -157,18 +321,18 @@ h1 {
 
 /* Player info */
 .player-info {
-  flex: 1;
+  flex: 0 1 auto;
 }
 
 .player-name {
-  font-size: 1.2rem;
-  font-weight: 600;
+  font-size: 0.95rem;
+  font-weight: 800;
   color: #0f172a;
 }
 
 .player-meta {
-  font-size: 0.9rem;
-  color: #64748b;
+  font-size: 0.72rem;
+  color: #475569;
 }
 
 /* Platform rankings container */
@@ -251,36 +415,42 @@ h1 {
   text-align: center;
   min-width: 50px;
   padding: 0.25rem;
-  font-size: 1rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   margin-right: 0.25rem;
-  border-radius: 2px;
-  color: #ffffff
+  border-radius: 6px;
+  color: #ffffff;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
 }
 
 .qb-box {
-  background-color: var(--qb-box-color);
+  background: linear-gradient(145deg, #f04a2a 0%, #c42a12 100%);
 }
 .rb-box {
-  background-color: var(--rb-box-color);
+  background: linear-gradient(145deg, #3ed638 0%, #1f9e1b 100%);
 }
 .wr-box {
-  background-color: var(--wr-box-color);
+  background: linear-gradient(145deg, #2a9aef 0%, #126fc0 100%);
 }
 .te-box {
-  background-color: var(--te-box-color);
+  background: linear-gradient(145deg, #f055e4 0%, #c028b4 100%);
 }
 .flx-box {
   background: linear-gradient(
-    to right,
-    var(--rb-box-color) 33.33%,
-    var(--wr-box-color) 33.33%,
-    var(--wr-box-color) 66.66%,
-    var(--te-box-color) 66.66%
+    90deg,
+    #3ed638 0%,
+    #1f9e1b 33%,
+    #2a9aef 33%,
+    #126fc0 66%,
+    #f055e4 66%,
+    #c028b4 100%
   );
 }
 .bench-box {
-  background-color: #ffffff;
-  color: #000000;
+  background: linear-gradient(145deg, #e8edf5 0%, #cfd6e2 100%);
+  color: #334155;
+  border: 1px solid rgba(15, 23, 42, 0.1);
 }
 
 .platform-box {
