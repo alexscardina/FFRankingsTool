@@ -36,6 +36,47 @@
   max-width: 460px;
 }
 
+.league-settings-modal {
+  max-width: 420px;
+}
+
+.league-settings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.league-settings-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.league-settings-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #334155;
+}
+
+.league-settings-summary {
+  margin-top: 0.9rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(15, 23, 42, 0.1);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.league-settings-summary-detail {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #64748b;
+  letter-spacing: 0.02em;
+}
+
 .draft-board-modal {
   width: 96%;
   max-width: 1400px;

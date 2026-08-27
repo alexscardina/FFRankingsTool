@@ -2,6 +2,7 @@ import React from 'react';
 import Modal from 'react-modal';
 import data from './../data/players.json';
 import { getPlayerHeadshot } from './../utilities';
+import { useAppContext } from '../Context';
 import './../styling/Modal.css';
 
 function RosterSlot({ label, boxClass, player }) {
@@ -29,6 +30,7 @@ function RosterSlot({ label, boxClass, player }) {
 }
 
 export default function YourPlayersModal({ isOpen, onClose, yourTeam }) {
+  const { startingWRs, flexSpots, benchSpots } = useAppContext();
   const players = JSON.parse(JSON.stringify(data));
   const yourPlayers = players.filter(player => yourTeam.has(player.id));
   const yourQBs = yourPlayers.filter(y => y.position === 'QB');
@@ -44,28 +46,25 @@ export default function YourPlayersModal({ isOpen, onClose, yourTeam }) {
       else if (qbCount >= 1) yourBench.push(player);
     }
     if (player.position === 'RB') {
-      if (rbCount >= 2 && flexCount >= 2) {
+      if (rbCount >= 2 && flexCount >= flexSpots) {
         yourBench.push(player);
-      }
-      if (rbCount >= 2 && flexCount < 2) {
+      } else if (rbCount >= 2 && flexCount < flexSpots) {
         flexCount = flexCount + 1;
         yourFLEXs.push(player);
       } else rbCount = rbCount + 1;
     }
     if (player.position === 'WR') {
-      if (wrCount >= 2 && flexCount >= 2) {
+      if (wrCount >= startingWRs && flexCount >= flexSpots) {
         yourBench.push(player);
-      }
-      if (wrCount >= 2 && flexCount < 2) {
+      } else if (wrCount >= startingWRs && flexCount < flexSpots) {
         flexCount = flexCount + 1;
         yourFLEXs.push(player);
       } else wrCount = wrCount + 1;
     }
     if (player.position === 'TE') {
-      if (teCount >= 1 && flexCount >= 2) {
+      if (teCount >= 1 && flexCount >= flexSpots) {
         yourBench.push(player);
-      }
-      if (teCount >= 1 && flexCount < 2) {
+      } else if (teCount >= 1 && flexCount < flexSpots) {
         flexCount = flexCount + 1;
         yourFLEXs.push(player);
       } else teCount = teCount + 1;
@@ -85,16 +84,16 @@ export default function YourPlayersModal({ isOpen, onClose, yourTeam }) {
         <RosterSlot label="QB" boxClass="qb-box" player={yourQBs[0]} />
         <RosterSlot label="RB" boxClass="rb-box" player={yourRBs[0]} />
         <RosterSlot label="RB" boxClass="rb-box" player={yourRBs[1]} />
-        <RosterSlot label="WR" boxClass="wr-box" player={yourWRs[0]} />
-        <RosterSlot label="WR" boxClass="wr-box" player={yourWRs[1]} />
+        {Array.from({ length: startingWRs }, (_, i) => (
+          <RosterSlot key={`wr-${i}`} label="WR" boxClass="wr-box" player={yourWRs[i]} />
+        ))}
         <RosterSlot label="TE" boxClass="te-box" player={yourTEs[0]} />
-        <RosterSlot label="FLEX" boxClass="flx-box" player={yourFLEXs[0]} />
-        <RosterSlot label="FLEX" boxClass="flx-box" player={yourFLEXs[1]} />
-        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[0]} />
-        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[1]} />
-        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[2]} />
-        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[3]} />
-        <RosterSlot label="BN" boxClass="bench-box" player={yourBench[4]} />
+        {Array.from({ length: flexSpots }, (_, i) => (
+          <RosterSlot key={`flex-${i}`} label="FLEX" boxClass="flx-box" player={yourFLEXs[i]} />
+        ))}
+        {Array.from({ length: benchSpots }, (_, i) => (
+          <RosterSlot key={`bn-${i}`} label="BN" boxClass="bench-box" player={yourBench[i]} />
+        ))}
       </div>
     </Modal>
   );

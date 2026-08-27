@@ -2,31 +2,29 @@ import React from 'react';
 import PlayerList from './components/PlayerList';
 import YourPlayersModal from './components/YourPlayersModal';
 import DraftBoardModal from './components/DraftBoardModal';
+import LeagueSettingsModal from './components/LeagueSettingsModal';
 import data from './data/players.json';
 import updatedText from './data/lastUpdated';
 import { isYourPick, getTeamIndexForPick } from './utilities';
+import { useAppContext } from './Context';
 
 import './styling/App.css';
 
-const LEAGUE_SIZE = 12;
-const ROSTER_SIZE = 13;
-
 export default function App() {
   const players = JSON.parse(JSON.stringify(data));
-  const [sortBy, setSortBy] = React.useState('espn');
-  const [positionFilter, setPositionFilter] = React.useState(undefined);
-  const [isDraftMode, setDraftMode] = React.useState(false);
-  const [theirTeam, setTheirTeam] = React.useState(new Set());
-  const [yourTeam, setYourTeam] = React.useState(new Set());
-  const [drafted, setDrafted] = React.useState([]);
-  const [draftPosition, setDraftPosition] = React.useState(1);
-  const [openYourPlayers, setOpenYourPlayers] = React.useState(false);
-  const [openDraftBoard, setOpenDraftBoard] = React.useState(false);
+  const {
+    sortBy, setSortBy, positionFilter, setPositionFilter,
+    isDraftMode, setDraftMode, setTheirTeam, theirTeam, setYourTeam, yourTeam,
+    drafted, setDrafted, draftPosition, setDraftPosition, openYourPlayers,
+    setOpenYourPlayers, openDraftBoard, setOpenDraftBoard,
+    openLeagueSettings, setOpenLeagueSettings,
+    leagueSize, setLeagueSize, rosterSize,
+  } = useAppContext();
 
-  const isRosterFilled = yourTeam.size >= ROSTER_SIZE;
+  const isRosterFilled = yourTeam.size >= rosterSize;
   const currentPickIndex = drafted.length;
-  const onTheClockTeam = getTeamIndexForPick(currentPickIndex, LEAGUE_SIZE) + 1;
-  const isYourTurn = isYourPick(currentPickIndex, LEAGUE_SIZE, draftPosition);
+  const onTheClockTeam = getTeamIndexForPick(currentPickIndex, leagueSize) + 1;
+  const isYourTurn = isYourPick(currentPickIndex, leagueSize, draftPosition);
 
   if (isDraftMode) document.body.style.backgroundColor = '#4d6e50';
   else document.body.style.backgroundColor = '#555d68';
@@ -40,7 +38,7 @@ export default function App() {
     const yours = new Set();
     const theirs = new Set();
     draftedIds.forEach((id, overallPick) => {
-      if (isYourPick(overallPick, LEAGUE_SIZE, position)) yours.add(id);
+      if (isYourPick(overallPick, leagueSize, position)) yours.add(id);
       else theirs.add(id);
     });
     setYourTeam(yours);
@@ -66,15 +64,11 @@ export default function App() {
 
   const displayedPlayers = React.useMemo(() => {
     let list = players;
-
     if (isDraftMode) {
       list = players.filter((p) => !theirTeam.has(p.id) && !yourTeam.has(p.id));
     }
-
     if (positionFilter) list = list.filter((p) => p.position === positionFilter);
-
     list.sort((a, b) => a.rankings[sortBy].overall - b.rankings[sortBy].overall);
-
     return list;
   }, [players, theirTeam, yourTeam, positionFilter, sortBy, isDraftMode]);
 
@@ -145,7 +139,6 @@ export default function App() {
         {isDraftMode && (
           <div className="toolbar-row toolbar-row-draft">
             <div className="toolbar-group">
-              <div style={{ display: 'flex', flexGrow: 1 }}></div>
               <label className="filter-label" htmlFor="draftPosition">Your pick</label>
               <select
                 id="draftPosition"
@@ -155,7 +148,7 @@ export default function App() {
                 className="filter-select filter-select-narrow"
                 aria-label="Your draft position"
               >
-                {Array.from({ length: LEAGUE_SIZE }, (_, i) => (
+                {Array.from({ length: leagueSize }, (_, i) => (
                   <option key={i + 1} value={i + 1}>
                     {i + 1}
                   </option>
@@ -169,6 +162,13 @@ export default function App() {
             </span>
 
             <div className="toolbar-group">
+              <button
+                type="button"
+                onClick={() => setOpenLeagueSettings(true)}
+                className="back-to-list-button"
+              >
+                League Settings
+              </button>
               <button
                 type="button"
                 onClick={() => setOpenYourPlayers(true)}
@@ -195,6 +195,12 @@ export default function App() {
         isYourTurn={isYourTurn}
         isRosterFilled={isRosterFilled}
       />
+      {openLeagueSettings && (
+        <LeagueSettingsModal
+          isOpen={openLeagueSettings}
+          onClose={() => setOpenLeagueSettings(false)}
+        />
+      )}
       {openYourPlayers && (
         <YourPlayersModal
           isOpen={openYourPlayers}
@@ -208,8 +214,8 @@ export default function App() {
           onClose={() => setOpenDraftBoard(false)}
           drafted={drafted}
           yourTeam={yourTeam}
-          leagueSize={LEAGUE_SIZE}
-          rosterSize={ROSTER_SIZE}
+          leagueSize={leagueSize}
+          rosterSize={rosterSize}
           draftPosition={draftPosition}
         />
       )}
