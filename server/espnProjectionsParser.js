@@ -55,27 +55,31 @@ const nameToPlayerMap = new Map();
 for (const player of players) {
   nameToPlayerMap.set(player.name, player);
 }
-const updatedPlayers = new Set();
+
+const matchedPlayers = [];
+const matchedNames = new Set();
 
 fs.createReadStream(espnProjectionsCsv)
   .pipe(csv())
   .on('data', (row) => {
     const name = formatEspnName(row);
-    const overallRank = parseInt(row.Rank, 10);
-
-    if (!name || Number.isNaN(overallRank)) return;
+    if (!name || matchedNames.has(name)) return;
 
     const player = nameToPlayerMap.get(name);
     if (player) {
-      player.rankings = player.rankings || {};
-      player.rankings.espn = player.rankings.espn || {};
-      player.rankings.espn.overall = overallRank;
-      updatedPlayers.add(player.name);
+      matchedNames.add(name);
+      matchedPlayers.push(player);
     }
   })
   .on('end', () => {
+    matchedPlayers.forEach((player, index) => {
+      player.rankings = player.rankings || {};
+      player.rankings.espn = player.rankings.espn || {};
+      player.rankings.espn.overall = index + 1;
+    });
+
     const playersWithPosRank = addPositionRanks(players, 'espn');
     const newPlayers = playersWithPosRank.filter((player) => player.rankings.espn.overall);
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
-    console.log(`✅ ESPN projection ranks added for ${updatedPlayers.size} players`);
+    console.log(`✅ ESPN projection ranks added for ${matchedPlayers.length} players`);
   });

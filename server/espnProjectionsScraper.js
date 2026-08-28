@@ -162,19 +162,14 @@ function getProjectedStats(playerEntry, seasonId) {
   );
 }
 
-function getRank(playerEntry, rankType) {
-  const ranks = playerEntry.player?.draftRanksByRankType?.[rankType];
-  return ranks?.rank ?? '';
-}
-
-function playerToRow(playerEntry, rankType, seasonId) {
+function playerToRow(playerEntry, seasonId, rank) {
   const player = playerEntry.player;
   const ownership = player.ownership || {};
   const projection = getProjectedStats(playerEntry, seasonId);
   const projectedStats = projection?.stats || {};
 
   const row = {
-    Rank: getRank(playerEntry, rankType),
+    Rank: rank,
     Name: player.fullName,
     Team: PRO_TEAMS[player.proTeamId] || player.proTeamId,
     Position: POSITIONS[player.defaultPositionId] || player.defaultPositionId,
@@ -243,9 +238,15 @@ async function main() {
     rankType: leagueSettings.rankType,
   });
 
+  const seenNames = new Set();
   const rows = players
-    .map((entry) => playerToRow(entry, leagueSettings.rankType, options.seasonId))
-    .filter((row) => row.Name);
+    .filter((entry) => {
+      const name = entry.player?.fullName;
+      if (!name || seenNames.has(name)) return false;
+      seenNames.add(name);
+      return true;
+    })
+    .map((entry, index) => playerToRow(entry, options.seasonId, index + 1));
 
   writeDelimitedFile(rows, options.output, delimiter);
   console.log(`✅ Wrote ${rows.length} players to ${options.output}`);
