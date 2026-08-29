@@ -74,11 +74,13 @@ export default function App() {
 
   return (
     <div>
-      <p className="header-text">2026 Fantasy Football Platform Rankings</p>
-      <h3 className="header-byline">by Alex Scardina</h3>
-      {isDraftMode && (
-        <p className="header-text-red draft-mode-banner">DRAFT MODE</p>
-      )}
+      <header className="app-header">
+        <h1 className="header-text">2026 Fantasy Football Platform Rankings</h1>
+        <p className="header-byline">by Alex Scardina</p>
+        {isDraftMode && (
+          <p className="draft-mode-banner">Draft Mode</p>
+        )}
+      </header>
       <div className="toolbar">
         <div className="toolbar-row">
           <div className="toolbar-group">

@@ -22,11 +22,10 @@ export default function PlayerList({
     setIsModalOpen(false);
   };
 
-  const rowClassName = isDraftMode ? 'player-row player-row-draft' : 'player-row';
   return (
     <>
       {players.map((player) => (
-        <div key={player.id} className={rowClassName}>
+        <div key={player.id} className="player-row">
           <PlayerCard
             player={player}
             onClick={() => handleClick(player)}

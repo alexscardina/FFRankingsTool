@@ -23,12 +23,18 @@ export default function PlayerCard({
   const draftDisabled = isYourTurn && isRosterFilled;
 
   return (
-    <>
+    <div
+      className={`${playerCardClass} player-card-pos-${position.toLowerCase()}`}
+      onClick={onClick}
+    >
       {isDraftMode && (
         <div className="draft-actions">
           <button
             type="button"
-            onClick={() => onDraft(id)}
+            onClick={(event) => {
+              event.stopPropagation();
+              onDraft(id);
+            }}
             className={`draft-pick-button${isYourTurn ? ' draft-pick-button-yours' : ''}`}
             disabled={draftDisabled}
           >
@@ -36,86 +42,81 @@ export default function PlayerCard({
           </button>
         </div>
       )}
-      <div
-        className={`${playerCardClass} player-card-pos-${position.toLowerCase()}`}
-        onClick={onClick}
-      >
-        <div className="player-rank">#{rank}</div>
-        <div className="player-identity">
-          <img className="player-headshot" alt={`${name} headshot`} src={headshotImgUrl} />
-          <div className="player-info">
-            <div className="player-name-row">
-              <div className="player-name">{name}</div>
-              <img
-                src={teamLogo}
-                alt={`${team} logo`}
-                className="team-logo"
-              />
-            </div>
-            <div className="player-meta">
-              <span className={`player-pos-badge ${positionCircleClass}`}>{positionString}</span>
-              <span className="player-meta-sep">{team}</span>
-              <span className="player-meta-sep">Bye {bye}</span>
-            </div>
-          </div>
-        </div>
-        <div className="player-stats-grid">
-          <div className="player-stats">
-            <div className="player-stats-label">Rotowire NFC</div>
-            <PlatformStats
-              player={player}
-              platform="nfc"
-              rank={rank}
-              posRank={posRank}
+      <div className="player-rank">#{rank}</div>
+      <div className="player-identity">
+        <img className="player-headshot" alt={`${name} headshot`} src={headshotImgUrl} />
+        <div className="player-info">
+          <div className="player-name-row">
+            <div className="player-name">{name}</div>
+            <img
+              src={teamLogo}
+              alt={`${team} logo`}
+              className="team-logo"
             />
           </div>
-          <div className="player-stats">
-            <div className="player-stats-label">ESPN</div>
-            <PlatformStats
-              player={player}
-              platform="espn"
-              rank={rank}
-              posRank={posRank}
-            />
-          </div>
-          <div className="player-stats">
-            <div className="player-stats-label">FantasyPros</div>
-            <PlatformStats
-              player={player}
-              platform="fantasypros"
-              rank={rank}
-              posRank={posRank}
-            />
-          </div>
-          <div className="player-stats">
-            <div className="player-stats-label">DraftSharks</div>
-            <PlatformStats
-              player={player}
-              platform="draftsharks"
-              rank={rank}
-              posRank={posRank}
-            />
-          </div>
-          <div className="player-stats">
-            <div className="player-stats-label">Sleeper</div>
-            <PlatformStats
-              player={player}
-              platform="sleeper"
-              rank={rank}
-              posRank={posRank}
-            />
-          </div>
-          <div className="player-stats">
-            <div className="player-stats-label">Yahoo</div>
-            <PlatformStats
-              player={player}
-              platform="yahoo"
-              rank={rank}
-              posRank={posRank}
-            />
+          <div className="player-meta">
+            <span className={`player-pos-badge ${positionCircleClass}`}>{positionString}</span>
+            <span className="player-meta-sep">{team}</span>
+            <span className="player-meta-sep">Bye {bye}</span>
           </div>
         </div>
       </div>
-    </>
+      <div className="player-stats-grid">
+        <div className="player-stats">
+          <div className="player-stats-label">Rotowire NFC</div>
+          <PlatformStats
+            player={player}
+            platform="nfc"
+            rank={rank}
+            posRank={posRank}
+          />
+        </div>
+        <div className="player-stats">
+          <div className="player-stats-label">ESPN</div>
+          <PlatformStats
+            player={player}
+            platform="espn"
+            rank={rank}
+            posRank={posRank}
+          />
+        </div>
+        <div className="player-stats">
+          <div className="player-stats-label">FantasyPros</div>
+          <PlatformStats
+            player={player}
+            platform="fantasypros"
+            rank={rank}
+            posRank={posRank}
+          />
+        </div>
+        <div className="player-stats">
+          <div className="player-stats-label">DraftSharks</div>
+          <PlatformStats
+            player={player}
+            platform="draftsharks"
+            rank={rank}
+            posRank={posRank}
+          />
+        </div>
+        <div className="player-stats">
+          <div className="player-stats-label">Sleeper</div>
+          <PlatformStats
+            player={player}
+            platform="sleeper"
+            rank={rank}
+            posRank={posRank}
+          />
+        </div>
+        <div className="player-stats">
+          <div className="player-stats-label">Yahoo</div>
+          <PlatformStats
+            player={player}
+            platform="yahoo"
+            rank={rank}
+            posRank={posRank}
+          />
+        </div>
+      </div>
+    </div>
   );
 }

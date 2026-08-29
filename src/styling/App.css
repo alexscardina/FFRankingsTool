@@ -1,29 +1,46 @@
-.header-text,
-.header-text-red {
-  font-weight: 600;
-  font-size: 3rem;
+.app-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 1rem 1rem 0.85rem;
+  padding: 0.9rem 1rem;
+  border-radius: 10px;
+  background: rgba(15, 23, 42, 0.22);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   text-align: center;
-  margin: 0.4rem 0;
 }
 
 .header-text {
+  margin: 0;
+  font-size: clamp(2rem, 4.5vw, 2.85rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
   color: rgb(213, 218, 230);
 }
 
-.header-text-red {
-  color: rgb(194, 111, 105);
-}
-
 .header-byline {
-  text-align: center;
-  margin: 0 0 0.75rem;
-  color: #d5dae6;
-  font-weight: 500;
+  margin: 0;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: rgba(213, 218, 230, 0.78);
 }
 
 .draft-mode-banner {
-  margin: 0 0 0.75rem;
-  font-size: 2rem;
+  margin: 0.35rem 0 0;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 8px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ecfdf3;
+  background: rgba(47, 127, 60, 0.55);
+  border: 1px solid rgba(167, 243, 208, 0.35);
 }
 
 .toolbar {
@@ -118,22 +135,17 @@
   transform: scale(1.05);
 }
 
-.player-row-draft {
-  display: flex;
-  align-items: center;
-}
-
 .draft-actions {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 0.35rem;
+  margin-right: 0.55rem;
   flex-shrink: 0;
 }
 
 .draft-pick-button {
-  padding: 0.28rem 0.45rem;
-  min-width: 52px;
+  padding: 0.35rem 0.55rem;
+  min-width: 56px;
   color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.18);
   border-radius: 6px;
@@ -201,14 +213,6 @@ body {
   color: #222;
 }
 
-h1 {
-  text-align: center;
-  font-size: 2.2rem;
-  font-weight: 700;
-  margin: 1.5rem 0;
-  color: #1e293b;
-}
-
 /* Container for the rankings list */
 .rankings-list {
   max-width: 900px;
@@ -223,7 +227,7 @@ h1 {
   position: relative;
   display: flex;
   align-items: center;
-  margin: 0.3rem 0;
+  margin: 0.3rem 1rem;
   padding: 0.35rem 0.65rem 0.35rem 0.8rem;
   border-radius: 10px;
   border: 1px solid rgba(15, 23, 42, 0.08);
@@ -289,7 +293,6 @@ h1 {
   background:
     linear-gradient(110deg, rgba(255, 255, 255, 0.28) 0%, transparent 42%),
     linear-gradient(180deg, #d5e6d7 0%, #bfd8c2 100%);
-  margin-bottom: -3px;
 }
 
 .player-card:hover,
@@ -303,7 +306,7 @@ h1 {
 
 /* Rank number */
 .player-rank {
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   font-weight: 800;
   color: #1f2937;
   margin-right: 0.5rem;
@@ -325,13 +328,13 @@ h1 {
 }
 
 .player-name {
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   font-weight: 800;
   color: #0f172a;
 }
 
 .player-meta {
-  font-size: 0.72rem;
+  font-size: 0.88rem;
   color: #475569;
 }
 
