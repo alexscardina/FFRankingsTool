@@ -17,8 +17,7 @@ export default function App() {
     isDraftMode, setDraftMode, setTheirTeam, theirTeam, setYourTeam, yourTeam,
     drafted, setDrafted, draftPosition, setDraftPosition, openYourPlayers,
     setOpenYourPlayers, openDraftBoard, setOpenDraftBoard,
-    openLeagueSettings, setOpenLeagueSettings,
-    leagueSize, setLeagueSize, rosterSize,
+    openLeagueSettings, setOpenLeagueSettings, leagueSize, rosterSize,
   } = useAppContext();
 
   const isRosterFilled = yourTeam.size >= rosterSize;
@@ -93,6 +92,7 @@ export default function App() {
               value={sortBy}
             >
               <option value="espn">ESPN</option>
+              <option value="espnOffline">ESPN Offline</option>
               <option value="nfc">Rotowire NFC</option>
               <option value="fantasypros">FantasyPros</option>
               <option value="draftsharks">DraftSharks</option>
