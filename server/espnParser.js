@@ -25,16 +25,16 @@ fs.createReadStream(espnCsv)
     const player = nameToPlayerMap.get(name);
     if (player) {
       player.rankings = player.rankings || {};
-      player.rankings.espn = player.rankings.espn || {};
-      player.rankings.espn.overall = overallRank;
-      if (player.rankings.espn.overall) updatedPlayers.add(player.name);
+      player.rankings.espnOffline = player.rankings.espnOffline || {};
+      player.rankings.espnOffline.overall = overallRank;
+      if (player.rankings.espnOffline.overall) updatedPlayers.add(player.name);
     }
   })
   .on('end', () => {
-    const playersWithPosRank = addPositionRanks(players, 'espn');
-    const newPlayers = playersWithPosRank.filter(x => x.rankings.espn.overall);
+    const playersWithPosRank = addPositionRanks(players, 'espnOffline');
+    const newPlayers = playersWithPosRank.filter(x => x.rankings.espnOffline.overall);
     // const newPlayers = playersWithPosRank;
     fs.writeFileSync(playersFile, JSON.stringify(newPlayers, null, 2));
-    console.log(`✅ ESPN ranks added for ${updatedPlayers.size} players`);
+    console.log(`✅ ESPN Offline ranks added for ${updatedPlayers.size} players`);
   });
 

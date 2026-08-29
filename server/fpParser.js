@@ -32,6 +32,7 @@ fs.createReadStream('./rankings/FantasyPros_2026_Draft_ALL_Rankings.csv')
         rankings: {
           nfc: { overall: null, position: null },
           espn: { overall: null, position: null },
+          espnOffline: { overall: null, position: null },
           fantasypros: { overall: fpRank, position: null },
           draftsharks: { overall: null, position: null },
           yahoo: { overall: null, position: null },
