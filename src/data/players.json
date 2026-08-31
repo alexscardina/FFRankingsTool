@@ -142,7 +142,7 @@
         "position": 2
       },
       "sleeper": {
-        "overall": 4,
+        "overall": 5,
         "position": 2
       }
     }
@@ -253,7 +253,7 @@
         "position": 3
       },
       "sleeper": {
-        "overall": 5,
+        "overall": 4,
         "position": 3
       }
     }
@@ -327,7 +327,7 @@
         "position": 5
       },
       "sleeper": {
-        "overall": 10,
+        "overall": 11,
         "position": 5
       }
     }
@@ -418,8 +418,8 @@
         "position": 6
       },
       "espn": {
-        "overall": 13,
-        "position": 7
+        "overall": 14,
+        "position": 8
       },
       "espnOffline": {
         "overall": 19,
@@ -481,6 +481,43 @@
     }
   },
   {
+    "id": "phirbsaquonbarkley",
+    "name": "Saquon Barkley",
+    "team": "PHI",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 15,
+        "position": 9
+      },
+      "espn": {
+        "overall": 15,
+        "position": 9
+      },
+      "espnOffline": {
+        "overall": 15,
+        "position": 8
+      },
+      "fantasypros": {
+        "overall": 14,
+        "position": 7
+      },
+      "draftsharks": {
+        "overall": 12,
+        "position": 6
+      },
+      "yahoo": {
+        "overall": 11,
+        "position": 6
+      },
+      "sleeper": {
+        "overall": 10,
+        "position": 6
+      }
+    }
+  },
+  {
     "id": "atlwrdrakelondon",
     "name": "Drake London",
     "team": "ATL",
@@ -500,7 +537,7 @@
         "position": 7
       },
       "fantasypros": {
-        "overall": 14,
+        "overall": 15,
         "position": 8
       },
       "draftsharks": {
@@ -518,43 +555,6 @@
     }
   },
   {
-    "id": "phirbsaquonbarkley",
-    "name": "Saquon Barkley",
-    "team": "PHI",
-    "position": "RB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 16,
-        "position": 10
-      },
-      "espn": {
-        "overall": 15,
-        "position": 9
-      },
-      "espnOffline": {
-        "overall": 15,
-        "position": 8
-      },
-      "fantasypros": {
-        "overall": 15,
-        "position": 7
-      },
-      "draftsharks": {
-        "overall": 12,
-        "position": 6
-      },
-      "yahoo": {
-        "overall": 11,
-        "position": 6
-      },
-      "sleeper": {
-        "overall": 11,
-        "position": 6
-      }
-    }
-  },
-  {
     "id": "miarbde'vonachane",
     "name": "De'Von Achane",
     "team": "MIA",
@@ -562,8 +562,8 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 15,
-        "position": 9
+        "overall": 16,
+        "position": 10
       },
       "espn": {
         "overall": 10,
@@ -578,16 +578,90 @@
         "position": 8
       },
       "draftsharks": {
-        "overall": 19,
-        "position": 9
+        "overall": 20,
+        "position": 10
       },
       "yahoo": {
-        "overall": 14,
-        "position": 8
+        "overall": 13,
+        "position": 7
       },
       "sleeper": {
         "overall": 14,
         "position": 8
+      }
+    }
+  },
+  {
+    "id": "kcrbkennethwalkeriii",
+    "name": "Kenneth Walker III",
+    "team": "KC",
+    "position": "RB",
+    "bye": "5",
+    "rankings": {
+      "nfc": {
+        "overall": 14,
+        "position": 8
+      },
+      "espn": {
+        "overall": 25,
+        "position": 13
+      },
+      "espnOffline": {
+        "overall": 18,
+        "position": 11
+      },
+      "fantasypros": {
+        "overall": 17,
+        "position": 9
+      },
+      "draftsharks": {
+        "overall": 14,
+        "position": 8
+      },
+      "yahoo": {
+        "overall": 15,
+        "position": 9
+      },
+      "sleeper": {
+        "overall": 18,
+        "position": 12
+      }
+    }
+  },
+  {
+    "id": "lacrbomarionhampton",
+    "name": "Omarion Hampton",
+    "team": "LAC",
+    "position": "RB",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 13,
+        "position": 7
+      },
+      "espn": {
+        "overall": 13,
+        "position": 7
+      },
+      "espnOffline": {
+        "overall": 22,
+        "position": 13
+      },
+      "fantasypros": {
+        "overall": 18,
+        "position": 10
+      },
+      "draftsharks": {
+        "overall": 19,
+        "position": 9
+      },
+      "yahoo": {
+        "overall": 18,
+        "position": 12
+      },
+      "sleeper": {
+        "overall": 15,
+        "position": 9
       }
     }
   },
@@ -611,7 +685,7 @@
         "position": 2
       },
       "fantasypros": {
-        "overall": 17,
+        "overall": 19,
         "position": 1
       },
       "draftsharks": {
@@ -636,8 +710,8 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 24,
-        "position": 11
+        "overall": 23,
+        "position": 10
       },
       "espn": {
         "overall": 23,
@@ -648,7 +722,7 @@
         "position": 9
       },
       "fantasypros": {
-        "overall": 18,
+        "overall": 20,
         "position": 9
       },
       "draftsharks": {
@@ -661,81 +735,7 @@
       },
       "sleeper": {
         "overall": 24,
-        "position": 9
-      }
-    }
-  },
-  {
-    "id": "lacrbomarionhampton",
-    "name": "Omarion Hampton",
-    "team": "LAC",
-    "position": "RB",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
-        "overall": 13,
-        "position": 7
-      },
-      "espn": {
-        "overall": 14,
-        "position": 8
-      },
-      "espnOffline": {
-        "overall": 22,
-        "position": 13
-      },
-      "fantasypros": {
-        "overall": 19,
-        "position": 9
-      },
-      "draftsharks": {
-        "overall": 21,
         "position": 10
-      },
-      "yahoo": {
-        "overall": 18,
-        "position": 12
-      },
-      "sleeper": {
-        "overall": 15,
-        "position": 9
-      }
-    }
-  },
-  {
-    "id": "kcrbkennethwalkeriii",
-    "name": "Kenneth Walker III",
-    "team": "KC",
-    "position": "RB",
-    "bye": "5",
-    "rankings": {
-      "nfc": {
-        "overall": 14,
-        "position": 8
-      },
-      "espn": {
-        "overall": 25,
-        "position": 13
-      },
-      "espnOffline": {
-        "overall": 18,
-        "position": 11
-      },
-      "fantasypros": {
-        "overall": 20,
-        "position": 10
-      },
-      "draftsharks": {
-        "overall": 14,
-        "position": 8
-      },
-      "yahoo": {
-        "overall": 15,
-        "position": 9
-      },
-      "sleeper": {
-        "overall": 18,
-        "position": 12
       }
     }
   },
@@ -777,39 +777,39 @@
     }
   },
   {
-    "id": "lvrbashtonjeanty",
-    "name": "Ashton Jeanty",
-    "team": "LV",
-    "position": "RB",
-    "bye": "13",
+    "id": "nowrchrisolave",
+    "name": "Chris Olave",
+    "team": "NO",
+    "position": "WR",
+    "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 18,
+        "overall": 24,
         "position": 11
       },
       "espn": {
-        "overall": 18,
-        "position": 11
+        "overall": 24,
+        "position": 10
       },
       "espnOffline": {
-        "overall": 17,
-        "position": 10
+        "overall": 27,
+        "position": 11
       },
       "fantasypros": {
         "overall": 22,
-        "position": 12
+        "position": 10
       },
       "draftsharks": {
-        "overall": 23,
+        "overall": 27,
         "position": 12
       },
       "yahoo": {
-        "overall": 13,
-        "position": 7
+        "overall": 30,
+        "position": 13
       },
       "sleeper": {
-        "overall": 13,
-        "position": 7
+        "overall": 31,
+        "position": 13
       }
     }
   },
@@ -834,7 +834,7 @@
       },
       "fantasypros": {
         "overall": 23,
-        "position": 10
+        "position": 11
       },
       "draftsharks": {
         "overall": 18,
@@ -845,45 +845,45 @@
         "position": 9
       },
       "sleeper": {
-        "overall": 25,
-        "position": 10
+        "overall": 23,
+        "position": 9
       }
     }
   },
   {
-    "id": "nowrchrisolave",
-    "name": "Chris Olave",
-    "team": "NO",
-    "position": "WR",
-    "bye": "8",
+    "id": "lvrbashtonjeanty",
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "position": "RB",
+    "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 23,
-        "position": 10
+        "overall": 18,
+        "position": 11
       },
       "espn": {
-        "overall": 24,
-        "position": 10
+        "overall": 18,
+        "position": 11
       },
       "espnOffline": {
-        "overall": 27,
-        "position": 11
+        "overall": 17,
+        "position": 10
       },
       "fantasypros": {
         "overall": 24,
-        "position": 11
+        "position": 12
       },
       "draftsharks": {
-        "overall": 26,
+        "overall": 23,
         "position": 12
       },
       "yahoo": {
-        "overall": 30,
-        "position": 13
+        "overall": 14,
+        "position": 8
       },
       "sleeper": {
-        "overall": 31,
-        "position": 13
+        "overall": 13,
+        "position": 7
       }
     }
   },
@@ -911,7 +911,7 @@
         "position": 2
       },
       "draftsharks": {
-        "overall": 28,
+        "overall": 26,
         "position": 2
       },
       "yahoo": {
@@ -919,7 +919,7 @@
         "position": 2
       },
       "sleeper": {
-        "overall": 23,
+        "overall": 25,
         "position": 2
       }
     }
@@ -948,7 +948,7 @@
         "position": 12
       },
       "draftsharks": {
-        "overall": 27,
+        "overall": 28,
         "position": 13
       },
       "yahoo": {
@@ -956,7 +956,7 @@
         "position": 12
       },
       "sleeper": {
-        "overall": 29,
+        "overall": 28,
         "position": 11
       }
     }
@@ -969,7 +969,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 31,
+        "overall": 30,
         "position": 1
       },
       "espn": {
@@ -985,7 +985,7 @@
         "position": 1
       },
       "draftsharks": {
-        "overall": 20,
+        "overall": 21,
         "position": 1
       },
       "yahoo": {
@@ -1010,8 +1010,8 @@
         "position": 13
       },
       "espn": {
-        "overall": 36,
-        "position": 16
+        "overall": 35,
+        "position": 15
       },
       "espnOffline": {
         "overall": 35,
@@ -1022,7 +1022,7 @@
         "position": 13
       },
       "draftsharks": {
-        "overall": 31,
+        "overall": 32,
         "position": 16
       },
       "yahoo": {
@@ -1088,8 +1088,8 @@
         "position": 17
       },
       "espnOffline": {
-        "overall": 34,
-        "position": 16
+        "overall": 33,
+        "position": 15
       },
       "fantasypros": {
         "overall": 30,
@@ -1104,7 +1104,7 @@
         "position": 16
       },
       "sleeper": {
-        "overall": 41,
+        "overall": 42,
         "position": 19
       }
     }
@@ -1117,23 +1117,23 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 36,
+        "overall": 33,
         "position": 14
       },
       "espn": {
-        "overall": 34,
-        "position": 17
+        "overall": 32,
+        "position": 16
       },
       "espnOffline": {
-        "overall": 38,
-        "position": 18
+        "overall": 37,
+        "position": 17
       },
       "fantasypros": {
         "overall": 31,
         "position": 13
       },
       "draftsharks": {
-        "overall": 39,
+        "overall": 38,
         "position": 16
       },
       "yahoo": {
@@ -1158,28 +1158,28 @@
         "position": 13
       },
       "espn": {
-        "overall": 32,
-        "position": 16
+        "overall": 31,
+        "position": 15
       },
       "espnOffline": {
-        "overall": 32,
-        "position": 16
+        "overall": 30,
+        "position": 15
       },
       "fantasypros": {
         "overall": 32,
         "position": 14
       },
       "draftsharks": {
-        "overall": 34,
-        "position": 14
+        "overall": 33,
+        "position": 13
       },
       "yahoo": {
-        "overall": 33,
-        "position": 16
+        "overall": 32,
+        "position": 15
       },
       "sleeper": {
         "overall": 33,
-        "position": 17
+        "position": 16
       }
     }
   },
@@ -1192,7 +1192,7 @@
     "rankings": {
       "nfc": {
         "overall": 37,
-        "position": 20
+        "position": 19
       },
       "espn": {
         "overall": 43,
@@ -1248,12 +1248,12 @@
         "position": 15
       },
       "yahoo": {
-        "overall": 35,
-        "position": 17
+        "overall": 33,
+        "position": 16
       },
       "sleeper": {
         "overall": 32,
-        "position": 16
+        "position": 15
       }
     }
   },
@@ -1265,7 +1265,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 34,
+        "overall": 35,
         "position": 18
       },
       "espn": {
@@ -1281,7 +1281,7 @@
         "position": 17
       },
       "draftsharks": {
-        "overall": 38,
+        "overall": 39,
         "position": 19
       },
       "yahoo": {
@@ -1289,8 +1289,45 @@
         "position": 17
       },
       "sleeper": {
-        "overall": 47,
+        "overall": 48,
         "position": 21
+      }
+    }
+  },
+  {
+    "id": "lacwrladdmcconkey",
+    "name": "Ladd McConkey",
+    "team": "LAC",
+    "position": "WR",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 31,
+        "position": 16
+      },
+      "espn": {
+        "overall": 40,
+        "position": 19
+      },
+      "espnOffline": {
+        "overall": 44,
+        "position": 20
+      },
+      "fantasypros": {
+        "overall": 36,
+        "position": 18
+      },
+      "draftsharks": {
+        "overall": 47,
+        "position": 24
+      },
+      "yahoo": {
+        "overall": 44,
+        "position": 20
+      },
+      "sleeper": {
+        "overall": 40,
+        "position": 18
       }
     }
   },
@@ -1306,16 +1343,16 @@
         "position": 21
       },
       "espn": {
-        "overall": 35,
-        "position": 15
+        "overall": 36,
+        "position": 16
       },
       "espnOffline": {
-        "overall": 33,
-        "position": 15
+        "overall": 34,
+        "position": 16
       },
       "fantasypros": {
-        "overall": 36,
-        "position": 18
+        "overall": 37,
+        "position": 19
       },
       "draftsharks": {
         "overall": 44,
@@ -1326,7 +1363,7 @@
         "position": 18
       },
       "sleeper": {
-        "overall": 35,
+        "overall": 36,
         "position": 15
       }
     }
@@ -1339,7 +1376,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 33,
+        "overall": 34,
         "position": 17
       },
       "espn": {
@@ -1351,8 +1388,8 @@
         "position": 13
       },
       "fantasypros": {
-        "overall": 37,
-        "position": 19
+        "overall": 38,
+        "position": 20
       },
       "draftsharks": {
         "overall": 36,
@@ -1369,76 +1406,39 @@
     }
   },
   {
-    "id": "balqblamarjackson",
-    "name": "Lamar Jackson",
-    "team": "BAL",
-    "position": "QB",
-    "bye": "13",
+    "id": "arirbjeremiyahlove",
+    "name": "Jeremiyah Love",
+    "team": "ARI",
+    "position": "RB",
+    "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 65,
-        "position": 3
+        "overall": 36,
+        "position": 15
       },
       "espn": {
-        "overall": 48,
-        "position": 2
+        "overall": 21,
+        "position": 12
       },
       "espnOffline": {
-        "overall": 56,
-        "position": 3
+        "overall": 13,
+        "position": 7
       },
       "fantasypros": {
-        "overall": 38,
-        "position": 2
-      },
-      "draftsharks": {
-        "overall": 43,
-        "position": 2
-      },
-      "yahoo": {
-        "overall": 37,
-        "position": 2
-      },
-      "sleeper": {
-        "overall": 36,
-        "position": 2
-      }
-    }
-  },
-  {
-    "id": "lacwrladdmcconkey",
-    "name": "Ladd McConkey",
-    "team": "LAC",
-    "position": "WR",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
-        "overall": 30,
+        "overall": 39,
         "position": 16
       },
-      "espn": {
-        "overall": 40,
-        "position": 19
-      },
-      "espnOffline": {
-        "overall": 44,
-        "position": 20
-      },
-      "fantasypros": {
-        "overall": 39,
-        "position": 20
-      },
       "draftsharks": {
-        "overall": 48,
-        "position": 24
+        "overall": 34,
+        "position": 14
       },
       "yahoo": {
-        "overall": 44,
-        "position": 20
+        "overall": 27,
+        "position": 14
       },
       "sleeper": {
-        "overall": 39,
-        "position": 17
+        "overall": 27,
+        "position": 14
       }
     }
   },
@@ -1466,7 +1466,7 @@
         "position": 3
       },
       "draftsharks": {
-        "overall": 32,
+        "overall": 31,
         "position": 3
       },
       "yahoo": {
@@ -1487,8 +1487,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 35,
-        "position": 19
+        "overall": 38,
+        "position": 20
       },
       "espn": {
         "overall": 38,
@@ -1511,82 +1511,82 @@
         "position": 19
       },
       "sleeper": {
-        "overall": 40,
-        "position": 18
+        "overall": 39,
+        "position": 17
       }
     }
   },
   {
-    "id": "arirbjeremiyahlove",
-    "name": "Jeremiyah Love",
-    "team": "ARI",
-    "position": "RB",
-    "bye": "14",
+    "id": "balqblamarjackson",
+    "name": "Lamar Jackson",
+    "team": "BAL",
+    "position": "QB",
+    "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 38,
-        "position": 15
+        "overall": 64,
+        "position": 3
       },
       "espn": {
-        "overall": 21,
-        "position": 12
+        "overall": 48,
+        "position": 2
       },
       "espnOffline": {
-        "overall": 13,
-        "position": 7
+        "overall": 56,
+        "position": 3
       },
       "fantasypros": {
         "overall": 42,
-        "position": 16
+        "position": 2
       },
       "draftsharks": {
-        "overall": 33,
-        "position": 13
+        "overall": 43,
+        "position": 2
       },
       "yahoo": {
-        "overall": 27,
-        "position": 14
+        "overall": 37,
+        "position": 2
       },
       "sleeper": {
-        "overall": 27,
-        "position": 14
+        "overall": 35,
+        "position": 2
       }
     }
   },
   {
-    "id": "gbrbjoshjacobs",
-    "name": "Josh Jacobs",
-    "team": "GB",
+    "id": "norbtravisetiennejr.",
+    "name": "Travis Etienne Jr.",
+    "team": "NO",
     "position": "RB",
-    "bye": "11",
+    "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 48,
-        "position": 18
+        "overall": 41,
+        "position": 17
       },
       "espn": {
-        "overall": 31,
-        "position": 15
+        "overall": 34,
+        "position": 17
       },
       "espnOffline": {
-        "overall": 30,
-        "position": 15
+        "overall": 32,
+        "position": 16
       },
       "fantasypros": {
         "overall": 43,
         "position": 17
       },
       "draftsharks": {
-        "overall": 47,
-        "position": 18
+        "overall": 40,
+        "position": 17
       },
       "yahoo": {
-        "overall": 32,
-        "position": 15
+        "overall": 42,
+        "position": 18
       },
       "sleeper": {
-        "overall": 28,
-        "position": 15
+        "overall": 41,
+        "position": 18
       }
     }
   },
@@ -1598,7 +1598,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 66,
+        "overall": 65,
         "position": 4
       },
       "espn": {
@@ -1614,90 +1614,16 @@
         "position": 3
       },
       "draftsharks": {
-        "overall": 54,
-        "position": 3
-      },
-      "yahoo": {
-        "overall": 47,
-        "position": 3
-      },
-      "sleeper": {
         "overall": 52,
         "position": 3
-      }
-    }
-  },
-  {
-    "id": "norbtravisetiennejr.",
-    "name": "Travis Etienne Jr.",
-    "team": "NO",
-    "position": "RB",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 43,
-        "position": 17
-      },
-      "espn": {
-        "overall": 39,
-        "position": 18
-      },
-      "espnOffline": {
-        "overall": 37,
-        "position": 17
-      },
-      "fantasypros": {
-        "overall": 45,
-        "position": 18
-      },
-      "draftsharks": {
-        "overall": 42,
-        "position": 17
       },
       "yahoo": {
-        "overall": 42,
-        "position": 19
+        "overall": 47,
+        "position": 3
       },
       "sleeper": {
-        "overall": 42,
-        "position": 19
-      }
-    }
-  },
-  {
-    "id": "waswrterrymclaurin",
-    "name": "Terry McLaurin",
-    "team": "WAS",
-    "position": "WR",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
-        "overall": 47,
-        "position": 26
-      },
-      "espn": {
         "overall": 51,
-        "position": 23
-      },
-      "espnOffline": {
-        "overall": 45,
-        "position": 21
-      },
-      "fantasypros": {
-        "overall": 46,
-        "position": 22
-      },
-      "draftsharks": {
-        "overall": 50,
-        "position": 26
-      },
-      "yahoo": {
-        "overall": 52,
-        "position": 22
-      },
-      "sleeper": {
-        "overall": 54,
-        "position": 22
+        "position": 3
       }
     }
   },
@@ -1709,106 +1635,32 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 49,
-        "position": 19
+        "overall": 45,
+        "position": 18
       },
       "espn": {
-        "overall": 47,
-        "position": 21
+        "overall": 46,
+        "position": 20
       },
       "espnOffline": {
-        "overall": 59,
-        "position": 22
+        "overall": 41,
+        "position": 21
       },
       "fantasypros": {
-        "overall": 47,
-        "position": 19
+        "overall": 45,
+        "position": 18
       },
       "draftsharks": {
-        "overall": 51,
-        "position": 19
+        "overall": 49,
+        "position": 18
       },
       "yahoo": {
         "overall": 45,
-        "position": 20
-      },
-      "sleeper": {
-        "overall": 49,
-        "position": 23
-      }
-    }
-  },
-  {
-    "id": "larwrdavanteadams",
-    "name": "Davante Adams",
-    "team": "LAR",
-    "position": "WR",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 52,
-        "position": 28
-      },
-      "espn": {
-        "overall": 44,
-        "position": 21
-      },
-      "espnOffline": {
-        "overall": 43,
         "position": 19
       },
-      "fantasypros": {
-        "overall": 48,
-        "position": 23
-      },
-      "draftsharks": {
-        "overall": 40,
-        "position": 20
-      },
-      "yahoo": {
-        "overall": 54,
-        "position": 23
-      },
       "sleeper": {
-        "overall": 56,
-        "position": 24
-      }
-    }
-  },
-  {
-    "id": "cinqbjoeburrow",
-    "name": "Joe Burrow",
-    "team": "CIN",
-    "position": "QB",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 64,
-        "position": 2
-      },
-      "espn": {
-        "overall": 64,
-        "position": 5
-      },
-      "espnOffline": {
-        "overall": 74,
-        "position": 6
-      },
-      "fantasypros": {
-        "overall": 49,
-        "position": 4
-      },
-      "draftsharks": {
-        "overall": 57,
-        "position": 5
-      },
-      "yahoo": {
-        "overall": 49,
-        "position": 4
-      },
-      "sleeper": {
-        "overall": 53,
-        "position": 4
+        "overall": 47,
+        "position": 21
       }
     }
   },
@@ -1832,8 +1684,8 @@
         "position": 27
       },
       "fantasypros": {
-        "overall": 50,
-        "position": 24
+        "overall": 46,
+        "position": 22
       },
       "draftsharks": {
         "overall": 45,
@@ -1846,6 +1698,191 @@
       "sleeper": {
         "overall": 60,
         "position": 26
+      }
+    }
+  },
+  {
+    "id": "waswrterrymclaurin",
+    "name": "Terry McLaurin",
+    "team": "WAS",
+    "position": "WR",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 47,
+        "position": 25
+      },
+      "espn": {
+        "overall": 51,
+        "position": 23
+      },
+      "espnOffline": {
+        "overall": 45,
+        "position": 21
+      },
+      "fantasypros": {
+        "overall": 47,
+        "position": 23
+      },
+      "draftsharks": {
+        "overall": 50,
+        "position": 26
+      },
+      "yahoo": {
+        "overall": 52,
+        "position": 22
+      },
+      "sleeper": {
+        "overall": 53,
+        "position": 22
+      }
+    }
+  },
+  {
+    "id": "larwrdavanteadams",
+    "name": "Davante Adams",
+    "team": "LAR",
+    "position": "WR",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 51,
+        "position": 27
+      },
+      "espn": {
+        "overall": 44,
+        "position": 21
+      },
+      "espnOffline": {
+        "overall": 43,
+        "position": 19
+      },
+      "fantasypros": {
+        "overall": 48,
+        "position": 24
+      },
+      "draftsharks": {
+        "overall": 41,
+        "position": 20
+      },
+      "yahoo": {
+        "overall": 54,
+        "position": 23
+      },
+      "sleeper": {
+        "overall": 55,
+        "position": 23
+      }
+    }
+  },
+  {
+    "id": "cinqbjoeburrow",
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "position": "QB",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 61,
+        "position": 2
+      },
+      "espn": {
+        "overall": 63,
+        "position": 5
+      },
+      "espnOffline": {
+        "overall": 74,
+        "position": 6
+      },
+      "fantasypros": {
+        "overall": 49,
+        "position": 4
+      },
+      "draftsharks": {
+        "overall": 56,
+        "position": 5
+      },
+      "yahoo": {
+        "overall": 49,
+        "position": 4
+      },
+      "sleeper": {
+        "overall": 54,
+        "position": 4
+      }
+    }
+  },
+  {
+    "id": "detwrjamesonwilliams",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "position": "WR",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 46,
+        "position": 24
+      },
+      "espn": {
+        "overall": 54,
+        "position": 25
+      },
+      "espnOffline": {
+        "overall": 51,
+        "position": 25
+      },
+      "fantasypros": {
+        "overall": 50,
+        "position": 25
+      },
+      "draftsharks": {
+        "overall": 51,
+        "position": 27
+      },
+      "yahoo": {
+        "overall": 64,
+        "position": 26
+      },
+      "sleeper": {
+        "overall": 57,
+        "position": 25
+      }
+    }
+  },
+  {
+    "id": "tbrbbuckyirving",
+    "name": "Bucky Irving",
+    "team": "TB",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 59,
+        "position": 24
+      },
+      "espn": {
+        "overall": 49,
+        "position": 22
+      },
+      "espnOffline": {
+        "overall": 40,
+        "position": 20
+      },
+      "fantasypros": {
+        "overall": 51,
+        "position": 19
+      },
+      "draftsharks": {
+        "overall": 61,
+        "position": 21
+      },
+      "yahoo": {
+        "overall": 55,
+        "position": 22
+      },
+      "sleeper": {
+        "overall": 45,
+        "position": 19
       }
     }
   },
@@ -1869,11 +1906,11 @@
         "position": 4
       },
       "fantasypros": {
-        "overall": 51,
+        "overall": 52,
         "position": 4
       },
       "draftsharks": {
-        "overall": 41,
+        "overall": 42,
         "position": 4
       },
       "yahoo": {
@@ -1883,43 +1920,6 @@
       "sleeper": {
         "overall": 50,
         "position": 4
-      }
-    }
-  },
-  {
-    "id": "detwrjamesonwilliams",
-    "name": "Jameson Williams",
-    "team": "DET",
-    "position": "WR",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 45,
-        "position": 24
-      },
-      "espn": {
-        "overall": 52,
-        "position": 24
-      },
-      "espnOffline": {
-        "overall": 51,
-        "position": 25
-      },
-      "fantasypros": {
-        "overall": 52,
-        "position": 25
-      },
-      "draftsharks": {
-        "overall": 52,
-        "position": 27
-      },
-      "yahoo": {
-        "overall": 64,
-        "position": 26
-      },
-      "sleeper": {
-        "overall": 57,
-        "position": 25
       }
     }
   },
@@ -1931,68 +1931,105 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 51,
-        "position": 20
+        "overall": 49,
+        "position": 19
       },
       "espn": {
-        "overall": 46,
-        "position": 20
+        "overall": 41,
+        "position": 19
       },
       "espnOffline": {
-        "overall": 40,
-        "position": 20
+        "overall": 39,
+        "position": 19
       },
       "fantasypros": {
         "overall": 53,
         "position": 20
       },
       "draftsharks": {
-        "overall": 60,
-        "position": 20
+        "overall": 58,
+        "position": 19
       },
       "yahoo": {
         "overall": 41,
-        "position": 18
+        "position": 17
       },
       "sleeper": {
         "overall": 37,
-        "position": 18
+        "position": 17
       }
     }
   },
   {
-    "id": "tbrbbuckyirving",
-    "name": "Bucky Irving",
-    "team": "TB",
-    "position": "RB",
-    "bye": "10",
+    "id": "gbwrchristianwatson",
+    "name": "Christian Watson",
+    "team": "GB",
+    "position": "WR",
+    "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 59,
-        "position": 24
+        "overall": 48,
+        "position": 26
+      },
+      "espn": {
+        "overall": 74,
+        "position": 34
+      },
+      "espnOffline": {
+        "overall": 76,
+        "position": 35
+      },
+      "fantasypros": {
+        "overall": 54,
+        "position": 26
+      },
+      "draftsharks": {
+        "overall": 37,
+        "position": 18
+      },
+      "yahoo": {
+        "overall": 67,
+        "position": 28
+      },
+      "sleeper": {
+        "overall": 66,
+        "position": 29
+      }
+    }
+  },
+  {
+    "id": "hourbdavidmontgomery",
+    "name": "David Montgomery",
+    "team": "HOU",
+    "position": "RB",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 50,
+        "position": 20
       },
       "espn": {
         "overall": 50,
         "position": 23
       },
       "espnOffline": {
-        "overall": 41,
-        "position": 21
+        "overall": 60,
+        "position": 23
       },
       "fantasypros": {
-        "overall": 54,
+        "overall": 55,
         "position": 21
       },
       "draftsharks": {
-        "overall": 63,
-        "position": 23
+        "overall": 62,
+        "position": 22
       },
       "yahoo": {
-        "overall": 55,
-        "position": 23
+        "overall": 50,
+        "position": 20
       },
       "sleeper": {
-        "overall": 45,
+        "overall": 46,
         "position": 20
       }
     }
@@ -2005,69 +2042,32 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 58,
+        "overall": 57,
         "position": 23
       },
       "espn": {
-        "overall": 41,
-        "position": 19
-      },
-      "espnOffline": {
         "overall": 39,
-        "position": 19
-      },
-      "fantasypros": {
-        "overall": 55,
-        "position": 22
-      },
-      "draftsharks": {
-        "overall": 62,
-        "position": 22
-      },
-      "yahoo": {
-        "overall": 51,
-        "position": 22
-      },
-      "sleeper": {
-        "overall": 48,
-        "position": 22
-      }
-    }
-  },
-  {
-    "id": "hourbdavidmontgomery",
-    "name": "David Montgomery",
-    "team": "HOU",
-    "position": "RB",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 53,
-        "position": 21
-      },
-      "espn": {
-        "overall": 53,
-        "position": 24
+        "position": 18
       },
       "espnOffline": {
-        "overall": 61,
-        "position": 24
+        "overall": 38,
+        "position": 18
       },
       "fantasypros": {
         "overall": 56,
-        "position": 23
+        "position": 22
       },
       "draftsharks": {
-        "overall": 61,
-        "position": 21
+        "overall": 60,
+        "position": 20
       },
       "yahoo": {
-        "overall": 50,
+        "overall": 51,
         "position": 21
       },
       "sleeper": {
-        "overall": 46,
-        "position": 21
+        "overall": 49,
+        "position": 22
       }
     }
   },
@@ -2079,12 +2079,12 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 41,
+        "overall": 43,
         "position": 22
       },
       "espn": {
-        "overall": 56,
-        "position": 26
+        "overall": 52,
+        "position": 24
       },
       "espnOffline": {
         "overall": 52,
@@ -2092,56 +2092,19 @@
       },
       "fantasypros": {
         "overall": 57,
-        "position": 26
-      },
-      "draftsharks": {
-        "overall": 64,
-        "position": 29
-      },
-      "yahoo": {
-        "overall": 59,
-        "position": 25
-      },
-      "sleeper": {
-        "overall": 55,
-        "position": 23
-      }
-    }
-  },
-  {
-    "id": "gbwrchristianwatson",
-    "name": "Christian Watson",
-    "team": "GB",
-    "position": "WR",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 46,
-        "position": 25
-      },
-      "espn": {
-        "overall": 74,
-        "position": 34
-      },
-      "espnOffline": {
-        "overall": 76,
-        "position": 35
-      },
-      "fantasypros": {
-        "overall": 58,
         "position": 27
       },
       "draftsharks": {
-        "overall": 37,
-        "position": 18
-      },
-      "yahoo": {
-        "overall": 67,
+        "overall": 63,
         "position": 29
       },
+      "yahoo": {
+        "overall": 58,
+        "position": 25
+      },
       "sleeper": {
-        "overall": 68,
-        "position": 30
+        "overall": 56,
+        "position": 24
       }
     }
   },
@@ -2153,19 +2116,19 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 54,
+        "overall": 53,
         "position": 29
       },
       "espn": {
-        "overall": 54,
-        "position": 25
+        "overall": 56,
+        "position": 26
       },
       "espnOffline": {
         "overall": 48,
         "position": 24
       },
       "fantasypros": {
-        "overall": 59,
+        "overall": 58,
         "position": 28
       },
       "draftsharks": {
@@ -2177,119 +2140,8 @@
         "position": 27
       },
       "sleeper": {
-        "overall": 63,
+        "overall": 64,
         "position": 28
-      }
-    }
-  },
-  {
-    "id": "wasqbjaydendaniels",
-    "name": "Jayden Daniels",
-    "team": "WAS",
-    "position": "QB",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
-        "overall": 88,
-        "position": 6
-      },
-      "espn": {
-        "overall": 57,
-        "position": 3
-      },
-      "espnOffline": {
-        "overall": 55,
-        "position": 2
-      },
-      "fantasypros": {
-        "overall": 60,
-        "position": 5
-      },
-      "draftsharks": {
-        "overall": 55,
-        "position": 4
-      },
-      "yahoo": {
-        "overall": 53,
-        "position": 5
-      },
-      "sleeper": {
-        "overall": 65,
-        "position": 6
-      }
-    }
-  },
-  {
-    "id": "sfwrmikeevans",
-    "name": "Mike Evans",
-    "team": "SF",
-    "position": "WR",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 56,
-        "position": 30
-      },
-      "espn": {
-        "overall": 65,
-        "position": 30
-      },
-      "espnOffline": {
-        "overall": 77,
-        "position": 36
-      },
-      "fantasypros": {
-        "overall": 61,
-        "position": 29
-      },
-      "draftsharks": {
-        "overall": 49,
-        "position": 25
-      },
-      "yahoo": {
-        "overall": 66,
-        "position": 28
-      },
-      "sleeper": {
-        "overall": 61,
-        "position": 27
-      }
-    }
-  },
-  {
-    "id": "phiqbjalenhurts",
-    "name": "Jalen Hurts",
-    "team": "PHI",
-    "position": "QB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 101,
-        "position": 10
-      },
-      "espn": {
-        "overall": 68,
-        "position": 6
-      },
-      "espnOffline": {
-        "overall": 58,
-        "position": 5
-      },
-      "fantasypros": {
-        "overall": 62,
-        "position": 6
-      },
-      "draftsharks": {
-        "overall": 58,
-        "position": 6
-      },
-      "yahoo": {
-        "overall": 56,
-        "position": 6
-      },
-      "sleeper": {
-        "overall": 62,
-        "position": 5
       }
     }
   },
@@ -2301,32 +2153,32 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 57,
+        "overall": 56,
         "position": 22
       },
       "espn": {
-        "overall": 49,
-        "position": 22
+        "overall": 47,
+        "position": 21
       },
       "espnOffline": {
-        "overall": 60,
-        "position": 23
+        "overall": 59,
+        "position": 22
       },
       "fantasypros": {
-        "overall": 63,
-        "position": 24
+        "overall": 59,
+        "position": 23
       },
       "draftsharks": {
-        "overall": 75,
-        "position": 24
+        "overall": 73,
+        "position": 23
       },
       "yahoo": {
         "overall": 60,
-        "position": 24
+        "position": 23
       },
       "sleeper": {
         "overall": 59,
-        "position": 26
+        "position": 25
       }
     }
   },
@@ -2342,28 +2194,139 @@
         "position": 25
       },
       "espn": {
-        "overall": 59,
-        "position": 25
+        "overall": 53,
+        "position": 24
       },
       "espnOffline": {
-        "overall": 62,
-        "position": 25
+        "overall": 61,
+        "position": 24
       },
       "fantasypros": {
-        "overall": 64,
-        "position": 25
+        "overall": 60,
+        "position": 24
       },
       "draftsharks": {
-        "overall": 77,
-        "position": 25
+        "overall": 75,
+        "position": 24
       },
       "yahoo": {
         "overall": 63,
-        "position": 26
+        "position": 25
       },
       "sleeper": {
         "overall": 58,
+        "position": 24
+      }
+    }
+  },
+  {
+    "id": "sfwrmikeevans",
+    "name": "Mike Evans",
+    "team": "SF",
+    "position": "WR",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 58,
+        "position": 30
+      },
+      "espn": {
+        "overall": 62,
+        "position": 29
+      },
+      "espnOffline": {
+        "overall": 77,
+        "position": 36
+      },
+      "fantasypros": {
+        "overall": 61,
+        "position": 29
+      },
+      "draftsharks": {
+        "overall": 48,
         "position": 25
+      },
+      "yahoo": {
+        "overall": 68,
+        "position": 29
+      },
+      "sleeper": {
+        "overall": 61,
+        "position": 27
+      }
+    }
+  },
+  {
+    "id": "wasqbjaydendaniels",
+    "name": "Jayden Daniels",
+    "team": "WAS",
+    "position": "QB",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 85,
+        "position": 6
+      },
+      "espn": {
+        "overall": 57,
+        "position": 3
+      },
+      "espnOffline": {
+        "overall": 55,
+        "position": 2
+      },
+      "fantasypros": {
+        "overall": 62,
+        "position": 5
+      },
+      "draftsharks": {
+        "overall": 54,
+        "position": 4
+      },
+      "yahoo": {
+        "overall": 53,
+        "position": 5
+      },
+      "sleeper": {
+        "overall": 68,
+        "position": 6
+      }
+    }
+  },
+  {
+    "id": "phiqbjalenhurts",
+    "name": "Jalen Hurts",
+    "team": "PHI",
+    "position": "QB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 96,
+        "position": 10
+      },
+      "espn": {
+        "overall": 68,
+        "position": 6
+      },
+      "espnOffline": {
+        "overall": 58,
+        "position": 5
+      },
+      "fantasypros": {
+        "overall": 63,
+        "position": 6
+      },
+      "draftsharks": {
+        "overall": 57,
+        "position": 6
+      },
+      "yahoo": {
+        "overall": 56,
+        "position": 6
+      },
+      "sleeper": {
+        "overall": 62,
+        "position": 5
       }
     }
   },
@@ -2375,8 +2338,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 50,
-        "position": 27
+        "overall": 52,
+        "position": 28
       },
       "espn": {
         "overall": 75,
@@ -2387,7 +2350,7 @@
         "position": 33
       },
       "fantasypros": {
-        "overall": 65,
+        "overall": 64,
         "position": 30
       },
       "draftsharks": {
@@ -2395,8 +2358,8 @@
         "position": 30
       },
       "yahoo": {
-        "overall": 77,
-        "position": 32
+        "overall": 76,
+        "position": 31
       },
       "sleeper": {
         "overall": 72,
@@ -2412,32 +2375,32 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 62,
+        "overall": 63,
         "position": 26
       },
       "espn": {
-        "overall": 63,
-        "position": 26
+        "overall": 59,
+        "position": 25
       },
       "espnOffline": {
         "overall": 97,
         "position": 29
       },
       "fantasypros": {
-        "overall": 66,
-        "position": 26
+        "overall": 65,
+        "position": 25
       },
       "draftsharks": {
-        "overall": 79,
-        "position": 26
+        "overall": 76,
+        "position": 25
       },
       "yahoo": {
         "overall": 62,
-        "position": 25
+        "position": 24
       },
       "sleeper": {
-        "overall": 51,
-        "position": 24
+        "overall": 52,
+        "position": 23
       }
     }
   },
@@ -2449,27 +2412,27 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 80,
+        "overall": 78,
         "position": 5
       },
       "espn": {
-        "overall": 98,
-        "position": 11
+        "overall": 88,
+        "position": 10
       },
       "espnOffline": {
         "overall": 87,
         "position": 13
       },
       "fantasypros": {
-        "overall": 67,
+        "overall": 66,
         "position": 7
       },
       "draftsharks": {
-        "overall": 71,
+        "overall": 70,
         "position": 10
       },
       "yahoo": {
-        "overall": 68,
+        "overall": 66,
         "position": 7
       },
       "sleeper": {
@@ -2498,19 +2461,19 @@
         "position": 9
       },
       "fantasypros": {
-        "overall": 69,
+        "overall": 68,
         "position": 5
       },
       "draftsharks": {
-        "overall": 56,
+        "overall": 55,
         "position": 5
       },
       "yahoo": {
-        "overall": 58,
+        "overall": 59,
         "position": 5
       },
       "sleeper": {
-        "overall": 66,
+        "overall": 65,
         "position": 6
       }
     }
@@ -2523,24 +2486,24 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 61,
+        "overall": 62,
         "position": 31
       },
       "espn": {
-        "overall": 62,
-        "position": 29
+        "overall": 64,
+        "position": 30
       },
       "espnOffline": {
         "overall": 67,
         "position": 31
       },
       "fantasypros": {
-        "overall": 70,
+        "overall": 69,
         "position": 31
       },
       "draftsharks": {
-        "overall": 78,
-        "position": 33
+        "overall": 77,
+        "position": 32
       },
       "yahoo": {
         "overall": 74,
@@ -2560,7 +2523,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 89,
+        "overall": 86,
         "position": 7
       },
       "espn": {
@@ -2572,11 +2535,11 @@
         "position": 14
       },
       "fantasypros": {
-        "overall": 71,
+        "overall": 70,
         "position": 8
       },
       "draftsharks": {
-        "overall": 69,
+        "overall": 68,
         "position": 8
       },
       "yahoo": {
@@ -2584,7 +2547,7 @@
         "position": 8
       },
       "sleeper": {
-        "overall": 80,
+        "overall": 79,
         "position": 8
       }
     }
@@ -2597,32 +2560,32 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 73,
+        "overall": 72,
         "position": 28
       },
       "espn": {
-        "overall": 76,
-        "position": 28
+        "overall": 73,
+        "position": 27
       },
       "espnOffline": {
         "overall": 64,
         "position": 26
       },
       "fantasypros": {
-        "overall": 72,
-        "position": 28
+        "overall": 71,
+        "position": 27
       },
       "draftsharks": {
-        "overall": 85,
-        "position": 28
+        "overall": 83,
+        "position": 27
       },
       "yahoo": {
         "overall": 73,
-        "position": 27
+        "position": 26
       },
       "sleeper": {
         "overall": 69,
-        "position": 27
+        "position": 26
       }
     }
   },
@@ -2634,7 +2597,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 63,
+        "overall": 66,
         "position": 32
       },
       "espn": {
@@ -2646,20 +2609,20 @@
         "position": 28
       },
       "fantasypros": {
-        "overall": 73,
+        "overall": 72,
         "position": 32
       },
       "draftsharks": {
-        "overall": 76,
-        "position": 32
+        "overall": 79,
+        "position": 33
       },
       "yahoo": {
-        "overall": 76,
-        "position": 31
+        "overall": 77,
+        "position": 32
       },
       "sleeper": {
         "overall": 67,
-        "position": 29
+        "position": 30
       }
     }
   },
@@ -2671,23 +2634,23 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 92,
+        "overall": 88,
         "position": 8
       },
       "espn": {
-        "overall": 88,
-        "position": 10
+        "overall": 98,
+        "position": 11
       },
       "espnOffline": {
         "overall": 82,
         "position": 8
       },
       "fantasypros": {
-        "overall": 74,
+        "overall": 73,
         "position": 9
       },
       "draftsharks": {
-        "overall": 68,
+        "overall": 67,
         "position": 7
       },
       "yahoo": {
@@ -2695,8 +2658,45 @@
         "position": 10
       },
       "sleeper": {
-        "overall": 97,
+        "overall": 98,
         "position": 10
+      }
+    }
+  },
+  {
+    "id": "tenrbtonypollard",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "position": "RB",
+    "bye": "9",
+    "rankings": {
+      "nfc": {
+        "overall": 77,
+        "position": 29
+      },
+      "espn": {
+        "overall": 66,
+        "position": 26
+      },
+      "espnOffline": {
+        "overall": 98,
+        "position": 30
+      },
+      "fantasypros": {
+        "overall": 74,
+        "position": 28
+      },
+      "draftsharks": {
+        "overall": 91,
+        "position": 30
+      },
+      "yahoo": {
+        "overall": 81,
+        "position": 27
+      },
+      "sleeper": {
+        "overall": 80,
+        "position": 28
       }
     }
   },
@@ -2708,7 +2708,7 @@
     "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 93,
+        "overall": 89,
         "position": 9
       },
       "espn": {
@@ -2724,7 +2724,7 @@
         "position": 10
       },
       "draftsharks": {
-        "overall": 73,
+        "overall": 72,
         "position": 12
       },
       "yahoo": {
@@ -2732,7 +2732,7 @@
         "position": 9
       },
       "sleeper": {
-        "overall": 83,
+        "overall": 84,
         "position": 9
       }
     }
@@ -2749,8 +2749,8 @@
         "position": 33
       },
       "espn": {
-        "overall": 93,
-        "position": 41
+        "overall": 94,
+        "position": 42
       },
       "espnOffline": {
         "overall": 79,
@@ -2761,8 +2761,8 @@
         "position": 33
       },
       "draftsharks": {
-        "overall": 83,
-        "position": 35
+        "overall": 88,
+        "position": 36
       },
       "yahoo": {
         "overall": 78,
@@ -2770,191 +2770,6 @@
       },
       "sleeper": {
         "overall": 71,
-        "position": 31
-      }
-    }
-  },
-  {
-    "id": "tenrbtonypollard",
-    "name": "Tony Pollard",
-    "team": "TEN",
-    "position": "RB",
-    "bye": "9",
-    "rankings": {
-      "nfc": {
-        "overall": 78,
-        "position": 29
-      },
-      "espn": {
-        "overall": 73,
-        "position": 27
-      },
-      "espnOffline": {
-        "overall": 98,
-        "position": 30
-      },
-      "fantasypros": {
-        "overall": 77,
-        "position": 29
-      },
-      "draftsharks": {
-        "overall": 93,
-        "position": 31
-      },
-      "yahoo": {
-        "overall": 80,
-        "position": 28
-      },
-      "sleeper": {
-        "overall": 79,
-        "position": 29
-      }
-    }
-  },
-  {
-    "id": "pitwrdkmetcalf",
-    "name": "DK Metcalf",
-    "team": "PIT",
-    "position": "WR",
-    "bye": "9",
-    "rankings": {
-      "nfc": {
-        "overall": 72,
-        "position": 36
-      },
-      "espn": {
-        "overall": 67,
-        "position": 32
-      },
-      "espnOffline": {
-        "overall": 68,
-        "position": 32
-      },
-      "fantasypros": {
-        "overall": 78,
-        "position": 34
-      },
-      "draftsharks": {
-        "overall": 74,
-        "position": 31
-      },
-      "yahoo": {
-        "overall": 83,
-        "position": 34
-      },
-      "sleeper": {
-        "overall": 77,
-        "position": 34
-      }
-    }
-  },
-  {
-    "id": "cleteharoldfanninjr.",
-    "name": "Harold Fannin Jr.",
-    "team": "CLE",
-    "position": "TE",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 94,
-        "position": 7
-      },
-      "espn": {
-        "overall": 69,
-        "position": 5
-      },
-      "espnOffline": {
-        "overall": 72,
-        "position": 6
-      },
-      "fantasypros": {
-        "overall": 79,
-        "position": 6
-      },
-      "draftsharks": {
-        "overall": 67,
-        "position": 7
-      },
-      "yahoo": {
-        "overall": 70,
-        "position": 7
-      },
-      "sleeper": {
-        "overall": 75,
-        "position": 8
-      }
-    }
-  },
-  {
-    "id": "dettesamlaporta",
-    "name": "Sam LaPorta",
-    "team": "DET",
-    "position": "TE",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 99,
-        "position": 8
-      },
-      "espn": {
-        "overall": 77,
-        "position": 7
-      },
-      "espnOffline": {
-        "overall": 73,
-        "position": 7
-      },
-      "fantasypros": {
-        "overall": 80,
-        "position": 7
-      },
-      "draftsharks": {
-        "overall": 59,
-        "position": 6
-      },
-      "yahoo": {
-        "overall": 61,
-        "position": 6
-      },
-      "sleeper": {
-        "overall": 64,
-        "position": 5
-      }
-    }
-  },
-  {
-    "id": "pitrbricodowdle",
-    "name": "Rico Dowdle",
-    "team": "PIT",
-    "position": "RB",
-    "bye": "9",
-    "rankings": {
-      "nfc": {
-        "overall": 87,
-        "position": 33
-      },
-      "espn": {
-        "overall": 81,
-        "position": 30
-      },
-      "espnOffline": {
-        "overall": 95,
-        "position": 27
-      },
-      "fantasypros": {
-        "overall": 81,
-        "position": 30
-      },
-      "draftsharks": {
-        "overall": 88,
-        "position": 29
-      },
-      "yahoo": {
-        "overall": 85,
-        "position": 30
-      },
-      "sleeper": {
-        "overall": 84,
         "position": 31
       }
     }
@@ -2979,20 +2794,131 @@
         "position": 28
       },
       "fantasypros": {
+        "overall": 77,
+        "position": 29
+      },
+      "draftsharks": {
+        "overall": 82,
+        "position": 26
+      },
+      "yahoo": {
+        "overall": 89,
+        "position": 30
+      },
+      "sleeper": {
+        "overall": 87,
+        "position": 32
+      }
+    }
+  },
+  {
+    "id": "dettesamlaporta",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "position": "TE",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 97,
+        "position": 8
+      },
+      "espn": {
+        "overall": 80,
+        "position": 8
+      },
+      "espnOffline": {
+        "overall": 73,
+        "position": 7
+      },
+      "fantasypros": {
+        "overall": 78,
+        "position": 6
+      },
+      "draftsharks": {
+        "overall": 59,
+        "position": 6
+      },
+      "yahoo": {
+        "overall": 61,
+        "position": 6
+      },
+      "sleeper": {
+        "overall": 63,
+        "position": 5
+      }
+    }
+  },
+  {
+    "id": "pitwrdkmetcalf",
+    "name": "DK Metcalf",
+    "team": "PIT",
+    "position": "WR",
+    "bye": "9",
+    "rankings": {
+      "nfc": {
+        "overall": 73,
+        "position": 36
+      },
+      "espn": {
+        "overall": 67,
+        "position": 32
+      },
+      "espnOffline": {
+        "overall": 68,
+        "position": 32
+      },
+      "fantasypros": {
+        "overall": 79,
+        "position": 34
+      },
+      "draftsharks": {
+        "overall": 74,
+        "position": 31
+      },
+      "yahoo": {
+        "overall": 82,
+        "position": 34
+      },
+      "sleeper": {
+        "overall": 77,
+        "position": 34
+      }
+    }
+  },
+  {
+    "id": "pitrbricodowdle",
+    "name": "Rico Dowdle",
+    "team": "PIT",
+    "position": "RB",
+    "bye": "9",
+    "rankings": {
+      "nfc": {
+        "overall": 87,
+        "position": 33
+      },
+      "espn": {
         "overall": 82,
         "position": 31
       },
-      "draftsharks": {
-        "overall": 84,
+      "espnOffline": {
+        "overall": 95,
         "position": 27
       },
+      "fantasypros": {
+        "overall": 80,
+        "position": 30
+      },
+      "draftsharks": {
+        "overall": 84,
+        "position": 28
+      },
       "yahoo": {
-        "overall": 91,
-        "position": 31
+        "overall": 84,
+        "position": 28
       },
       "sleeper": {
-        "overall": 88,
-        "position": 33
+        "overall": 83,
+        "position": 30
       }
     }
   },
@@ -3005,7 +2931,7 @@
     "rankings": {
       "nfc": {
         "overall": 70,
-        "position": 35
+        "position": 34
       },
       "espn": {
         "overall": 96,
@@ -3016,20 +2942,57 @@
         "position": 52
       },
       "fantasypros": {
-        "overall": 83,
+        "overall": 81,
         "position": 35
       },
       "draftsharks": {
-        "overall": 108,
+        "overall": 109,
         "position": 43
       },
       "yahoo": {
-        "overall": 94,
-        "position": 37
+        "overall": 93,
+        "position": 36
       },
       "sleeper": {
-        "overall": 93,
+        "overall": 90,
         "position": 38
+      }
+    }
+  },
+  {
+    "id": "cleteharoldfanninjr.",
+    "name": "Harold Fannin Jr.",
+    "team": "CLE",
+    "position": "TE",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 93,
+        "position": 7
+      },
+      "espn": {
+        "overall": 69,
+        "position": 5
+      },
+      "espnOffline": {
+        "overall": 72,
+        "position": 6
+      },
+      "fantasypros": {
+        "overall": 82,
+        "position": 7
+      },
+      "draftsharks": {
+        "overall": 66,
+        "position": 7
+      },
+      "yahoo": {
+        "overall": 70,
+        "position": 7
+      },
+      "sleeper": {
+        "overall": 76,
+        "position": 8
       }
     }
   },
@@ -3041,7 +3004,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 77,
+        "overall": 79,
         "position": 6
       },
       "espn": {
@@ -3053,11 +3016,11 @@
         "position": 5
       },
       "fantasypros": {
-        "overall": 84,
+        "overall": 83,
         "position": 8
       },
       "draftsharks": {
-        "overall": 89,
+        "overall": 87,
         "position": 9
       },
       "yahoo": {
@@ -3071,6 +3034,43 @@
     }
   },
   {
+    "id": "gbrbmarshawnlloyd",
+    "name": "MarShawn Lloyd",
+    "team": "GB",
+    "position": "RB",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 120,
+        "position": 40
+      },
+      "espn": {
+        "overall": 78,
+        "position": 29
+      },
+      "espnOffline": {
+        "overall": 100,
+        "position": 32
+      },
+      "fantasypros": {
+        "overall": 84,
+        "position": 31
+      },
+      "draftsharks": {
+        "overall": 92,
+        "position": 31
+      },
+      "yahoo": {
+        "overall": 157,
+        "position": 45
+      },
+      "sleeper": {
+        "overall": 160,
+        "position": 49
+      }
+    }
+  },
+  {
     "id": "denwrcourtlandsutton",
     "name": "Courtland Sutton",
     "team": "DEN",
@@ -3078,8 +3078,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 69,
-        "position": 34
+        "overall": 71,
+        "position": 35
       },
       "espn": {
         "overall": 70,
@@ -3094,8 +3094,8 @@
         "position": 36
       },
       "draftsharks": {
-        "overall": 82,
-        "position": 34
+        "overall": 86,
+        "position": 35
       },
       "yahoo": {
         "overall": 103,
@@ -3104,43 +3104,6 @@
       "sleeper": {
         "overall": 82,
         "position": 35
-      }
-    }
-  },
-  {
-    "id": "denrbj.k.dobbins",
-    "name": "J.K. Dobbins",
-    "team": "DEN",
-    "position": "RB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 100,
-        "position": 35
-      },
-      "espn": {
-        "overall": 100,
-        "position": 36
-      },
-      "espnOffline": {
-        "overall": 105,
-        "position": 33
-      },
-      "fantasypros": {
-        "overall": 86,
-        "position": 32
-      },
-      "draftsharks": {
-        "overall": 92,
-        "position": 30
-      },
-      "yahoo": {
-        "overall": 93,
-        "position": 32
-      },
-      "sleeper": {
-        "overall": 85,
-        "position": 32
       }
     }
   },
@@ -3156,24 +3119,24 @@
         "position": 38
       },
       "espn": {
-        "overall": 105,
-        "position": 47
+        "overall": 118,
+        "position": 49
       },
       "espnOffline": {
         "overall": 113,
         "position": 47
       },
       "fantasypros": {
-        "overall": 87,
+        "overall": 86,
         "position": 37
       },
       "draftsharks": {
-        "overall": 91,
+        "overall": 93,
         "position": 37
       },
       "yahoo": {
-        "overall": 112,
-        "position": 42
+        "overall": 113,
+        "position": 43
       },
       "sleeper": {
         "overall": 105,
@@ -3193,7 +3156,7 @@
         "position": 39
       },
       "espn": {
-        "overall": 66,
+        "overall": 65,
         "position": 31
       },
       "espnOffline": {
@@ -3201,20 +3164,57 @@
         "position": 30
       },
       "fantasypros": {
-        "overall": 88,
+        "overall": 87,
         "position": 38
       },
       "draftsharks": {
-        "overall": 97,
+        "overall": 98,
         "position": 39
       },
       "yahoo": {
-        "overall": 125,
+        "overall": 126,
         "position": 47
       },
       "sleeper": {
         "overall": 104,
         "position": 43
+      }
+    }
+  },
+  {
+    "id": "denrbj.k.dobbins",
+    "name": "J.K. Dobbins",
+    "team": "DEN",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 99,
+        "position": 35
+      },
+      "espn": {
+        "overall": 100,
+        "position": 36
+      },
+      "espnOffline": {
+        "overall": 106,
+        "position": 34
+      },
+      "fantasypros": {
+        "overall": 88,
+        "position": 32
+      },
+      "draftsharks": {
+        "overall": 89,
+        "position": 29
+      },
+      "yahoo": {
+        "overall": 92,
+        "position": 31
+      },
+      "sleeper": {
+        "overall": 85,
+        "position": 31
       }
     }
   },
@@ -3230,8 +3230,8 @@
         "position": 37
       },
       "espn": {
-        "overall": 79,
-        "position": 36
+        "overall": 83,
+        "position": 37
       },
       "espnOffline": {
         "overall": 80,
@@ -3242,8 +3242,8 @@
         "position": 39
       },
       "draftsharks": {
-        "overall": 120,
-        "position": 49
+        "overall": 123,
+        "position": 50
       },
       "yahoo": {
         "overall": 102,
@@ -3263,69 +3263,69 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 79,
+        "overall": 80,
         "position": 30
       },
       "espn": {
-        "overall": 108,
-        "position": 38
+        "overall": 111,
+        "position": 39
       },
       "espnOffline": {
-        "overall": 121,
-        "position": 39
+        "overall": 122,
+        "position": 40
       },
       "fantasypros": {
         "overall": 90,
         "position": 33
       },
       "draftsharks": {
-        "overall": 100,
+        "overall": 99,
         "position": 34
       },
       "yahoo": {
         "overall": 97,
-        "position": 33
+        "position": 32
       },
       "sleeper": {
-        "overall": 92,
-        "position": 35
+        "overall": 93,
+        "position": 34
       }
     }
   },
   {
-    "id": "carrbchubahubbard",
-    "name": "Chuba Hubbard",
-    "team": "CAR",
-    "position": "RB",
-    "bye": "5",
+    "id": "sftegeorgekittle",
+    "name": "George Kittle",
+    "team": "SF",
+    "position": "TE",
+    "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 106,
-        "position": 37
+        "overall": 104,
+        "position": 9
       },
       "espn": {
-        "overall": 82,
-        "position": 31
+        "overall": 77,
+        "position": 7
       },
       "espnOffline": {
-        "overall": 100,
-        "position": 32
+        "overall": 101,
+        "position": 8
       },
       "fantasypros": {
         "overall": 91,
-        "position": 34
+        "position": 9
       },
       "draftsharks": {
-        "overall": 107,
-        "position": 36
+        "overall": 80,
+        "position": 8
       },
       "yahoo": {
-        "overall": 84,
-        "position": 29
+        "overall": 80,
+        "position": 9
       },
       "sleeper": {
-        "overall": 78,
-        "position": 28
+        "overall": 86,
+        "position": 9
       }
     }
   },
@@ -3338,7 +3338,7 @@
     "rankings": {
       "nfc": {
         "overall": 90,
-        "position": 43
+        "position": 41
       },
       "espn": {
         "overall": 92,
@@ -3353,53 +3353,53 @@
         "position": 40
       },
       "draftsharks": {
-        "overall": 115,
+        "overall": 116,
         "position": 47
       },
       "yahoo": {
-        "overall": 89,
+        "overall": 91,
         "position": 35
       },
       "sleeper": {
         "overall": 95,
-        "position": 40
+        "position": 39
       }
     }
   },
   {
-    "id": "sftegeorgekittle",
-    "name": "George Kittle",
-    "team": "SF",
-    "position": "TE",
-    "bye": "8",
+    "id": "indwrjoshdowns",
+    "name": "Josh Downs",
+    "team": "IND",
+    "position": "WR",
+    "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 105,
-        "position": 9
+        "overall": 84,
+        "position": 40
       },
       "espn": {
-        "overall": 80,
-        "position": 8
+        "overall": 104,
+        "position": 46
       },
       "espnOffline": {
-        "overall": 101,
-        "position": 8
+        "overall": 124,
+        "position": 49
       },
       "fantasypros": {
         "overall": 93,
-        "position": 9
+        "position": 41
       },
       "draftsharks": {
-        "overall": 81,
-        "position": 8
+        "overall": 112,
+        "position": 44
       },
       "yahoo": {
-        "overall": 81,
-        "position": 9
+        "overall": 109,
+        "position": 41
       },
       "sleeper": {
-        "overall": 86,
-        "position": 9
+        "overall": 110,
+        "position": 45
       }
     }
   },
@@ -3411,7 +3411,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 113,
+        "overall": 112,
         "position": 13
       },
       "espn": {
@@ -3427,7 +3427,7 @@
         "position": 11
       },
       "draftsharks": {
-        "overall": 70,
+        "overall": 69,
         "position": 9
       },
       "yahoo": {
@@ -3435,156 +3435,82 @@
         "position": 12
       },
       "sleeper": {
-        "overall": 121,
+        "overall": 124,
         "position": 15
       }
     }
   },
   {
-    "id": "indwrjoshdowns",
-    "name": "Josh Downs",
-    "team": "IND",
-    "position": "WR",
-    "bye": "13",
+    "id": "carrbchubahubbard",
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "position": "RB",
+    "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 82,
-        "position": 40
+        "overall": 106,
+        "position": 36
       },
       "espn": {
-        "overall": 104,
-        "position": 46
+        "overall": 89,
+        "position": 33
       },
       "espnOffline": {
-        "overall": 124,
-        "position": 49
+        "overall": 105,
+        "position": 33
       },
       "fantasypros": {
         "overall": 95,
-        "position": 41
+        "position": 34
       },
       "draftsharks": {
-        "overall": 111,
-        "position": 44
+        "overall": 104,
+        "position": 36
       },
       "yahoo": {
-        "overall": 109,
-        "position": 41
-      },
-      "sleeper": {
-        "overall": 109,
-        "position": 45
-      }
-    }
-  },
-  {
-    "id": "nygqbjaxsondart",
-    "name": "Jaxson Dart",
-    "team": "NYG",
-    "position": "QB",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 120,
-        "position": 16
-      },
-      "espn": {
-        "overall": 84,
-        "position": 8
-      },
-      "espnOffline": {
-        "overall": 75,
-        "position": 7
-      },
-      "fantasypros": {
-        "overall": 96,
-        "position": 12
-      },
-      "draftsharks": {
-        "overall": 80,
-        "position": 13
-      },
-      "yahoo": {
-        "overall": 87,
-        "position": 11
-      },
-      "sleeper": {
-        "overall": 103,
-        "position": 11
-      }
-    }
-  },
-  {
-    "id": "tenwrwan'dalerobinson",
-    "name": "Wan'Dale Robinson",
-    "team": "TEN",
-    "position": "WR",
-    "bye": "9",
-    "rankings": {
-      "nfc": {
         "overall": 85,
-        "position": 41
+        "position": 29
+      },
+      "sleeper": {
+        "overall": 78,
+        "position": 27
+      }
+    }
+  },
+  {
+    "id": "waswrstefondiggs",
+    "name": "Stefon Diggs",
+    "team": "WAS",
+    "position": "WR",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 98,
+        "position": 45
       },
       "espn": {
         "overall": 87,
         "position": 38
       },
       "espnOffline": {
-        "overall": 88,
-        "position": 41
+        "overall": 114,
+        "position": 48
       },
       "fantasypros": {
-        "overall": 97,
+        "overall": 96,
         "position": 42
       },
       "draftsharks": {
-        "overall": 132,
-        "position": 52
+        "overall": 108,
+        "position": 42
       },
       "yahoo": {
-        "overall": 181,
-        "position": 62
-      },
-      "sleeper": {
-        "overall": 117,
-        "position": 48
-      }
-    }
-  },
-  {
-    "id": "wasrbjacorycroskey-merritt",
-    "name": "Jacory Croskey-Merritt",
-    "team": "WAS",
-    "position": "RB",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
         "overall": 104,
-        "position": 36
-      },
-      "espn": {
-        "overall": 116,
         "position": 40
       },
-      "espnOffline": {
-        "overall": 107,
-        "position": 35
-      },
-      "fantasypros": {
-        "overall": 98,
-        "position": 35
-      },
-      "draftsharks": {
-        "overall": 96,
-        "position": 33
-      },
-      "yahoo": {
-        "overall": 111,
-        "position": 36
-      },
       "sleeper": {
-        "overall": 98,
-        "position": 36
+        "overall": 114,
+        "position": 47
       }
     }
   },
@@ -3596,7 +3522,7 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 118,
+        "overall": 116,
         "position": 14
       },
       "espn": {
@@ -3608,11 +3534,11 @@
         "position": 10
       },
       "fantasypros": {
-        "overall": 99,
-        "position": 13
+        "overall": 97,
+        "position": 12
       },
       "draftsharks": {
-        "overall": 87,
+        "overall": 85,
         "position": 14
       },
       "yahoo": {
@@ -3622,43 +3548,6 @@
       "sleeper": {
         "overall": 118,
         "position": 14
-      }
-    }
-  },
-  {
-    "id": "denrbrjharvey",
-    "name": "RJ Harvey",
-    "team": "DEN",
-    "position": "RB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 84,
-        "position": 32
-      },
-      "espn": {
-        "overall": 102,
-        "position": 37
-      },
-      "espnOffline": {
-        "overall": 122,
-        "position": 40
-      },
-      "fantasypros": {
-        "overall": 100,
-        "position": 36
-      },
-      "draftsharks": {
-        "overall": 109,
-        "position": 37
-      },
-      "yahoo": {
-        "overall": 104,
-        "position": 34
-      },
-      "sleeper": {
-        "overall": 81,
-        "position": 30
       }
     }
   },
@@ -3674,65 +3563,287 @@
         "position": 34
       },
       "espn": {
-        "overall": 128,
-        "position": 41
+        "overall": 129,
+        "position": 42
       },
       "espnOffline": {
-        "overall": 120,
-        "position": 38
+        "overall": 121,
+        "position": 39
       },
       "fantasypros": {
-        "overall": 101,
-        "position": 37
+        "overall": 98,
+        "position": 35
       },
       "draftsharks": {
         "overall": 95,
         "position": 32
       },
       "yahoo": {
-        "overall": 118,
+        "overall": 116,
         "position": 37
       },
       "sleeper": {
-        "overall": 99,
-        "position": 37
+        "overall": 97,
+        "position": 35
       }
     }
   },
   {
-    "id": "waswrstefondiggs",
-    "name": "Stefon Diggs",
-    "team": "WAS",
-    "position": "WR",
-    "bye": "7",
+    "id": "denrbrjharvey",
+    "name": "RJ Harvey",
+    "team": "DEN",
+    "position": "RB",
+    "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 96,
-        "position": 45
+        "overall": 83,
+        "position": 32
       },
       "espn": {
-        "overall": 83,
-        "position": 37
+        "overall": 108,
+        "position": 38
       },
       "espnOffline": {
-        "overall": 114,
-        "position": 48
+        "overall": 123,
+        "position": 41
       },
       "fantasypros": {
-        "overall": 102,
+        "overall": 99,
+        "position": 36
+      },
+      "draftsharks": {
+        "overall": 107,
+        "position": 37
+      },
+      "yahoo": {
+        "overall": 105,
+        "position": 34
+      },
+      "sleeper": {
+        "overall": 81,
+        "position": 29
+      }
+    }
+  },
+  {
+    "id": "tenwrwan'dalerobinson",
+    "name": "Wan'Dale Robinson",
+    "team": "TEN",
+    "position": "WR",
+    "bye": "9",
+    "rankings": {
+      "nfc": {
+        "overall": 91,
+        "position": 42
+      },
+      "espn": {
+        "overall": 79,
+        "position": 36
+      },
+      "espnOffline": {
+        "overall": 88,
+        "position": 41
+      },
+      "fantasypros": {
+        "overall": 100,
         "position": 43
       },
       "draftsharks": {
-        "overall": 106,
-        "position": 42
+        "overall": 133,
+        "position": 52
       },
       "yahoo": {
-        "overall": 107,
-        "position": 40
+        "overall": 182,
+        "position": 61
       },
       "sleeper": {
+        "overall": 117,
+        "position": 48
+      }
+    }
+  },
+  {
+    "id": "nygqbjaxsondart",
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "position": "QB",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 119,
+        "position": 15
+      },
+      "espn": {
+        "overall": 84,
+        "position": 8
+      },
+      "espnOffline": {
+        "overall": 75,
+        "position": 7
+      },
+      "fantasypros": {
+        "overall": 101,
+        "position": 13
+      },
+      "draftsharks": {
+        "overall": 78,
+        "position": 13
+      },
+      "yahoo": {
+        "overall": 87,
+        "position": 11
+      },
+      "sleeper": {
+        "overall": 103,
+        "position": 11
+      }
+    }
+  },
+  {
+    "id": "wasrbjacorycroskey-merritt",
+    "name": "Jacory Croskey-Merritt",
+    "team": "WAS",
+    "position": "RB",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 107,
+        "position": 37
+      },
+      "espn": {
+        "overall": 116,
+        "position": 40
+      },
+      "espnOffline": {
+        "overall": 108,
+        "position": 36
+      },
+      "fantasypros": {
+        "overall": 102,
+        "position": 37
+      },
+      "draftsharks": {
+        "overall": 96,
+        "position": 33
+      },
+      "yahoo": {
+        "overall": 110,
+        "position": 36
+      },
+      "sleeper": {
+        "overall": 99,
+        "position": 36
+      }
+    }
+  },
+  {
+    "id": "kctetraviskelce",
+    "name": "Travis Kelce",
+    "team": "KC",
+    "position": "TE",
+    "bye": "5",
+    "rankings": {
+      "nfc": {
+        "overall": 123,
+        "position": 13
+      },
+      "espn": {
+        "overall": 106,
+        "position": 10
+      },
+      "espnOffline": {
+        "overall": 104,
+        "position": 11
+      },
+      "fantasypros": {
+        "overall": 103,
+        "position": 10
+      },
+      "draftsharks": {
+        "overall": 111,
+        "position": 10
+      },
+      "yahoo": {
+        "overall": 90,
+        "position": 10
+      },
+      "sleeper": {
+        "overall": 94,
+        "position": 11
+      }
+    }
+  },
+  {
+    "id": "tbrbkennygainwell",
+    "name": "Kenny Gainwell",
+    "team": "TB",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 82,
+        "position": 31
+      },
+      "espn": {
+        "overall": 76,
+        "position": 28
+      },
+      "espnOffline": {
+        "overall": 99,
+        "position": 31
+      },
+      "fantasypros": {
+        "overall": 104,
+        "position": 38
+      },
+      "draftsharks": {
         "overall": 115,
-        "position": 47
+        "position": 38
+      },
+      "yahoo": {
+        "overall": 124,
+        "position": 38
+      },
+      "sleeper": {
+        "overall": 108,
+        "position": 38
+      }
+    }
+  },
+  {
+    "id": "gbwrjaydenreed",
+    "name": "Jayden Reed",
+    "team": "GB",
+    "position": "WR",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 94,
+        "position": 44
+      },
+      "espn": {
+        "overall": 119,
+        "position": 50
+      },
+      "espnOffline": {
+        "overall": 92,
+        "position": 45
+      },
+      "fantasypros": {
+        "overall": 105,
+        "position": 44
+      },
+      "draftsharks": {
+        "overall": 81,
+        "position": 34
+      },
+      "yahoo": {
+        "overall": 122,
+        "position": 46
+      },
+      "sleeper": {
+        "overall": 102,
+        "position": 42
       }
     }
   },
@@ -3744,8 +3855,8 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 119,
-        "position": 15
+        "overall": 121,
+        "position": 16
       },
       "espn": {
         "overall": 107,
@@ -3756,7 +3867,7 @@
         "position": 15
       },
       "fantasypros": {
-        "overall": 103,
+        "overall": 106,
         "position": 14
       },
       "draftsharks": {
@@ -3768,7 +3879,7 @@
         "position": 15
       },
       "sleeper": {
-        "overall": 111,
+        "overall": 112,
         "position": 13
       }
     }
@@ -3793,316 +3904,20 @@
         "position": 42
       },
       "fantasypros": {
-        "overall": 104,
-        "position": 44
+        "overall": 107,
+        "position": 45
       },
       "draftsharks": {
         "overall": 94,
         "position": 38
       },
       "yahoo": {
-        "overall": 120,
+        "overall": 119,
         "position": 45
       },
       "sleeper": {
         "overall": 100,
         "position": 41
-      }
-    }
-  },
-  {
-    "id": "kctetraviskelce",
-    "name": "Travis Kelce",
-    "team": "KC",
-    "position": "TE",
-    "bye": "5",
-    "rankings": {
-      "nfc": {
-        "overall": 123,
-        "position": 13
-      },
-      "espn": {
-        "overall": 106,
-        "position": 10
-      },
-      "espnOffline": {
-        "overall": 104,
-        "position": 11
-      },
-      "fantasypros": {
-        "overall": 105,
-        "position": 10
-      },
-      "draftsharks": {
-        "overall": 113,
-        "position": 10
-      },
-      "yahoo": {
-        "overall": 90,
-        "position": 10
-      },
-      "sleeper": {
-        "overall": 96,
-        "position": 11
-      }
-    }
-  },
-  {
-    "id": "tbrbkennygainwell",
-    "name": "Kenny Gainwell",
-    "team": "TB",
-    "position": "RB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 83,
-        "position": 31
-      },
-      "espn": {
-        "overall": 78,
-        "position": 29
-      },
-      "espnOffline": {
-        "overall": 99,
-        "position": 31
-      },
-      "fantasypros": {
-        "overall": 106,
-        "position": 38
-      },
-      "draftsharks": {
-        "overall": 116,
-        "position": 38
-      },
-      "yahoo": {
-        "overall": 121,
-        "position": 38
-      },
-      "sleeper": {
-        "overall": 107,
-        "position": 38
-      }
-    }
-  },
-  {
-    "id": "gbwrjaydenreed",
-    "name": "Jayden Reed",
-    "team": "GB",
-    "position": "WR",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 91,
-        "position": 44
-      },
-      "espn": {
-        "overall": 119,
-        "position": 50
-      },
-      "espnOffline": {
-        "overall": 92,
-        "position": 45
-      },
-      "fantasypros": {
-        "overall": 107,
-        "position": 45
-      },
-      "draftsharks": {
-        "overall": 86,
-        "position": 36
-      },
-      "yahoo": {
-        "overall": 122,
-        "position": 46
-      },
-      "sleeper": {
-        "overall": 102,
-        "position": 42
-      }
-    }
-  },
-  {
-    "id": "larqbmatthewstafford",
-    "name": "Matthew Stafford",
-    "team": "LAR",
-    "position": "QB",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 108,
-        "position": 11
-      },
-      "espn": {
-        "overall": 114,
-        "position": 15
-      },
-      "espnOffline": {
-        "overall": 86,
-        "position": 12
-      },
-      "fantasypros": {
-        "overall": 108,
-        "position": 15
-      },
-      "draftsharks": {
-        "overall": 99,
-        "position": 17
-      },
-      "yahoo": {
-        "overall": 99,
-        "position": 14
-      },
-      "sleeper": {
-        "overall": 106,
-        "position": 12
-      }
-    }
-  },
-  {
-    "id": "detqbjaredgoff",
-    "name": "Jared Goff",
-    "team": "DET",
-    "position": "QB",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 112,
-        "position": 12
-      },
-      "espn": {
-        "overall": 127,
-        "position": 18
-      },
-      "espnOffline": {
-        "overall": 135,
-        "position": 18
-      },
-      "fantasypros": {
-        "overall": 109,
-        "position": 16
-      },
-      "draftsharks": {
-        "overall": 98,
-        "position": 16
-      },
-      "yahoo": {
-        "overall": 117,
-        "position": 17
-      },
-      "sleeper": {
-        "overall": 140,
-        "position": 16
-      }
-    }
-  },
-  {
-    "id": "chirbkylemonangai",
-    "name": "Kyle Monangai",
-    "team": "CHI",
-    "position": "RB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 117,
-        "position": 39
-      },
-      "espn": {
-        "overall": 99,
-        "position": 35
-      },
-      "espnOffline": {
-        "overall": 106,
-        "position": 34
-      },
-      "fantasypros": {
-        "overall": 110,
-        "position": 39
-      },
-      "draftsharks": {
-        "overall": 105,
-        "position": 35
-      },
-      "yahoo": {
-        "overall": 105,
-        "position": 35
-      },
-      "sleeper": {
-        "overall": 90,
-        "position": 34
-      }
-    }
-  },
-  {
-    "id": "phiwrmakailemon",
-    "name": "Makai Lemon",
-    "team": "PHI",
-    "position": "WR",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 103,
-        "position": 49
-      },
-      "espn": {
-        "overall": 110,
-        "position": 48
-      },
-      "espnOffline": {
-        "overall": 126,
-        "position": 51
-      },
-      "fantasypros": {
-        "overall": 111,
-        "position": 46
-      },
-      "draftsharks": {
-        "overall": 118,
-        "position": 48
-      },
-      "yahoo": {
-        "overall": 115,
-        "position": 44
-      },
-      "sleeper": {
-        "overall": 87,
-        "position": 36
-      }
-    }
-  },
-  {
-    "id": "jacwrjakobimeyers",
-    "name": "Jakobi Meyers",
-    "team": "JAC",
-    "position": "WR",
-    "bye": "7",
-    "rankings": {
-      "nfc": {
-        "overall": 107,
-        "position": 50
-      },
-      "espn": {
-        "overall": 94,
-        "position": 42
-      },
-      "espnOffline": {
-        "overall": 81,
-        "position": 40
-      },
-      "fantasypros": {
-        "overall": 112,
-        "position": 47
-      },
-      "draftsharks": {
-        "overall": 102,
-        "position": 40
-      },
-      "yahoo": {
-        "overall": 169,
-        "position": 59
-      },
-      "sleeper": {
-        "overall": 123,
-        "position": 50
       }
     }
   },
@@ -4126,11 +3941,11 @@
         "position": 15
       },
       "fantasypros": {
-        "overall": 113,
+        "overall": 108,
         "position": 11
       },
       "draftsharks": {
-        "overall": 129,
+        "overall": 130,
         "position": 11
       },
       "yahoo": {
@@ -4144,6 +3959,117 @@
     }
   },
   {
+    "id": "detqbjaredgoff",
+    "name": "Jared Goff",
+    "team": "DET",
+    "position": "QB",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 111,
+        "position": 12
+      },
+      "espn": {
+        "overall": 127,
+        "position": 18
+      },
+      "espnOffline": {
+        "overall": 135,
+        "position": 18
+      },
+      "fantasypros": {
+        "overall": 109,
+        "position": 15
+      },
+      "draftsharks": {
+        "overall": 97,
+        "position": 16
+      },
+      "yahoo": {
+        "overall": 117,
+        "position": 17
+      },
+      "sleeper": {
+        "overall": 142,
+        "position": 16
+      }
+    }
+  },
+  {
+    "id": "larqbmatthewstafford",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "position": "QB",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 105,
+        "position": 11
+      },
+      "espn": {
+        "overall": 114,
+        "position": 15
+      },
+      "espnOffline": {
+        "overall": 86,
+        "position": 12
+      },
+      "fantasypros": {
+        "overall": 110,
+        "position": 16
+      },
+      "draftsharks": {
+        "overall": 100,
+        "position": 17
+      },
+      "yahoo": {
+        "overall": 99,
+        "position": 14
+      },
+      "sleeper": {
+        "overall": 106,
+        "position": 12
+      }
+    }
+  },
+  {
+    "id": "chirbkylemonangai",
+    "name": "Kyle Monangai",
+    "team": "CHI",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 118,
+        "position": 39
+      },
+      "espn": {
+        "overall": 102,
+        "position": 37
+      },
+      "espnOffline": {
+        "overall": 107,
+        "position": 35
+      },
+      "fantasypros": {
+        "overall": 111,
+        "position": 39
+      },
+      "draftsharks": {
+        "overall": 102,
+        "position": 35
+      },
+      "yahoo": {
+        "overall": 107,
+        "position": 35
+      },
+      "sleeper": {
+        "overall": 92,
+        "position": 33
+      }
+    }
+  },
+  {
     "id": "wasrbrachaadwhite",
     "name": "Rachaad White",
     "team": "WAS",
@@ -4151,69 +4077,106 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 111,
+        "overall": 113,
         "position": 38
       },
       "espn": {
-        "overall": 91,
-        "position": 34
+        "overall": 99,
+        "position": 35
       },
       "espnOffline": {
-        "overall": 115,
-        "position": 37
+        "overall": 120,
+        "position": 38
       },
       "fantasypros": {
-        "overall": 114,
+        "overall": 112,
         "position": 40
       },
       "draftsharks": {
-        "overall": 123,
-        "position": 41
+        "overall": 124,
+        "position": 42
       },
       "yahoo": {
-        "overall": 130,
+        "overall": 133,
         "position": 41
       },
       "sleeper": {
-        "overall": 120,
+        "overall": 121,
         "position": 40
       }
     }
   },
   {
-    "id": "minrbaaronjonessr.",
-    "name": "Aaron Jones Sr.",
-    "team": "MIN",
-    "position": "RB",
-    "bye": "6",
+    "id": "phiwrmakailemon",
+    "name": "Makai Lemon",
+    "team": "PHI",
+    "position": "WR",
+    "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 136,
-        "position": 47
+        "overall": 103,
+        "position": 49
       },
       "espn": {
-        "overall": 89,
-        "position": 33
+        "overall": 110,
+        "position": 48
       },
       "espnOffline": {
-        "overall": 108,
-        "position": 36
+        "overall": 126,
+        "position": 51
       },
       "fantasypros": {
-        "overall": 115,
-        "position": 41
+        "overall": 113,
+        "position": 46
       },
       "draftsharks": {
-        "overall": 127,
-        "position": 43
+        "overall": 122,
+        "position": 49
       },
       "yahoo": {
-        "overall": 134,
-        "position": 42
+        "overall": 118,
+        "position": 44
       },
       "sleeper": {
+        "overall": 88,
+        "position": 36
+      }
+    }
+  },
+  {
+    "id": "jacwrjakobimeyers",
+    "name": "Jakobi Meyers",
+    "team": "JAC",
+    "position": "WR",
+    "bye": "7",
+    "rankings": {
+      "nfc": {
+        "overall": 109,
+        "position": 51
+      },
+      "espn": {
+        "overall": 93,
+        "position": 41
+      },
+      "espnOffline": {
+        "overall": 81,
+        "position": 40
+      },
+      "fantasypros": {
         "overall": 114,
-        "position": 39
+        "position": 47
+      },
+      "draftsharks": {
+        "overall": 105,
+        "position": 40
+      },
+      "yahoo": {
+        "overall": 172,
+        "position": 60
+      },
+      "sleeper": {
+        "overall": 126,
+        "position": 51
       }
     }
   },
@@ -4229,19 +4192,19 @@
         "position": 12
       },
       "espn": {
-        "overall": 113,
-        "position": 12
+        "overall": 109,
+        "position": 11
       },
       "espnOffline": {
         "overall": 103,
         "position": 10
       },
       "fantasypros": {
-        "overall": 116,
+        "overall": 115,
         "position": 12
       },
       "draftsharks": {
-        "overall": 141,
+        "overall": 140,
         "position": 13
       },
       "yahoo": {
@@ -4249,8 +4212,82 @@
         "position": 12
       },
       "sleeper": {
-        "overall": 126,
+        "overall": 125,
         "position": 15
+      }
+    }
+  },
+  {
+    "id": "clewrkcconcepcion",
+    "name": "KC Concepcion",
+    "team": "CLE",
+    "position": "WR",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 100,
+        "position": 46
+      },
+      "espn": {
+        "overall": 131,
+        "position": 56
+      },
+      "espnOffline": {
+        "overall": 125,
+        "position": 50
+      },
+      "fantasypros": {
+        "overall": 116,
+        "position": 48
+      },
+      "draftsharks": {
+        "overall": 114,
+        "position": 46
+      },
+      "yahoo": {
+        "overall": 145,
+        "position": 50
+      },
+      "sleeper": {
+        "overall": 113,
+        "position": 46
+      }
+    }
+  },
+  {
+    "id": "minrbaaronjonessr.",
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "position": "RB",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 134,
+        "position": 45
+      },
+      "espn": {
+        "overall": 91,
+        "position": 34
+      },
+      "espnOffline": {
+        "overall": 115,
+        "position": 37
+      },
+      "fantasypros": {
+        "overall": 117,
+        "position": 41
+      },
+      "draftsharks": {
+        "overall": 127,
+        "position": 44
+      },
+      "yahoo": {
+        "overall": 136,
+        "position": 42
+      },
+      "sleeper": {
+        "overall": 115,
+        "position": 39
       }
     }
   },
@@ -4262,7 +4299,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 115,
+        "overall": 114,
         "position": 11
       },
       "espn": {
@@ -4274,57 +4311,20 @@
         "position": 14
       },
       "fantasypros": {
-        "overall": 117,
+        "overall": 118,
         "position": 13
       },
       "draftsharks": {
-        "overall": 144,
+        "overall": 145,
         "position": 14
       },
       "yahoo": {
-        "overall": 110,
+        "overall": 111,
         "position": 13
       },
       "sleeper": {
-        "overall": 112,
+        "overall": 111,
         "position": 13
-      }
-    }
-  },
-  {
-    "id": "tbqbbakermayfield",
-    "name": "Baker Mayfield",
-    "team": "TB",
-    "position": "QB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 135,
-        "position": 17
-      },
-      "espn": {
-        "overall": 136,
-        "position": 19
-      },
-      "espnOffline": {
-        "overall": 149,
-        "position": 20
-      },
-      "fantasypros": {
-        "overall": 118,
-        "position": 17
-      },
-      "draftsharks": {
-        "overall": 110,
-        "position": 20
-      },
-      "yahoo": {
-        "overall": 147,
-        "position": 25
-      },
-      "sleeper": {
-        "overall": 152,
-        "position": 18
       }
     }
   },
@@ -4336,7 +4336,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 140,
+        "overall": 138,
         "position": 19
       },
       "espn": {
@@ -4349,56 +4349,93 @@
       },
       "fantasypros": {
         "overall": 119,
-        "position": 18
+        "position": 17
       },
       "draftsharks": {
-        "overall": 103,
-        "position": 19
+        "overall": 101,
+        "position": 18
       },
       "yahoo": {
-        "overall": 136,
-        "position": 21
+        "overall": 137,
+        "position": 22
       },
       "sleeper": {
-        "overall": 168,
+        "overall": 167,
         "position": 19
       }
     }
   },
   {
-    "id": "minqbkylermurray",
-    "name": "Kyler Murray",
-    "team": "MIN",
-    "position": "QB",
-    "bye": "6",
+    "id": "daltejakeferguson",
+    "name": "Jake Ferguson",
+    "team": "DAL",
+    "position": "TE",
+    "bye": "14",
     "rankings": {
       "nfc": {
-        "overall": 137,
-        "position": 18
+        "overall": 127,
+        "position": 14
       },
       "espn": {
-        "overall": 115,
-        "position": 16
+        "overall": 113,
+        "position": 12
       },
       "espnOffline": {
-        "overall": 133,
-        "position": 16
+        "overall": 109,
+        "position": 12
       },
       "fantasypros": {
         "overall": 120,
-        "position": 19
+        "position": 14
       },
       "draftsharks": {
-        "overall": 72,
-        "position": 11
+        "overall": 151,
+        "position": 15
       },
       "yahoo": {
-        "overall": 114,
-        "position": 16
+        "overall": 120,
+        "position": 15
       },
       "sleeper": {
-        "overall": 145,
+        "overall": 109,
+        "position": 12
+      }
+    }
+  },
+  {
+    "id": "tbqbbakermayfield",
+    "name": "Baker Mayfield",
+    "team": "TB",
+    "position": "QB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 132,
         "position": 17
+      },
+      "espn": {
+        "overall": 136,
+        "position": 19
+      },
+      "espnOffline": {
+        "overall": 149,
+        "position": 20
+      },
+      "fantasypros": {
+        "overall": 121,
+        "position": 18
+      },
+      "draftsharks": {
+        "overall": 110,
+        "position": 20
+      },
+      "yahoo": {
+        "overall": 147,
+        "position": 26
+      },
+      "sleeper": {
+        "overall": 153,
+        "position": 18
       }
     }
   },
@@ -4410,32 +4447,69 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 128,
-        "position": 42
+        "overall": 131,
+        "position": 43
       },
       "espn": {
         "overall": 139,
         "position": 46
       },
       "espnOffline": {
-        "overall": 139,
-        "position": 44
+        "overall": 140,
+        "position": 45
       },
       "fantasypros": {
-        "overall": 121,
+        "overall": 122,
         "position": 42
       },
       "draftsharks": {
-        "overall": 130,
-        "position": 44
+        "overall": 129,
+        "position": 45
       },
       "yahoo": {
-        "overall": 187,
-        "position": 56
+        "overall": 188,
+        "position": 55
       },
       "sleeper": {
         "overall": 128,
         "position": 41
+      }
+    }
+  },
+  {
+    "id": "minqbkylermurray",
+    "name": "Kyler Murray",
+    "team": "MIN",
+    "position": "QB",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 136,
+        "position": 18
+      },
+      "espn": {
+        "overall": 115,
+        "position": 16
+      },
+      "espnOffline": {
+        "overall": 133,
+        "position": 16
+      },
+      "fantasypros": {
+        "overall": 123,
+        "position": 19
+      },
+      "draftsharks": {
+        "overall": 71,
+        "position": 11
+      },
+      "yahoo": {
+        "overall": 114,
+        "position": 16
+      },
+      "sleeper": {
+        "overall": 146,
+        "position": 17
       }
     }
   },
@@ -4447,8 +4521,8 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 109,
-        "position": 51
+        "overall": 108,
+        "position": 50
       },
       "espn": {
         "overall": 123,
@@ -4459,131 +4533,20 @@
         "position": 54
       },
       "fantasypros": {
-        "overall": 122,
-        "position": 48
-      },
-      "draftsharks": {
-        "overall": 112,
-        "position": 45
-      },
-      "yahoo": {
-        "overall": 189,
-        "position": 65
-      },
-      "sleeper": {
-        "overall": 129,
-        "position": 53
-      }
-    }
-  },
-  {
-    "id": "kcwrxavierworthy",
-    "name": "Xavier Worthy",
-    "team": "KC",
-    "position": "WR",
-    "bye": "5",
-    "rankings": {
-      "nfc": {
-        "overall": 114,
-        "position": 52
-      },
-      "espn": {
-        "overall": 120,
-        "position": 51
-      },
-      "espnOffline": {
-        "overall": 112,
-        "position": 46
-      },
-      "fantasypros": {
-        "overall": 123,
+        "overall": 124,
         "position": 49
       },
       "draftsharks": {
-        "overall": 104,
-        "position": 41
-      },
-      "yahoo": {
-        "overall": 165,
-        "position": 57
-      },
-      "sleeper": {
-        "overall": 127,
-        "position": 52
-      }
-    }
-  },
-  {
-    "id": "baltemarkandrews",
-    "name": "Mark Andrews",
-    "team": "BAL",
-    "position": "TE",
-    "bye": "13",
-    "rankings": {
-      "nfc": {
-        "overall": 138,
-        "position": 15
-      },
-      "espn": {
-        "overall": 122,
-        "position": 14
-      },
-      "espnOffline": {
-        "overall": 110,
-        "position": 13
-      },
-      "fantasypros": {
-        "overall": 124,
-        "position": 14
-      },
-      "draftsharks": {
-        "overall": 134,
-        "position": 12
-      },
-      "yahoo": {
-        "overall": 116,
-        "position": 14
-      },
-      "sleeper": {
-        "overall": 119,
-        "position": 14
-      }
-    }
-  },
-  {
-    "id": "carwrjalencoker",
-    "name": "Jalen Coker",
-    "team": "CAR",
-    "position": "WR",
-    "bye": "5",
-    "rankings": {
-      "nfc": {
-        "overall": 116,
-        "position": 53
-      },
-      "espn": {
-        "overall": 124,
-        "position": 54
-      },
-      "espnOffline": {
-        "overall": 130,
-        "position": 55
-      },
-      "fantasypros": {
-        "overall": 125,
-        "position": 50
-      },
-      "draftsharks": {
-        "overall": 156,
-        "position": 58
+        "overall": 113,
+        "position": 45
       },
       "yahoo": {
         "overall": 191,
-        "position": 66
+        "position": 64
       },
       "sleeper": {
-        "overall": 144,
-        "position": 55
+        "overall": 129,
+        "position": 53
       }
     }
   },
@@ -4595,7 +4558,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 98,
+        "overall": 101,
         "position": 47
       },
       "espn": {
@@ -4607,57 +4570,131 @@
         "position": 37
       },
       "fantasypros": {
-        "overall": 126,
-        "position": 51
+        "overall": 125,
+        "position": 50
       },
       "draftsharks": {
-        "overall": 122,
-        "position": 50
+        "overall": 121,
+        "position": 48
       },
       "yahoo": {
         "overall": 159,
-        "position": 55
+        "position": 54
       },
       "sleeper": {
-        "overall": 122,
+        "overall": 119,
         "position": 49
       }
     }
   },
   {
-    "id": "noqbtylershough",
-    "name": "Tyler Shough",
-    "team": "NO",
-    "position": "QB",
-    "bye": "8",
+    "id": "kcwrxavierworthy",
+    "name": "Xavier Worthy",
+    "team": "KC",
+    "position": "WR",
+    "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 141,
-        "position": 20
+        "overall": 115,
+        "position": 52
       },
       "espn": {
-        "overall": 126,
-        "position": 17
+        "overall": 120,
+        "position": 51
       },
       "espnOffline": {
-        "overall": 134,
-        "position": 17
+        "overall": 112,
+        "position": 46
+      },
+      "fantasypros": {
+        "overall": 126,
+        "position": 51
+      },
+      "draftsharks": {
+        "overall": 106,
+        "position": 41
+      },
+      "yahoo": {
+        "overall": 169,
+        "position": 57
+      },
+      "sleeper": {
+        "overall": 127,
+        "position": 52
+      }
+    }
+  },
+  {
+    "id": "carwrjalencoker",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "position": "WR",
+    "bye": "5",
+    "rankings": {
+      "nfc": {
+        "overall": 117,
+        "position": 53
+      },
+      "espn": {
+        "overall": 124,
+        "position": 54
+      },
+      "espnOffline": {
+        "overall": 130,
+        "position": 55
       },
       "fantasypros": {
         "overall": 127,
-        "position": 20
+        "position": 52
       },
       "draftsharks": {
-        "overall": 101,
-        "position": 18
+        "overall": 158,
+        "position": 58
       },
       "yahoo": {
-        "overall": 177,
-        "position": 27
+        "overall": 194,
+        "position": 65
       },
       "sleeper": {
-        "overall": 192,
-        "position": 22
+        "overall": 145,
+        "position": 55
+      }
+    }
+  },
+  {
+    "id": "baltemarkandrews",
+    "name": "Mark Andrews",
+    "team": "BAL",
+    "position": "TE",
+    "bye": "13",
+    "rankings": {
+      "nfc": {
+        "overall": 139,
+        "position": 15
+      },
+      "espn": {
+        "overall": 122,
+        "position": 14
+      },
+      "espnOffline": {
+        "overall": 110,
+        "position": 13
+      },
+      "fantasypros": {
+        "overall": 128,
+        "position": 15
+      },
+      "draftsharks": {
+        "overall": 134,
+        "position": 12
+      },
+      "yahoo": {
+        "overall": 115,
+        "position": 14
+      },
+      "sleeper": {
+        "overall": 123,
+        "position": 14
       }
     }
   },
@@ -4669,32 +4706,32 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 131,
+        "overall": 133,
         "position": 44
       },
       "espn": {
-        "overall": 132,
-        "position": 43
+        "overall": 133,
+        "position": 44
       },
       "espnOffline": {
-        "overall": 123,
-        "position": 41
+        "overall": 137,
+        "position": 42
       },
       "fantasypros": {
-        "overall": 128,
+        "overall": 129,
         "position": 43
       },
       "draftsharks": {
-        "overall": 121,
-        "position": 40
+        "overall": 120,
+        "position": 41
       },
       "yahoo": {
-        "overall": 184,
-        "position": 55
+        "overall": 183,
+        "position": 52
       },
       "sleeper": {
         "overall": 141,
-        "position": 45
+        "position": 46
       }
     }
   },
@@ -4707,68 +4744,68 @@
     "rankings": {
       "nfc": {
         "overall": 126,
-        "position": 41
+        "position": 42
       },
       "espn": {
-        "overall": 140,
-        "position": 47
+        "overall": 144,
+        "position": 49
       },
       "espnOffline": {
-        "overall": 141,
-        "position": 46
+        "overall": 142,
+        "position": 47
       },
       "fantasypros": {
-        "overall": 129,
+        "overall": 130,
         "position": 44
       },
       "draftsharks": {
-        "overall": 145,
+        "overall": 144,
         "position": 48
       },
       "yahoo": {
-        "overall": 172,
-        "position": 50
+        "overall": 175,
+        "position": 49
       },
       "sleeper": {
-        "overall": 131,
+        "overall": 132,
         "position": 42
       }
     }
   },
   {
-    "id": "daltejakeferguson",
-    "name": "Jake Ferguson",
-    "team": "DAL",
-    "position": "TE",
-    "bye": "14",
+    "id": "noqbtylershough",
+    "name": "Tyler Shough",
+    "team": "NO",
+    "position": "QB",
+    "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 129,
-        "position": 14
+        "overall": 140,
+        "position": 20
       },
       "espn": {
-        "overall": 109,
-        "position": 11
+        "overall": 126,
+        "position": 17
       },
       "espnOffline": {
-        "overall": 109,
-        "position": 12
+        "overall": 134,
+        "position": 17
       },
       "fantasypros": {
-        "overall": 130,
-        "position": 15
+        "overall": 131,
+        "position": 20
       },
       "draftsharks": {
-        "overall": 150,
-        "position": 15
+        "overall": 103,
+        "position": 19
       },
       "yahoo": {
-        "overall": 119,
-        "position": 15
+        "overall": 179,
+        "position": 28
       },
       "sleeper": {
-        "overall": 108,
-        "position": 12
+        "overall": 191,
+        "position": 22
       }
     }
   },
@@ -4784,102 +4821,139 @@
         "position": 54
       },
       "espn": {
-        "overall": 118,
-        "position": 49
+        "overall": 105,
+        "position": 47
       },
       "espnOffline": {
         "overall": 91,
         "position": 44
       },
       "fantasypros": {
-        "overall": 131,
-        "position": 52
-      },
-      "draftsharks": {
-        "overall": 146,
-        "position": 56
-      },
-      "yahoo": {
-        "overall": 185,
-        "position": 63
-      },
-      "sleeper": {
-        "overall": 146,
-        "position": 56
-      }
-    }
-  },
-  {
-    "id": "clewrkcconcepcion",
-    "name": "KC Concepcion",
-    "team": "CLE",
-    "position": "WR",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 97,
-        "position": 46
-      },
-      "espn": {
-        "overall": 131,
-        "position": 56
-      },
-      "espnOffline": {
-        "overall": 125,
-        "position": 50
-      },
-      "fantasypros": {
         "overall": 132,
         "position": 53
       },
       "draftsharks": {
-        "overall": 114,
-        "position": 46
+        "overall": 148,
+        "position": 56
       },
       "yahoo": {
-        "overall": 154,
-        "position": 53
+        "overall": 187,
+        "position": 62
       },
       "sleeper": {
-        "overall": 113,
-        "position": 46
+        "overall": 151,
+        "position": 58
       }
     }
   },
   {
-    "id": "nowrjordyntyson",
-    "name": "Jordyn Tyson",
-    "team": "NO",
+    "id": "sfwrde'zhaunstribling",
+    "name": "De'Zhaun Stribling",
+    "team": "SF",
     "position": "WR",
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 125,
-        "position": 55
+        "overall": 92,
+        "position": 43
       },
       "espn": {
-        "overall": 162,
-        "position": 67
+        "overall": 121,
+        "position": 52
       },
       "espnOffline": {
-        "overall": 151,
-        "position": 64
+        "overall": 90,
+        "position": 43
       },
       "fantasypros": {
         "overall": 133,
         "position": 54
       },
       "draftsharks": {
-        "overall": 133,
-        "position": 53
+        "overall": 143,
+        "position": 55
       },
       "yahoo": {
-        "overall": 92,
-        "position": 36
+        "overall": 112,
+        "position": 42
       },
       "sleeper": {
-        "overall": 94,
-        "position": 39
+        "overall": 120,
+        "position": 50
+      }
+    }
+  },
+  {
+    "id": "sfwrdeebosamuelsr.",
+    "name": "Deebo Samuel Sr.",
+    "team": "SF",
+    "position": "WR",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 130,
+        "position": 57
+      },
+      "espn": {
+        "overall": 130,
+        "position": 55
+      },
+      "espnOffline": {
+        "overall": 128,
+        "position": 53
+      },
+      "fantasypros": {
+        "overall": 134,
+        "position": 55
+      },
+      "draftsharks": {
+        "overall": 131,
+        "position": 51
+      },
+      "yahoo": {
+        "overall": 162,
+        "position": 55
+      },
+      "sleeper": {
+        "overall": 131,
+        "position": 54
+      }
+    }
+  },
+  {
+    "id": "notejuwanjohnson",
+    "name": "Juwan Johnson",
+    "team": "NO",
+    "position": "TE",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 141,
+        "position": 16
+      },
+      "espn": {
+        "overall": 142,
+        "position": 16
+      },
+      "espnOffline": {
+        "overall": 160,
+        "position": 20
+      },
+      "fantasypros": {
+        "overall": 135,
+        "position": 16
+      },
+      "draftsharks": {
+        "overall": 155,
+        "position": 17
+      },
+      "yahoo": {
+        "overall": 142,
+        "position": 16
+      },
+      "sleeper": {
+        "overall": 182,
+        "position": 20
       }
     }
   },
@@ -4895,15 +4969,15 @@
         "position": 48
       },
       "espn": {
-        "overall": 111,
-        "position": 39
+        "overall": 128,
+        "position": 41
       },
       "espnOffline": {
-        "overall": 138,
-        "position": 43
+        "overall": 139,
+        "position": 44
       },
       "fantasypros": {
-        "overall": 134,
+        "overall": 136,
         "position": 45
       },
       "draftsharks": {
@@ -4911,160 +4985,12 @@
         "position": 39
       },
       "yahoo": {
-        "overall": 192,
-        "position": 58
+        "overall": 195,
+        "position": 57
       },
       "sleeper": {
         "overall": 170,
         "position": 52
-      }
-    }
-  },
-  {
-    "id": "sfwrdeebosamuelsr.",
-    "name": "Deebo Samuel Sr.",
-    "team": "SF",
-    "position": "WR",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 133,
-        "position": 57
-      },
-      "espn": {
-        "overall": 130,
-        "position": 55
-      },
-      "espnOffline": {
-        "overall": 128,
-        "position": 53
-      },
-      "fantasypros": {
-        "overall": 135,
-        "position": 55
-      },
-      "draftsharks": {
-        "overall": 128,
-        "position": 51
-      },
-      "yahoo": {
-        "overall": 157,
-        "position": 54
-      },
-      "sleeper": {
-        "overall": 132,
-        "position": 54
-      }
-    }
-  },
-  {
-    "id": "miaqbmalikwillis",
-    "name": "Malik Willis",
-    "team": "MIA",
-    "position": "QB",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 153,
-        "position": 21
-      },
-      "espn": {
-        "overall": 161,
-        "position": 22
-      },
-      "espnOffline": {
-        "overall": 150,
-        "position": 21
-      },
-      "fantasypros": {
-        "overall": 136,
-        "position": 21
-      },
-      "draftsharks": {
-        "overall": 124,
-        "position": 21
-      },
-      "yahoo": {
-        "overall": 138,
-        "position": 23
-      },
-      "sleeper": {
-        "overall": 194,
-        "position": 23
-      }
-    }
-  },
-  {
-    "id": "notejuwanjohnson",
-    "name": "Juwan Johnson",
-    "team": "NO",
-    "position": "TE",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 142,
-        "position": 16
-      },
-      "espn": {
-        "overall": 142,
-        "position": 16
-      },
-      "espnOffline": {
-        "overall": 160,
-        "position": 20
-      },
-      "fantasypros": {
-        "overall": 137,
-        "position": 16
-      },
-      "draftsharks": {
-        "overall": 155,
-        "position": 17
-      },
-      "yahoo": {
-        "overall": 152,
-        "position": 18
-      },
-      "sleeper": {
-        "overall": 184,
-        "position": 21
-      }
-    }
-  },
-  {
-    "id": "phirbtankbigsby",
-    "name": "Tank Bigsby",
-    "team": "PHI",
-    "position": "RB",
-    "bye": "10",
-    "rankings": {
-      "nfc": {
-        "overall": 145,
-        "position": 50
-      },
-      "espn": {
-        "overall": 171,
-        "position": 56
-      },
-      "espnOffline": {
-        "overall": 166,
-        "position": 53
-      },
-      "fantasypros": {
-        "overall": 138,
-        "position": 46
-      },
-      "draftsharks": {
-        "overall": 205,
-        "position": 57
-      },
-      "yahoo": {
-        "overall": 178,
-        "position": 52
-      },
-      "sleeper": {
-        "overall": 166,
-        "position": 51
       }
     }
   },
@@ -5076,32 +5002,32 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 130,
-        "position": 43
+        "overall": 137,
+        "position": 47
       },
       "espn": {
-        "overall": 151,
-        "position": 51
+        "overall": 164,
+        "position": 52
       },
       "espnOffline": {
         "overall": 154,
         "position": 48
       },
       "fantasypros": {
-        "overall": 139,
-        "position": 47
-      },
-      "draftsharks": {
         "overall": 137,
         "position": 46
       },
+      "draftsharks": {
+        "overall": 136,
+        "position": 46
+      },
       "yahoo": {
-        "overall": 188,
-        "position": 57
+        "overall": 190,
+        "position": 56
       },
       "sleeper": {
         "overall": 165,
-        "position": 50
+        "position": 51
       }
     }
   },
@@ -5113,7 +5039,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 127,
+        "overall": 129,
         "position": 56
       },
       "espn": {
@@ -5125,19 +5051,19 @@
         "position": 56
       },
       "fantasypros": {
-        "overall": 140,
+        "overall": 138,
         "position": 56
       },
       "draftsharks": {
-        "overall": 138,
+        "overall": 142,
         "position": 54
       },
       "yahoo": {
-        "overall": 163,
+        "overall": 165,
         "position": 56
       },
       "sleeper": {
-        "overall": 147,
+        "overall": 148,
         "position": 57
       }
     }
@@ -5150,32 +5076,180 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 134,
+        "overall": 135,
         "position": 46
       },
       "espn": {
-        "overall": 165,
-        "position": 53
+        "overall": 135,
+        "position": 45
       },
       "espnOffline": {
         "overall": 156,
         "position": 50
       },
       "fantasypros": {
-        "overall": 141,
-        "position": 48
+        "overall": 139,
+        "position": 47
       },
       "draftsharks": {
-        "overall": 161,
+        "overall": 159,
         "position": 50
       },
       "yahoo": {
         "overall": 173,
-        "position": 51
+        "position": 48
       },
       "sleeper": {
         "overall": 143,
-        "position": 46
+        "position": 47
+      }
+    }
+  },
+  {
+    "id": "searbzachcharbonnet",
+    "name": "Zach Charbonnet",
+    "team": "SEA",
+    "position": "RB",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 146,
+        "position": 49
+      },
+      "espn": {
+        "overall": 132,
+        "position": 43
+      },
+      "espnOffline": {
+        "overall": 138,
+        "position": 43
+      },
+      "fantasypros": {
+        "overall": 140,
+        "position": 48
+      },
+      "draftsharks": {
+        "overall": 125,
+        "position": 43
+      },
+      "yahoo": {
+        "overall": 176,
+        "position": 50
+      },
+      "sleeper": {
+        "overall": 140,
+        "position": 45
+      }
+    }
+  },
+  {
+    "id": "miaqbmalikwillis",
+    "name": "Malik Willis",
+    "team": "MIA",
+    "position": "QB",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 145,
+        "position": 21
+      },
+      "espn": {
+        "overall": 160,
+        "position": 22
+      },
+      "espnOffline": {
+        "overall": 150,
+        "position": 21
+      },
+      "fantasypros": {
+        "overall": 141,
+        "position": 21
+      },
+      "draftsharks": {
+        "overall": 126,
+        "position": 21
+      },
+      "yahoo": {
+        "overall": 140,
+        "position": 24
+      },
+      "sleeper": {
+        "overall": 193,
+        "position": 23
+      }
+    }
+  },
+  {
+    "id": "nowrjordyntyson",
+    "name": "Jordyn Tyson",
+    "team": "NO",
+    "position": "WR",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 128,
+        "position": 55
+      },
+      "espn": {
+        "overall": 161,
+        "position": 67
+      },
+      "espnOffline": {
+        "overall": 151,
+        "position": 64
+      },
+      "fantasypros": {
+        "overall": 142,
+        "position": 57
+      },
+      "draftsharks": {
+        "overall": 135,
+        "position": 53
+      },
+      "yahoo": {
+        "overall": 94,
+        "position": 37
+      },
+      "sleeper": {
+        "overall": 96,
+        "position": 40
+      }
+    }
+  },
+  {
+    "id": "phirbtankbigsby",
+    "name": "Tank Bigsby",
+    "team": "PHI",
+    "position": "RB",
+    "bye": "10",
+    "rankings": {
+      "nfc": {
+        "overall": 147,
+        "position": 50
+      },
+      "espn": {
+        "overall": 170,
+        "position": 55
+      },
+      "espnOffline": {
+        "overall": 166,
+        "position": 53
+      },
+      "fantasypros": {
+        "overall": 143,
+        "position": 49
+      },
+      "draftsharks": {
+        "overall": 203,
+        "position": 56
+      },
+      "yahoo": {
+        "overall": 181,
+        "position": 51
+      },
+      "sleeper": {
+        "overall": 164,
+        "position": 50
       }
     }
   },
@@ -5187,7 +5261,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 160,
+        "overall": 157,
         "position": 22
       },
       "espn": {
@@ -5199,20 +5273,57 @@
         "position": 24
       },
       "fantasypros": {
-        "overall": 142,
+        "overall": 144,
         "position": 22
       },
       "draftsharks": {
-        "overall": 177,
+        "overall": 176,
         "position": 26
       },
       "yahoo": {
-        "overall": 131,
-        "position": 20
+        "overall": 132,
+        "position": 21
       },
       "sleeper": {
-        "overall": 183,
+        "overall": 185,
         "position": 20
+      }
+    }
+  },
+  {
+    "id": "lvrbmikewashingtonjr.",
+    "name": "Mike Washington Jr.",
+    "team": "LV",
+    "position": "RB",
+    "bye": "13",
+    "rankings": {
+      "nfc": {
+        "overall": 125,
+        "position": 41
+      },
+      "espn": {
+        "overall": 165,
+        "position": 53
+      },
+      "espnOffline": {
+        "overall": 157,
+        "position": 51
+      },
+      "fantasypros": {
+        "overall": 145,
+        "position": 50
+      },
+      "draftsharks": {
+        "overall": 137,
+        "position": 47
+      },
+      "yahoo": {
+        "overall": 130,
+        "position": 40
+      },
+      "sleeper": {
+        "overall": 136,
+        "position": 44
       }
     }
   },
@@ -5225,105 +5336,105 @@
     "rankings": {
       "nfc": {
         "overall": 171,
-        "position": 20
+        "position": 21
       },
       "espn": {
-        "overall": 145,
-        "position": 18
+        "overall": 143,
+        "position": 17
       },
       "espnOffline": {
         "overall": 118,
         "position": 17
       },
       "fantasypros": {
-        "overall": 143,
+        "overall": 146,
         "position": 17
       },
       "draftsharks": {
-        "overall": 167,
+        "overall": 166,
         "position": 18
       },
       "yahoo": {
-        "overall": 161,
+        "overall": 163,
         "position": 22
       },
       "sleeper": {
-        "overall": 150,
-        "position": 17
+        "overall": 149,
+        "position": 16
       }
     }
   },
   {
-    "id": "sfwrde'zhaunstribling",
-    "name": "De'Zhaun Stribling",
-    "team": "SF",
-    "position": "WR",
+    "id": "houtedaltonschultz",
+    "name": "Dalton Schultz",
+    "team": "HOU",
+    "position": "TE",
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 86,
-        "position": 42
+        "overall": 167,
+        "position": 20
       },
       "espn": {
-        "overall": 121,
-        "position": 52
+        "overall": 181,
+        "position": 23
       },
       "espnOffline": {
-        "overall": 90,
-        "position": 43
+        "overall": 207,
+        "position": 23
       },
       "fantasypros": {
-        "overall": 144,
-        "position": 57
+        "overall": 148,
+        "position": 18
       },
       "draftsharks": {
-        "overall": 139,
-        "position": 55
+        "overall": 210,
+        "position": 22
       },
       "yahoo": {
-        "overall": 113,
-        "position": 43
+        "overall": 160,
+        "position": 20
       },
       "sleeper": {
-        "overall": 124,
-        "position": 51
+        "overall": 211,
+        "position": 25
       }
     }
   },
   {
-    "id": "searbzachcharbonnet",
-    "name": "Zach Charbonnet",
-    "team": "SEA",
+    "id": "nyjrbbraelonallen",
+    "name": "Braelon Allen",
+    "team": "NYJ",
     "position": "RB",
-    "bye": "11",
+    "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 144,
-        "position": 49
+        "overall": 168,
+        "position": 55
       },
       "espn": {
-        "overall": 129,
-        "position": 42
+        "overall": 166,
+        "position": 54
       },
       "espnOffline": {
-        "overall": 137,
-        "position": 42
+        "overall": 158,
+        "position": 52
       },
       "fantasypros": {
-        "overall": 145,
-        "position": 49
+        "overall": 149,
+        "position": 52
       },
       "draftsharks": {
-        "overall": 125,
-        "position": 42
+        "overall": 187,
+        "position": 54
       },
       "yahoo": {
-        "overall": 171,
-        "position": 49
+        "overall": 166,
+        "position": 47
       },
       "sleeper": {
-        "overall": 139,
-        "position": 44
+        "overall": 187,
+        "position": 56
       }
     }
   },
@@ -5335,7 +5446,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 159,
+        "overall": 160,
         "position": 19
       },
       "espn": {
@@ -5347,16 +5458,16 @@
         "position": 25
       },
       "fantasypros": {
-        "overall": 147,
-        "position": 18
+        "overall": 150,
+        "position": 19
       },
       "draftsharks": {
-        "overall": 209,
+        "overall": 207,
         "position": 21
       },
       "yahoo": {
-        "overall": 151,
-        "position": 17
+        "overall": 154,
+        "position": 18
       },
       "sleeper": {
         "overall": 195,
@@ -5372,7 +5483,7 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 188,
+        "overall": 183,
         "position": 24
       },
       "espn": {
@@ -5384,7 +5495,7 @@
         "position": 23
       },
       "fantasypros": {
-        "overall": 148,
+        "overall": 151,
         "position": 23
       },
       "draftsharks": {
@@ -5392,11 +5503,11 @@
         "position": 24
       },
       "yahoo": {
-        "overall": 140,
-        "position": 24
+        "overall": 141,
+        "position": 25
       },
       "sleeper": {
-        "overall": 207,
+        "overall": 210,
         "position": 24
       }
     }
@@ -5409,143 +5520,32 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 170,
-        "position": 55
+        "overall": 173,
+        "position": 56
       },
       "espn": {
-        "overall": 133,
-        "position": 44
+        "overall": 140,
+        "position": 47
       },
       "espnOffline": {
         "overall": 155,
         "position": 49
       },
       "fantasypros": {
-        "overall": 149,
-        "position": 51
-      },
-      "draftsharks": {
-        "overall": 164,
-        "position": 51
-      },
-      "yahoo": {
-        "overall": 149,
-        "position": 46
-      },
-      "sleeper": {
-        "overall": 171,
-        "position": 53
-      }
-    }
-  },
-  {
-    "id": "houtedaltonschultz",
-    "name": "Dalton Schultz",
-    "team": "HOU",
-    "position": "TE",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 172,
-        "position": 21
-      },
-      "espn": {
-        "overall": 181,
-        "position": 23
-      },
-      "espnOffline": {
-        "overall": 207,
-        "position": 23
-      },
-      "fantasypros": {
-        "overall": 150,
-        "position": 19
-      },
-      "draftsharks": {
-        "overall": 212,
-        "position": 22
-      },
-      "yahoo": {
-        "overall": 160,
-        "position": 21
-      },
-      "sleeper": {
-        "overall": 210,
-        "position": 25
-      }
-    }
-  },
-  {
-    "id": "gbrbmarshawnlloyd",
-    "name": "MarShawn Lloyd",
-    "team": "GB",
-    "position": "RB",
-    "bye": "11",
-    "rankings": {
-      "nfc": {
-        "overall": 132,
-        "position": 45
-      },
-      "espn": {
-        "overall": 150,
-        "position": 50
-      },
-      "espnOffline": {
-        "overall": 142,
-        "position": 47
-      },
-      "fantasypros": {
-        "overall": 151,
-        "position": 52
-      },
-      "draftsharks": {
-        "overall": 142,
-        "position": 47
-      },
-      "yahoo": {
-        "overall": 170,
-        "position": 48
-      },
-      "sleeper": {
-        "overall": 160,
-        "position": 49
-      }
-    }
-  },
-  {
-    "id": "norbalvinkamara",
-    "name": "Alvin Kamara",
-    "team": "NO",
-    "position": "RB",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 182,
-        "position": 57
-      },
-      "espn": {
-        "overall": 135,
-        "position": 45
-      },
-      "espnOffline": {
-        "overall": 195,
-        "position": 57
-      },
-      "fantasypros": {
         "overall": 152,
         "position": 53
       },
       "draftsharks": {
-        "overall": 172,
-        "position": 53
+        "overall": 165,
+        "position": 51
       },
       "yahoo": {
-        "overall": 144,
-        "position": 44
+        "overall": 150,
+        "position": 43
       },
       "sleeper": {
-        "overall": 154,
-        "position": 47
+        "overall": 171,
+        "position": 53
       }
     }
   },
@@ -5557,7 +5557,7 @@
     "bye": "9",
     "rankings": {
       "nfc": {
-        "overall": 193,
+        "overall": 188,
         "position": 25
       },
       "espn": {
@@ -5569,57 +5569,20 @@
         "position": 26
       },
       "fantasypros": {
-        "overall": 154,
+        "overall": 153,
         "position": 24
       },
       "draftsharks": {
-        "overall": 140,
+        "overall": 139,
         "position": 23
       },
       "yahoo": {
-        "overall": 137,
-        "position": 22
+        "overall": 138,
+        "position": 23
       },
       "sleeper": {
         "overall": 231,
         "position": 26
-      }
-    }
-  },
-  {
-    "id": "nygrbtyronetracyjr.",
-    "name": "Tyrone Tracy Jr.",
-    "team": "NYG",
-    "position": "RB",
-    "bye": "8",
-    "rankings": {
-      "nfc": {
-        "overall": 148,
-        "position": 51
-      },
-      "espn": {
-        "overall": 211,
-        "position": 69
-      },
-      "espnOffline": {
-        "overall": 241,
-        "position": 69
-      },
-      "fantasypros": {
-        "overall": 155,
-        "position": 54
-      },
-      "draftsharks": {
-        "overall": 170,
-        "position": 52
-      },
-      "yahoo": {
-        "overall": 183,
-        "position": 54
-      },
-      "sleeper": {
-        "overall": 133,
-        "position": 43
       }
     }
   },
@@ -5631,7 +5594,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 156,
+        "overall": 154,
         "position": 18
       },
       "espn": {
@@ -5643,20 +5606,94 @@
         "position": 21
       },
       "fantasypros": {
-        "overall": 156,
+        "overall": 154,
         "position": 20
       },
       "draftsharks": {
-        "overall": 151,
+        "overall": 153,
         "position": 16
       },
       "yahoo": {
-        "overall": 166,
+        "overall": 167,
         "position": 23
       },
       "sleeper": {
-        "overall": 157,
+        "overall": 168,
         "position": 18
+      }
+    }
+  },
+  {
+    "id": "gbrbjoshjacobs",
+    "name": "Josh Jacobs",
+    "team": "GB",
+    "position": "RB",
+    "bye": "11",
+    "rankings": {
+      "nfc": {
+        "overall": 54,
+        "position": 21
+      },
+      "espn": {
+        "overall": 81,
+        "position": 30
+      },
+      "espnOffline": {
+        "overall": 62,
+        "position": 25
+      },
+      "fantasypros": {
+        "overall": 155,
+        "position": 54
+      },
+      "draftsharks": {
+        "overall": 118,
+        "position": 40
+      },
+      "yahoo": {
+        "overall": 102,
+        "position": 33
+      },
+      "sleeper": {
+        "overall": 100,
+        "position": 37
+      }
+    }
+  },
+  {
+    "id": "norbalvinkamara",
+    "name": "Alvin Kamara",
+    "team": "NO",
+    "position": "RB",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 181,
+        "position": 57
+      },
+      "espn": {
+        "overall": 141,
+        "position": 48
+      },
+      "espnOffline": {
+        "overall": 195,
+        "position": 57
+      },
+      "fantasypros": {
+        "overall": 156,
+        "position": 55
+      },
+      "draftsharks": {
+        "overall": 172,
+        "position": 53
+      },
+      "yahoo": {
+        "overall": 151,
+        "position": 44
+      },
+      "sleeper": {
+        "overall": 156,
+        "position": 48
       }
     }
   },
@@ -5668,7 +5705,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 173,
+        "overall": 170,
         "position": 23
       },
       "espn": {
@@ -5680,20 +5717,57 @@
         "position": 19
       },
       "fantasypros": {
-        "overall": 157,
+        "overall": 158,
         "position": 25
       },
       "draftsharks": {
-        "overall": 126,
+        "overall": 128,
         "position": 22
       },
       "yahoo": {
-        "overall": 155,
-        "position": 26
+        "overall": 156,
+        "position": 27
       },
       "sleeper": {
-        "overall": 212,
+        "overall": 213,
         "position": 25
+      }
+    }
+  },
+  {
+    "id": "nygrbtyronetracyjr.",
+    "name": "Tyrone Tracy Jr.",
+    "team": "NYG",
+    "position": "RB",
+    "bye": "8",
+    "rankings": {
+      "nfc": {
+        "overall": 155,
+        "position": 51
+      },
+      "espn": {
+        "overall": 213,
+        "position": 71
+      },
+      "espnOffline": {
+        "overall": 244,
+        "position": 71
+      },
+      "fantasypros": {
+        "overall": 159,
+        "position": 56
+      },
+      "draftsharks": {
+        "overall": 169,
+        "position": 52
+      },
+      "yahoo": {
+        "overall": 185,
+        "position": 53
+      },
+      "sleeper": {
+        "overall": 133,
+        "position": 43
       }
     }
   },
@@ -5705,11 +5779,11 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 139,
+        "overall": 142,
         "position": 58
       },
       "espn": {
-        "overall": 157,
+        "overall": 156,
         "position": 63
       },
       "espnOffline": {
@@ -5717,20 +5791,20 @@
         "position": 58
       },
       "fantasypros": {
-        "overall": 158,
+        "overall": 160,
         "position": 59
       },
       "draftsharks": {
-        "overall": 157,
+        "overall": 162,
         "position": 59
       },
       "yahoo": {
-        "overall": 186,
-        "position": 64
+        "overall": 189,
+        "position": 63
       },
       "sleeper": {
-        "overall": 158,
-        "position": 58
+        "overall": 159,
+        "position": 59
       }
     }
   },
@@ -5742,23 +5816,23 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 168,
+        "overall": 165,
         "position": 54
       },
       "espn": {
-        "overall": 156,
-        "position": 52
+        "overall": 151,
+        "position": 51
       },
       "espnOffline": {
-        "overall": 140,
-        "position": 45
+        "overall": 141,
+        "position": 46
       },
       "fantasypros": {
-        "overall": 160,
-        "position": 55
+        "overall": 163,
+        "position": 58
       },
       "draftsharks": {
-        "overall": 153,
+        "overall": 147,
         "position": 49
       },
       "yahoo": {
@@ -5779,8 +5853,8 @@
     "bye": "10",
     "rankings": {
       "nfc": {
-        "overall": 154,
-        "position": 60
+        "overall": 152,
+        "position": 61
       },
       "espn": {
         "overall": 134,
@@ -5791,94 +5865,20 @@
         "position": 57
       },
       "fantasypros": {
-        "overall": 163,
-        "position": 62
+        "overall": 166,
+        "position": 63
       },
       "draftsharks": {
-        "overall": 148,
+        "overall": 150,
         "position": 57
       },
       "yahoo": {
-        "overall": 168,
+        "overall": 170,
         "position": 58
       },
       "sleeper": {
-        "overall": 198,
-        "position": 64
-      }
-    }
-  },
-  {
-    "id": "minwrjauanjennings",
-    "name": "Jauan Jennings",
-    "team": "MIN",
-    "position": "WR",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 169,
+        "overall": 197,
         "position": 63
-      },
-      "espn": {
-        "overall": 177,
-        "position": 74
-      },
-      "espnOffline": {
-        "overall": 201,
-        "position": 73
-      },
-      "fantasypros": {
-        "overall": 164,
-        "position": 63
-      },
-      "draftsharks": {
-        "overall": 222,
-        "position": 63
-      },
-      "yahoo": {
-        "overall": 146,
-        "position": 51
-      },
-      "sleeper": {
-        "overall": 200,
-        "position": 65
-      }
-    }
-  },
-  {
-    "id": "lvrbmikewashingtonjr.",
-    "name": "Mike Washington Jr.",
-    "team": "LV",
-    "position": "RB",
-    "bye": "13",
-    "rankings": {
-      "nfc": {
-        "overall": 121,
-        "position": 40
-      },
-      "espn": {
-        "overall": 166,
-        "position": 54
-      },
-      "espnOffline": {
-        "overall": 157,
-        "position": 51
-      },
-      "fantasypros": {
-        "overall": 166,
-        "position": 57
-      },
-      "draftsharks": {
-        "overall": 135,
-        "position": 45
-      },
-      "yahoo": {
-        "overall": 129,
-        "position": 40
-      },
-      "sleeper": {
-        "overall": 159,
-        "position": 48
       }
     }
   },
@@ -5890,7 +5890,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 152,
+        "overall": 153,
         "position": 17
       },
       "espn": {
@@ -5902,7 +5902,7 @@
         "position": 18
       },
       "fantasypros": {
-        "overall": 170,
+        "overall": 167,
         "position": 21
       },
       "draftsharks": {
@@ -5910,12 +5910,49 @@
         "position": 19
       },
       "yahoo": {
-        "overall": 156,
-        "position": 20
+        "overall": 161,
+        "position": 21
       },
       "sleeper": {
-        "overall": 206,
+        "overall": 208,
         "position": 24
+      }
+    }
+  },
+  {
+    "id": "minwrjauanjennings",
+    "name": "Jauan Jennings",
+    "team": "MIN",
+    "position": "WR",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 174,
+        "position": 63
+      },
+      "espn": {
+        "overall": 177,
+        "position": 74
+      },
+      "espnOffline": {
+        "overall": 201,
+        "position": 73
+      },
+      "fantasypros": {
+        "overall": 170,
+        "position": 66
+      },
+      "draftsharks": {
+        "overall": 227,
+        "position": 62
+      },
+      "yahoo": {
+        "overall": 152,
+        "position": 52
+      },
+      "sleeper": {
+        "overall": 217,
+        "position": 65
       }
     }
   },
@@ -5927,7 +5964,7 @@
     "bye": "11",
     "rankings": {
       "nfc": {
-        "overall": 192,
+        "overall": 189,
         "position": 24
       },
       "espn": {
@@ -5939,19 +5976,19 @@
         "position": 26
       },
       "fantasypros": {
-        "overall": 171,
+        "overall": 172,
         "position": 22
       },
       "draftsharks": {
-        "overall": 247,
+        "overall": 251,
         "position": 24
       },
       "yahoo": {
-        "overall": 143,
-        "position": 16
+        "overall": 144,
+        "position": 17
       },
       "sleeper": {
-        "overall": 196,
+        "overall": 199,
         "position": 23
       }
     }
@@ -5964,7 +6001,7 @@
     "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 211,
+        "overall": 207,
         "position": 26
       },
       "espn": {
@@ -5976,131 +6013,20 @@
         "position": 25
       },
       "fantasypros": {
-        "overall": 172,
+        "overall": 173,
         "position": 26
       },
       "draftsharks": {
-        "overall": 176,
+        "overall": 175,
         "position": 25
       },
       "yahoo": {
-        "overall": 128,
-        "position": 19
-      },
-      "sleeper": {
-        "overall": 234,
-        "position": 27
-      }
-    }
-  },
-  {
-    "id": "nyjwromarcooperjr.",
-    "name": "Omar Cooper Jr.",
-    "team": "NYJ",
-    "position": "WR",
-    "bye": "13",
-    "rankings": {
-      "nfc": {
-        "overall": 187,
-        "position": 65
-      },
-      "espn": {
-        "overall": 183,
-        "position": 78
-      },
-      "espnOffline": {
-        "overall": 209,
-        "position": 78
-      },
-      "fantasypros": {
-        "overall": 175,
-        "position": 69
-      },
-      "draftsharks": {
-        "overall": 210,
-        "position": 61
-      },
-      "yahoo": {
-        "overall": 173,
-        "position": 60
-      },
-      "sleeper": {
-        "overall": 191,
-        "position": 63
-      }
-    }
-  },
-  {
-    "id": "kcrbemmettjohnson",
-    "name": "Emmett Johnson",
-    "team": "KC",
-    "position": "RB",
-    "bye": "5",
-    "rankings": {
-      "nfc": {
-        "overall": 157,
-        "position": 52
-      },
-      "espn": {
-        "overall": 215,
-        "position": 73
-      },
-      "espnOffline": {
-        "overall": 245,
-        "position": 73
-      },
-      "fantasypros": {
-        "overall": 176,
-        "position": 59
-      },
-      "draftsharks": {
-        "overall": 190,
-        "position": 55
-      },
-      "yahoo": {
-        "overall": 158,
-        "position": 47
-      },
-      "sleeper": {
-        "overall": 197,
-        "position": 56
-      }
-    }
-  },
-  {
-    "id": "mintet.j.hockenson",
-    "name": "T.J. Hockenson",
-    "team": "MIN",
-    "position": "TE",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 189,
-        "position": 23
-      },
-      "espn": {
-        "overall": 143,
-        "position": 17
-      },
-      "espnOffline": {
-        "overall": 117,
-        "position": 16
-      },
-      "fantasypros": {
-        "overall": 177,
-        "position": 23
-      },
-      "draftsharks": {
-        "overall": 226,
-        "position": 23
-      },
-      "yahoo": {
-        "overall": 167,
-        "position": 24
-      },
-      "sleeper": {
-        "overall": 182,
+        "overall": 129,
         "position": 20
+      },
+      "sleeper": {
+        "overall": 233,
+        "position": 27
       }
     }
   },
@@ -6112,11 +6038,11 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 146,
+        "overall": 148,
         "position": 59
       },
       "espn": {
-        "overall": 164,
+        "overall": 163,
         "position": 69
       },
       "espnOffline": {
@@ -6124,57 +6050,94 @@
         "position": 66
       },
       "fantasypros": {
-        "overall": 179,
-        "position": 71
+        "overall": 174,
+        "position": 68
       },
       "draftsharks": {
-        "overall": 217,
-        "position": 62
-      },
-      "yahoo": {
-        "overall": 175,
+        "overall": 222,
         "position": 61
       },
+      "yahoo": {
+        "overall": 171,
+        "position": 59
+      },
       "sleeper": {
-        "overall": 167,
+        "overall": 166,
         "position": 60
       }
     }
   },
   {
-    "id": "indwrkeenanallen",
-    "name": "Keenan Allen",
-    "team": "IND",
-    "position": "WR",
-    "bye": "13",
+    "id": "kcrbemmettjohnson",
+    "name": "Emmett Johnson",
+    "team": "KC",
+    "position": "RB",
+    "bye": "5",
     "rankings": {
       "nfc": {
-        "overall": 166,
-        "position": 62
+        "overall": 156,
+        "position": 52
       },
       "espn": {
-        "overall": 147,
-        "position": 59
+        "overall": 210,
+        "position": 68
       },
       "espnOffline": {
-        "overall": 161,
-        "position": 67
+        "overall": 240,
+        "position": 68
       },
       "fantasypros": {
-        "overall": 181,
-        "position": 73
+        "overall": 176,
+        "position": 59
       },
       "draftsharks": {
-        "overall": 178,
-        "position": 60
+        "overall": 188,
+        "position": 55
       },
       "yahoo": {
-        "overall": 142,
-        "position": 50
+        "overall": 158,
+        "position": 46
       },
       "sleeper": {
+        "overall": 194,
+        "position": 57
+      }
+    }
+  },
+  {
+    "id": "mintet.j.hockenson",
+    "name": "T.J. Hockenson",
+    "team": "MIN",
+    "position": "TE",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 186,
+        "position": 23
+      },
+      "espn": {
+        "overall": 145,
+        "position": 18
+      },
+      "espnOffline": {
+        "overall": 117,
+        "position": 16
+      },
+      "fantasypros": {
         "overall": 178,
-        "position": 62
+        "position": 23
+      },
+      "draftsharks": {
+        "overall": 226,
+        "position": 23
+      },
+      "yahoo": {
+        "overall": 168,
+        "position": 24
+      },
+      "sleeper": {
+        "overall": 184,
+        "position": 21
       }
     }
   },
@@ -6186,7 +6149,7 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 183,
+        "overall": 184,
         "position": 22
       },
       "espn": {
@@ -6198,20 +6161,57 @@
         "position": 32
       },
       "fantasypros": {
-        "overall": 182,
+        "overall": 181,
         "position": 24
       },
       "draftsharks": {
-        "overall": 322,
+        "overall": 324,
         "position": 26
       },
       "yahoo": {
-        "overall": 153,
+        "overall": 155,
         "position": 19
       },
       "sleeper": {
-        "overall": 149,
-        "position": 16
+        "overall": 155,
+        "position": 17
+      }
+    }
+  },
+  {
+    "id": "indwrkeenanallen",
+    "name": "Keenan Allen",
+    "team": "IND",
+    "position": "WR",
+    "bye": "13",
+    "rankings": {
+      "nfc": {
+        "overall": 172,
+        "position": 62
+      },
+      "espn": {
+        "overall": 147,
+        "position": 59
+      },
+      "espnOffline": {
+        "overall": 161,
+        "position": 67
+      },
+      "fantasypros": {
+        "overall": 182,
+        "position": 71
+      },
+      "draftsharks": {
+        "overall": 184,
+        "position": 60
+      },
+      "yahoo": {
+        "overall": 148,
+        "position": 51
+      },
+      "sleeper": {
+        "overall": 178,
+        "position": 62
       }
     }
   },
@@ -6223,7 +6223,7 @@
     "bye": "13",
     "rankings": {
       "nfc": {
-        "overall": 195,
+        "overall": 191,
         "position": 25
       },
       "espn": {
@@ -6235,57 +6235,20 @@
         "position": 19
       },
       "fantasypros": {
-        "overall": 186,
+        "overall": 185,
         "position": 25
       },
       "draftsharks": {
-        "overall": 203,
+        "overall": 204,
         "position": 20
       },
       "yahoo": {
-        "overall": 176,
+        "overall": 178,
         "position": 25
       },
       "sleeper": {
-        "overall": 173,
+        "overall": 176,
         "position": 19
-      }
-    }
-  },
-  {
-    "id": "dalrbjaydonblue",
-    "name": "Jaydon Blue",
-    "team": "DAL",
-    "position": "RB",
-    "bye": "14",
-    "rankings": {
-      "nfc": {
-        "overall": 175,
-        "position": 56
-      },
-      "espn": {
-        "overall": 209,
-        "position": 67
-      },
-      "espnOffline": {
-        "overall": 239,
-        "position": 67
-      },
-      "fantasypros": {
-        "overall": 198,
-        "position": 63
-      },
-      "draftsharks": {
-        "overall": 180,
-        "position": 54
-      },
-      "yahoo": {
-        "overall": 145,
-        "position": 45
-      },
-      "sleeper": {
-        "overall": 211,
-        "position": 57
       }
     }
   },
@@ -6297,8 +6260,8 @@
     "bye": "7",
     "rankings": {
       "nfc": {
-        "overall": 194,
-        "position": 66
+        "overall": 196,
+        "position": 65
       },
       "espn": {
         "overall": 90,
@@ -6309,20 +6272,57 @@
         "position": 62
       },
       "fantasypros": {
-        "overall": 200,
-        "position": 75
+        "overall": 207,
+        "position": 76
       },
       "draftsharks": {
-        "overall": 283,
-        "position": 65
+        "overall": 291,
+        "position": 64
       },
       "yahoo": {
         "overall": 250,
-        "position": 67
+        "position": 66
       },
       "sleeper": {
-        "overall": 176,
+        "overall": 175,
         "position": 61
+      }
+    }
+  },
+  {
+    "id": "pitqbaaronrodgers",
+    "name": "Aaron Rodgers",
+    "team": "PIT",
+    "position": "QB",
+    "bye": "9",
+    "rankings": {
+      "nfc": {
+        "overall": 213,
+        "position": 27
+      },
+      "espn": {
+        "overall": 234,
+        "position": 30
+      },
+      "espnOffline": {
+        "overall": 269,
+        "position": 30
+      },
+      "fantasypros": {
+        "overall": 209,
+        "position": 28
+      },
+      "draftsharks": {
+        "overall": 190,
+        "position": 27
+      },
+      "yahoo": {
+        "overall": 121,
+        "position": 18
+      },
+      "sleeper": {
+        "overall": 235,
+        "position": 28
       }
     }
   },
@@ -6335,105 +6335,31 @@
     "rankings": {
       "nfc": {
         "overall": 209,
-        "position": 67
+        "position": 66
       },
       "espn": {
-        "overall": 198,
-        "position": 81
+        "overall": 201,
+        "position": 82
       },
       "espnOffline": {
-        "overall": 224,
-        "position": 81
+        "overall": 227,
+        "position": 82
       },
       "fantasypros": {
-        "overall": 210,
+        "overall": 212,
         "position": 77
       },
       "draftsharks": {
-        "overall": 294,
-        "position": 66
+        "overall": 299,
+        "position": 65
       },
       "yahoo": {
-        "overall": 126,
+        "overall": 128,
         "position": 48
       },
       "sleeper": {
-        "overall": 203,
-        "position": 66
-      }
-    }
-  },
-  {
-    "id": "detwrisaacteslaa",
-    "name": "Isaac TeSlaa",
-    "team": "DET",
-    "position": "WR",
-    "bye": "6",
-    "rankings": {
-      "nfc": {
-        "overall": 184,
+        "overall": 205,
         "position": 64
-      },
-      "espn": {
-        "overall": 222,
-        "position": 91
-      },
-      "espnOffline": {
-        "overall": 253,
-        "position": 91
-      },
-      "fantasypros": {
-        "overall": 218,
-        "position": 79
-      },
-      "draftsharks": {
-        "overall": 333,
-        "position": 67
-      },
-      "yahoo": {
-        "overall": 139,
-        "position": 49
-      },
-      "sleeper": {
-        "overall": 214,
-        "position": 67
-      }
-    }
-  },
-  {
-    "id": "arirbjamesconner",
-    "name": "James Conner",
-    "team": "ARI",
-    "position": "RB",
-    "bye": "14",
-    "rankings": {
-      "nfc": {
-        "overall": 230,
-        "position": 58
-      },
-      "espn": {
-        "overall": 218,
-        "position": 76
-      },
-      "espnOffline": {
-        "overall": 249,
-        "position": 76
-      },
-      "fantasypros": {
-        "overall": 222,
-        "position": 66
-      },
-      "draftsharks": {
-        "overall": 204,
-        "position": 56
-      },
-      "yahoo": {
-        "overall": 141,
-        "position": 43
-      },
-      "sleeper": {
-        "overall": 218,
-        "position": 58
       }
     }
   },
@@ -6445,32 +6371,106 @@
     "bye": "8",
     "rankings": {
       "nfc": {
-        "overall": 163,
+        "overall": 164,
         "position": 53
       },
       "espn": {
-        "overall": 187,
-        "position": 60
+        "overall": 186,
+        "position": 59
       },
       "espnOffline": {
-        "overall": 213,
-        "position": 60
+        "overall": 212,
+        "position": 59
       },
       "fantasypros": {
-        "overall": 230,
-        "position": 69
+        "overall": 217,
+        "position": 63
       },
       "draftsharks": {
-        "overall": 214,
-        "position": 58
+        "overall": 212,
+        "position": 57
       },
       "yahoo": {
-        "overall": 182,
-        "position": 53
+        "overall": 186,
+        "position": 54
       },
       "sleeper": {
         "overall": 177,
         "position": 55
+      }
+    }
+  },
+  {
+    "id": "detwrisaacteslaa",
+    "name": "Isaac TeSlaa",
+    "team": "DET",
+    "position": "WR",
+    "bye": "6",
+    "rankings": {
+      "nfc": {
+        "overall": 185,
+        "position": 64
+      },
+      "espn": {
+        "overall": 227,
+        "position": 93
+      },
+      "espnOffline": {
+        "overall": 262,
+        "position": 93
+      },
+      "fantasypros": {
+        "overall": 225,
+        "position": 79
+      },
+      "draftsharks": {
+        "overall": 337,
+        "position": 66
+      },
+      "yahoo": {
+        "overall": 139,
+        "position": 49
+      },
+      "sleeper": {
+        "overall": 234,
+        "position": 66
+      }
+    }
+  },
+  {
+    "id": "balwrja'kobilane",
+    "name": "Ja'Kobi Lane",
+    "team": "BAL",
+    "position": "WR",
+    "bye": "13",
+    "rankings": {
+      "nfc": {
+        "overall": 150,
+        "position": 60
+      },
+      "espn": {
+        "overall": 174,
+        "position": 73
+      },
+      "espnOffline": {
+        "overall": 197,
+        "position": 72
+      },
+      "fantasypros": {
+        "overall": 247,
+        "position": 85
+      },
+      "draftsharks": {
+        "overall": 268,
+        "position": 63
+      },
+      "yahoo": {
+        "overall": 153,
+        "position": 53
+      },
+      "sleeper": {
+        "overall": 147,
+        "position": 56
       }
     }
   },
@@ -6483,7 +6483,7 @@
     "rankings": {
       "nfc": {
         "overall": 218,
-        "position": 27
+        "position": 28
       },
       "espn": {
         "overall": 233,
@@ -6494,57 +6494,20 @@
         "position": 29
       },
       "fantasypros": {
-        "overall": 242,
+        "overall": 248,
         "position": 30
       },
       "draftsharks": {
-        "overall": 197,
-        "position": 27
+        "overall": 200,
+        "position": 28
       },
       "yahoo": {
-        "overall": 124,
-        "position": 18
+        "overall": 125,
+        "position": 19
       },
       "sleeper": {
         "overall": 188,
         "position": 21
-      }
-    }
-  },
-  {
-    "id": "balwrja'kobilane",
-    "name": "Ja'Kobi Lane",
-    "team": "BAL",
-    "position": "WR",
-    "bye": "13",
-    "rankings": {
-      "nfc": {
-        "overall": 155,
-        "position": 61
-      },
-      "espn": {
-        "overall": 174,
-        "position": 73
-      },
-      "espnOffline": {
-        "overall": 197,
-        "position": 72
-      },
-      "fantasypros": {
-        "overall": 244,
-        "position": 86
-      },
-      "draftsharks": {
-        "overall": 260,
-        "position": 64
-      },
-      "yahoo": {
-        "overall": 150,
-        "position": 52
-      },
-      "sleeper": {
-        "overall": 161,
-        "position": 59
       }
     }
   },
@@ -6556,7 +6519,7 @@
     "bye": "6",
     "rankings": {
       "nfc": {
-        "overall": 197,
+        "overall": 198,
         "position": 26
       },
       "espn": {
@@ -6568,19 +6531,19 @@
         "position": 27
       },
       "fantasypros": {
-        "overall": 263,
-        "position": 32
+        "overall": 255,
+        "position": 31
       },
       "draftsharks": {
-        "overall": 305,
+        "overall": 308,
         "position": 25
       },
       "yahoo": {
-        "overall": 190,
+        "overall": 192,
         "position": 26
       },
       "sleeper": {
-        "overall": 242,
+        "overall": 243,
         "position": 26
       }
     }
