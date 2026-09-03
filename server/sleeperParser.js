@@ -11,6 +11,8 @@ const players = JSON.parse(fs.readFileSync(playersFile, 'utf-8'));
 const nameToPlayerMap = new Map();
 for (const player of players) {
   nameToPlayerMap.set(player.name, player);
+  // hardcode in Josh Jacobs because he's not in sleeper's rankings at all
+  if (player.name === 'Josh Jacobs') player.rankings.sleeper.overall = 249;
 }
 const updatedPlayers = new Set();
 

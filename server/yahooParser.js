@@ -11,8 +11,9 @@ const players = JSON.parse(fs.readFileSync(playersFile, 'utf-8'));
 const nameToPlayerMap = new Map();
 for (const player of players) {
   nameToPlayerMap.set(player.name, player);
-  // hardcode in Travis Hunter because he's not in yahoo's rankings at all
+  // hardcode in Travis Hunter & Josh Jacobs because they're not in yahoo's rankings at all
   if (player.name === 'Travis Hunter') player.rankings.yahoo.overall = 250;
+  if (player.name === 'Josh Jacobs') player.rankings.yahoo.overall = 249;
 }
 const updatedPlayers = new Set();
 
